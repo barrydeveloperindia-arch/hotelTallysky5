@@ -52,19 +52,29 @@ sheets.forEach(sheetName => {
   
   rows.forEach((row, idx) => {
     if (row[14] && row[14] !== "FOOD BILL NO" && idx > 1) {
+      const cash = parseFloat(row[15]) || 0;
+      const upi = parseFloat(row[16]) || 0;
+      const card = parseFloat(row[17]) || 0;
+      const treeboComp = parseFloat(row[18]) || 0;
+      const pending = parseFloat(row[19]) || 0;
+      const treeboCL = parseFloat(row[20]) || 0;
+      const disha = parseFloat(row[21]) || 0;
+      const total = cash + upi + card + treeboComp + pending + treeboCL + disha;
+
       daybookFood.push({
         sheet: sheetName,
         rowIdx: idx + 1,
         billNo: row[14],
         roomNo: row[2],
         guestName: row[3] || row[16] || '',
-        cash: parseFloat(row[17]) || 0,
-        upi: parseFloat(row[18]) || 0,
-        card: parseFloat(row[19]) || 0,
-        treeboComp: parseFloat(row[20]) || 0,
-        treeboCL: parseFloat(row[22]) || 0,
-        disha: parseFloat(row[23]) || 0,
-        total: parseFloat(row[24]) || 0
+        cash,
+        upi,
+        card,
+        treeboComp,
+        pending,
+        treeboCL,
+        disha,
+        total
       });
     }
   });
@@ -154,8 +164,27 @@ entries.forEach(entry => {
   
   // Match Food Bills
   if (billNo !== 'N/A') {
-    const cleanBillNo = billNo.replace(/^pos-/i, '').split('-')[0];
-    matchedFood = daybookFood.find(f => f.billNo && f.billNo.toString().includes(cleanBillNo));
+    const cleanBillNo = billNo.replace(/^pos-/i, '').split('-')[0]
+      .replace(/i/g, '1')
+      .replace(/l/g, '1')
+      .replace(/o/g, '0')
+      .replace(/s/g, '5')
+      .replace(/S/g, '5');
+    matchedFood = daybookFood.find(f => {
+      const dbBillClean = f.billNo ? f.billNo.toString().replace(/[^0-9]/g, '') : '';
+      const ocrBillClean = cleanBillNo.replace(/[^0-9]/g, '');
+      return dbBillClean && ocrBillClean && (dbBillClean.includes(ocrBillClean) || ocrBillClean.includes(dbBillClean));
+    });
+  }
+  
+  // Check if it is a complementary food bill containing "CL"
+  const isCL = tableNo.toLowerCase().includes('cl') || 
+               roomNo.toLowerCase().includes('cl') || 
+               payMode.toLowerCase().includes('cl') || 
+               content.toLowerCase().includes('table no: cl') || 
+               content.toLowerCase().includes('table no cl');
+  if (isCL) {
+    return; // Exclude complementary food bills containing CL
   }
   
   results.push({

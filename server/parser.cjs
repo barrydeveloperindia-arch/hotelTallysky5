@@ -126,14 +126,15 @@ function parseDayBook() {
         const billNo = cols[14];
         const roomField = cols[2]; // Read from main Room No column
         const rooms = extractRoomNumbers(roomField);
-        const guestName = cols[16] || cols[3]; // Fallback to room guest name if food guest name is empty
-        const cash = parseFloat(cols[17]) || 0;
-        const upi = parseFloat(cols[18]) || 0;
-        const card = parseFloat(cols[19]) || 0;
-        const treeboComp = parseFloat(cols[20]) || 0;
-        const treeboCL = parseFloat(cols[22]) || 0;
-        const disha = parseFloat(cols[23]) || 0;
-        const total = cash + upi + card + treeboComp + treeboCL + disha;
+        const guestName = cols[3]; // Guest name is in Column D (index 3)
+        const cash = parseFloat(cols[15]) || 0;
+        const upi = parseFloat(cols[16]) || 0;
+        const card = parseFloat(cols[17]) || 0;
+        const treeboComp = parseFloat(cols[18]) || 0;
+        const pending = parseFloat(cols[19]) || 0;
+        const treeboCL = parseFloat(cols[20]) || 0;
+        const disha = parseFloat(cols[21]) || 0;
+        const total = cash + upi + card + treeboComp + pending + treeboCL + disha;
 
         if (total > 0) {
           // If no room is specified, treat as "Walk-in"
@@ -143,6 +144,7 @@ function parseDayBook() {
           const splitUPI = upi / targetRooms.length;
           const splitCard = card / targetRooms.length;
           const splitTreeboComp = treeboComp / targetRooms.length;
+          const splitPending = pending / targetRooms.length;
           const splitTreeboCL = treeboCL / targetRooms.length;
           const splitDisha = disha / targetRooms.length;
 
@@ -156,6 +158,7 @@ function parseDayBook() {
               upi: splitUPI,
               card: splitCard,
               treeboComp: splitTreeboComp,
+              pending: splitPending,
               treeboCL: splitTreeboCL,
               disha: splitDisha,
               total: splitTotal,
@@ -342,7 +345,7 @@ function parseDayBook() {
       receiptsCount: dailyReceipts.length,
       contrasCount: dailyContras.length,
       roomSalesTotal: dailyRoomSales.reduce((a, b) => a + b.total, 0),
-      foodSalesTotal: dailyFoodSales.reduce((a, b) => a + b.total, 0),
+      foodSalesTotal: dailyFoodSales.reduce((sum, item) => sum + (item.total - item.treeboComp - item.treeboCL), 0),
       expensesTotal: dailyExpenses.reduce((a, b) => a + b.total, 0),
       purchasesTotal: dailyPurchases.reduce((a, b) => a + b.total, 0),
       receiptsTotal: dailyReceipts.reduce((a, b) => a + b.total, 0),
