@@ -25,7 +25,7 @@ function App() {
   const [reconciliation, setReconciliation] = useState(null);
   const [selectedMonth, setSelectedMonth] = useState('');
   const [selectedRoom, setSelectedRoom] = useState(null);
-  const [activeTab, setActiveTab] = useState('summary'); // 'summary', 'audit', 'instructions'
+  const [activeTab, setActiveTab] = useState('summary'); // 'summary', 'audit', 'instructions', 'visual-audit'
   const [modalTab, setModalTab] = useState('sales'); // 'sales', 'food', 'expenses'
   const [loading, setLoading] = useState(true);
   const [reconciling, setReconciling] = useState(false);
@@ -33,13 +33,13 @@ function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetchData(true);
+    fetchData(false, true); // do not force reload on startup, but it is initial load
   }, []);
 
-  const fetchData = async (initial = false) => {
+  const fetchData = async (force = false, initial = false) => {
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:5000/api/data?reload=true');
+      const res = await fetch(`http://localhost:5000/api/data?reload=${force}`);
       const json = await res.json();
       setData(json);
 
@@ -137,7 +137,7 @@ function App() {
         <AlertTriangle size={64} color="var(--danger)" style={{ marginBottom: '20px' }} />
         <h2 style={{ fontSize: '28px', marginBottom: '10px' }}>Server Offline</h2>
         <p style={{ color: 'var(--text-secondary)', maxWidth: '500px', marginBottom: '30px' }}>{error}</p>
-        <button className="btn-primary" onClick={() => fetchData(true)} style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '12px 24px', borderRadius: '8px', border: 'none', background: 'var(--primary)', color: 'white', cursor: 'pointer', fontWeight: 'bold' }}>
+        <button className="btn-primary" onClick={() => fetchData(false)} style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '12px 24px', borderRadius: '8px', border: 'none', background: 'var(--primary)', color: 'white', cursor: 'pointer', fontWeight: 'bold' }}>
           <RefreshCw size={18} /> Retry Connection
         </button>
       </div>
@@ -211,6 +211,12 @@ function App() {
           style={{ paddingBottom: '12px', fontSize: '16px', fontWeight: '600', border: 'none', background: 'transparent', color: activeTab === 'audit' ? 'var(--primary)' : 'var(--text-secondary)', borderBottom: activeTab === 'audit' ? '3px solid var(--primary)' : 'none', cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: '8px' }}
         >
           Tally Audit Sync
+        </button>
+        <button 
+          onClick={() => setActiveTab('visual-audit')}
+          style={{ paddingBottom: '12px', fontSize: '16px', fontWeight: '600', border: 'none', background: 'transparent', color: activeTab === 'visual-audit' ? 'var(--primary)' : 'var(--text-secondary)', borderBottom: activeTab === 'visual-audit' ? '3px solid var(--primary)' : 'none', cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: '8px' }}
+        >
+          <Receipt size={16} /> Visual Bill Audit
         </button>
         <button 
           onClick={() => setActiveTab('instructions')}
@@ -409,6 +415,10 @@ function App() {
             </div>
           )}
         </div>
+      )}
+
+      {activeTab === 'visual-audit' && (
+        <VisualAuditView />
       )}
 
       {activeTab === 'instructions' && (
@@ -630,6 +640,467 @@ function App() {
         </div>
       )}
 
+    </div>
+  );
+}
+
+// Sub-component for Visual Bill Audit
+function VisualAuditView() {
+  const [manifest, setManifest] = useState([]);
+  const [ocrData, setOcrData] = useState({});
+  const [auditedResults, setAuditedResults] = useState({});
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [rotation, setRotation] = useState(0);
+  const [loading, setLoading] = useState(true);
+  const [saving, setSaving] = useState(false);
+  const [filterMode, setFilterMode] = useState('unaudited'); // default to unaudited to speed up work
+
+  const [formData, setFormData] = useState({
+    date: '',
+    invoiceNo: '',
+    guestName: '',
+    roomNo: '',
+    basic: '',
+    cgst: '',
+    sgst: '',
+    total: '',
+    phone: '',
+    paymentMode: 'UPI'
+  });
+
+  useEffect(() => {
+    const init = async () => {
+      try {
+        const [manifestRes, auditRes, ocrRes] = await Promise.all([
+          fetch('/manifest.json'),
+          fetch('http://localhost:5000/api/get-audit'),
+          fetch('/advanced_ocr_parsed.json').then(r => r.json()).catch(() => [])
+        ]);
+        const manifestJson = await manifestRes.json();
+        const auditJson = await auditRes.json();
+        
+        setManifest(manifestJson);
+        setAuditedResults(auditJson);
+        
+        // Index OCR data by image file name
+        const ocrMap = {};
+        ocrRes.forEach(b => {
+          ocrMap[b.fileName] = b;
+        });
+        setOcrData(ocrMap);
+      } catch (err) {
+        console.error("Error loading audit data:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    init();
+  }, []);
+
+  const getFilteredList = () => {
+    if (filterMode === 'all') return manifest;
+    if (filterMode === 'audited') return manifest.filter(img => auditedResults[img.id]);
+    return manifest.filter(img => !auditedResults[img.id]);
+  };
+
+  const filteredList = getFilteredList();
+  const currentImg = filteredList[currentIndex];
+
+  useEffect(() => {
+    if (!currentImg) return;
+    setRotation(0);
+    
+    // Check if already audited
+    if (auditedResults[currentImg.id]) {
+      const audited = auditedResults[currentImg.id].data;
+      setFormData({
+        date: audited.date || '',
+        invoiceNo: audited.invoiceNo || '',
+        guestName: audited.guestName || '',
+        roomNo: audited.roomNo || '',
+        basic: audited.basic || '',
+        cgst: audited.cgst || '',
+        sgst: audited.sgst || '',
+        total: audited.total || '',
+        phone: audited.phone || '',
+        paymentMode: audited.paymentMode || 'UPI'
+      });
+    } else {
+      // Fallback to OCR data if available
+      const ocr = ocrData[currentImg.originalName] || {};
+      setFormData({
+        date: ocr.date || '',
+        invoiceNo: ocr.invoiceNo || '',
+        guestName: ocr.guestName || '',
+        roomNo: ocr.roomNo || '',
+        basic: ocr.basic || '',
+        cgst: ocr.cgst || '',
+        sgst: ocr.sgst || '',
+        total: ocr.total || '',
+        phone: ocr.phone || '',
+        paymentMode: ocr.paymentMode || 'UPI'
+      });
+    }
+  }, [currentImg, auditedResults, ocrData]);
+
+  const handleInputChange = (e) => {
+    const { name, value } = e.target;
+    setFormData(prev => {
+      const next = { ...prev, [name]: value };
+      
+      // Auto-calculate CGST, SGST, and Total if basic changes
+      if (name === 'basic') {
+        const bVal = parseFloat(value) || 0;
+        const cgstVal = parseFloat((bVal * 0.025).toFixed(2));
+        const sgstVal = parseFloat((bVal * 0.025).toFixed(2));
+        const totalVal = parseFloat((bVal + cgstVal + sgstVal).toFixed(2));
+        
+        next.cgst = cgstVal.toString();
+        next.sgst = sgstVal.toString();
+        next.total = totalVal.toString();
+      }
+      return next;
+    });
+  };
+
+  const handleRotate = () => {
+    setRotation(r => (r + 90) % 360);
+  };
+
+  const handleSave = async (e) => {
+    if (e) e.preventDefault();
+    if (!currentImg) return;
+    
+    setSaving(true);
+    try {
+      const res = await fetch('http://localhost:5000/api/save-audit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          fileName: currentImg.id,
+          dateFolder: currentImg.folder,
+          data: {
+            date: formData.date,
+            invoiceNo: formData.invoiceNo,
+            guestName: formData.guestName,
+            roomNo: formData.roomNo,
+            basic: parseFloat(formData.basic) || 0,
+            cgst: parseFloat(formData.cgst) || 0,
+            sgst: parseFloat(formData.sgst) || 0,
+            total: parseFloat(formData.total) || 0,
+            phone: formData.phone,
+            paymentMode: formData.paymentMode
+          }
+        })
+      });
+      const json = await res.json();
+      if (json.success) {
+        // Update local state
+        setAuditedResults(prev => ({
+          ...prev,
+          [currentImg.id]: {
+            fileName: currentImg.id,
+            dateFolder: currentImg.folder,
+            data: {
+              date: formData.date,
+              invoiceNo: formData.invoiceNo,
+              guestName: formData.guestName,
+              roomNo: formData.roomNo,
+              basic: parseFloat(formData.basic) || 0,
+              cgst: parseFloat(formData.cgst) || 0,
+              sgst: parseFloat(formData.sgst) || 0,
+              total: parseFloat(formData.total) || 0,
+              phone: formData.phone,
+              paymentMode: formData.paymentMode
+            }
+          }
+        }));
+        
+        // Go to next if not at the end
+        if (currentIndex < filteredList.length - 1) {
+          setCurrentIndex(prev => prev + 1);
+        } else {
+          alert("Reached the end of the filtered list!");
+        }
+      } else {
+        alert("Failed to save audit: " + (json.error || "Unknown error"));
+      }
+    } catch (err) {
+      console.error(err);
+      alert("Error saving visual audit.");
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  if (loading) {
+    return <div style={{ padding: '40px', textAlign: 'center' }}>Loading manifest and audited records...</div>;
+  }
+
+  const auditedCount = manifest.filter(img => auditedResults[img.id]).length;
+
+  return (
+    <div style={{ display: 'grid', gridTemplateColumns: '300px 1fr', gap: '24px' }}>
+      
+      {/* Sidebar with Image List */}
+      <div style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)', borderRadius: '16px', padding: '16px', maxHeight: '75vh', overflowY: 'auto' }}>
+        <div style={{ marginBottom: '16px' }}>
+          <h3 style={{ fontSize: '16px', fontWeight: '600', marginBottom: '8px' }}>Audited: {auditedCount} / {manifest.length}</h3>
+          
+          <select 
+            value={filterMode} 
+            onChange={(e) => { setFilterMode(e.target.value); setCurrentIndex(0); }}
+            style={{ width: '100%', padding: '8px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+          >
+            <option value="all">All Images</option>
+            <option value="unaudited">Unaudited Only</option>
+            <option value="audited">Audited Only</option>
+          </select>
+        </div>
+        
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+          {filteredList.map((img, idx) => {
+            const isSelected = idx === currentIndex;
+            const isAudited = !!auditedResults[img.id];
+            
+            return (
+              <button
+                key={img.id}
+                onClick={() => setCurrentIndex(idx)}
+                id={`audit-list-item-${idx}`}
+                style={{
+                  textAlign: 'left',
+                  padding: '10px 12px',
+                  borderRadius: '10px',
+                  border: isSelected ? '1px solid var(--primary)' : '1px solid transparent',
+                  background: isSelected ? 'rgba(99, 102, 241, 0.1)' : 'transparent',
+                  color: isSelected ? 'var(--primary)' : 'var(--text-primary)',
+                  cursor: 'pointer',
+                  fontSize: '13px',
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center'
+                }}
+              >
+                <span style={{ textOverflow: 'ellipsis', overflow: 'hidden', whiteSpace: 'nowrap', maxWidth: '180px' }}>
+                  {img.originalName}
+                </span>
+                <span style={{ fontSize: '10px', padding: '2px 6px', borderRadius: '8px', background: isAudited ? 'rgba(16, 185, 129, 0.1)' : 'rgba(239, 68, 68, 0.1)', color: isAudited ? 'var(--success)' : 'var(--danger)' }}>
+                  {isAudited ? 'Done' : 'Pending'}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+      
+      {/* Visual Audit Workspace */}
+      {!currentImg ? (
+        <div style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)', borderRadius: '16px', padding: '40px', textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+          <h3>No images in this filter</h3>
+        </div>
+      ) : (
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px' }}>
+          
+          {/* Left Side: Image Viewer */}
+          <div style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)', borderRadius: '16px', padding: '16px', display: 'flex', flexDirection: 'column', height: '75vh', position: 'relative' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '12px', alignItems: 'center' }}>
+              <span style={{ fontSize: '14px', fontWeight: 'bold' }}>{currentImg.folder} / {currentImg.originalName}</span>
+              <button 
+                id="btn-rotate-image"
+                type="button"
+                onClick={handleRotate} 
+                style={{ padding: '6px 12px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', cursor: 'pointer', color: 'var(--text-primary)', fontSize: '12px' }}
+              >
+                Rotate 90°
+              </button>
+            </div>
+            
+            <div style={{ flex: 1, border: '1px solid var(--border-color)', borderRadius: '8px', overflow: 'auto', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#090d16' }}>
+              <img 
+                src={currentImg.path} 
+                id="visual-audit-bill-image"
+                alt="Stay Bill"
+                style={{ 
+                  maxWidth: '100%', 
+                  maxHeight: '100%', 
+                  transform: `rotate(${rotation}deg)`, 
+                  transition: 'transform 0.2s',
+                  objectFit: 'contain'
+                }} 
+              />
+            </div>
+          </div>
+          
+          {/* Right Side: Audit Form */}
+          <form 
+            onSubmit={handleSave}
+            id="visual-audit-form"
+            style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)', borderRadius: '16px', padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px', height: '75vh', overflowY: 'auto' }}
+          >
+            <h3 style={{ margin: 0, fontSize: '18px', fontWeight: '600', borderBottom: '1px solid var(--border-color)', paddingBottom: '12px' }}>
+              Bill Extraction Form
+            </h3>
+            
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Date (YYYY-MM-DD)</label>
+                <input 
+                  type="text" 
+                  name="date" 
+                  id="audit-input-date"
+                  value={formData.date} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Invoice / Bill No</label>
+                <input 
+                  type="text" 
+                  name="invoiceNo" 
+                  id="audit-input-invoice"
+                  value={formData.invoiceNo} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+            </div>
+
+            <div>
+              <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Guest Name</label>
+              <input 
+                type="text" 
+                name="guestName" 
+                id="audit-input-guest"
+                value={formData.guestName} 
+                onChange={handleInputChange} 
+                required
+                style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+              />
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Room No(s)</label>
+                <input 
+                  type="text" 
+                  name="roomNo" 
+                  id="audit-input-room"
+                  value={formData.roomNo} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Phone / Contact</label>
+                <input 
+                  type="text" 
+                  name="phone" 
+                  id="audit-input-phone"
+                  value={formData.phone} 
+                  onChange={handleInputChange} 
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Taxable Basic (Subtotal)</label>
+                <input 
+                  type="text" 
+                  name="basic" 
+                  id="audit-input-basic"
+                  value={formData.basic} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>CGST (2.5%)</label>
+                <input 
+                  type="text" 
+                  name="cgst" 
+                  id="audit-input-cgst"
+                  value={formData.cgst} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>SGST (2.5%)</label>
+                <input 
+                  type="text" 
+                  name="sgst" 
+                  id="audit-input-sgst"
+                  value={formData.sgst} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+              <div>
+                <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Total Amount</label>
+                <input 
+                  type="text" 
+                  name="total" 
+                  id="audit-input-total"
+                  value={formData.total} 
+                  onChange={handleInputChange} 
+                  required
+                  style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+                />
+              </div>
+            </div>
+
+            <div>
+              <label style={{ display: 'block', fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '4px', fontWeight: '600' }}>Payment Mode</label>
+              <select 
+                name="paymentMode" 
+                id="audit-input-paymentmode"
+                value={formData.paymentMode} 
+                onChange={handleInputChange}
+                style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', outline: 'none' }}
+              >
+                <option value="Cash">Cash</option>
+                <option value="Card">Card</option>
+                <option value="UPI">UPI</option>
+                <option value="Treebo">Treebo (Prepaid)</option>
+                <option value="Disha">Disha Co (B2B Unpaid)</option>
+                <option value="Unpaid">Unpaid / Other</option>
+              </select>
+            </div>
+
+            <div style={{ marginTop: 'auto', display: 'flex', gap: '12px' }}>
+              <button 
+                type="button" 
+                onClick={() => currentIndex > 0 && setCurrentIndex(prev => prev - 1)}
+                disabled={currentIndex === 0}
+                style={{ flex: 1, padding: '12px', borderRadius: '10px', border: '1px solid var(--border-color)', background: 'transparent', color: 'var(--text-primary)', cursor: 'pointer', fontWeight: '600' }}
+              >
+                Previous
+              </button>
+              <button 
+                type="submit" 
+                id="btn-save-audit"
+                disabled={saving}
+                style={{ flex: 2, padding: '12px', borderRadius: '10px', border: 'none', background: 'var(--primary)', color: 'white', cursor: 'pointer', fontWeight: '600' }}
+              >
+                {saving ? 'Saving...' : 'Save & Next'}
+              </button>
+            </div>
+          </form>
+        </div>
+      )}
     </div>
   );
 }

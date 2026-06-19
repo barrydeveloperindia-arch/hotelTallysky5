@@ -15,15 +15,39 @@ let cachedData = null;
 
 app.get('/api/data', (req, res) => {
   const forceReload = req.query.reload === 'true';
-  if (!cachedData || forceReload) {
-    console.log("Parsing Daybook Excel...");
+  const cachePath = "C:\\Users\\Administrator\\.gemini\\antigravity-ide\\scratch\\excel_parsed_cache.json";
+
+  if (forceReload) {
+    console.log("Forced reload requested. Parsing Daybook Excel...");
     try {
       cachedData = parseDayBook();
+      fs.writeFileSync(cachePath, JSON.stringify(cachedData, null, 2), 'utf8');
     } catch (err) {
       console.error(err);
       return res.status(500).json({ error: "Failed to parse Excel file", details: err.message });
     }
+  } else if (!cachedData) {
+    if (fs.existsSync(cachePath)) {
+      console.log("Loading Excel parse results from cache...");
+      try {
+        cachedData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+      } catch (e) {
+        console.error("Failed to read Excel cache, parsing fresh...", e);
+      }
+    }
+    
+    if (!cachedData) {
+      console.log("No cache found. Parsing Daybook Excel...");
+      try {
+        cachedData = parseDayBook();
+        fs.writeFileSync(cachePath, JSON.stringify(cachedData, null, 2), 'utf8');
+      } catch (err) {
+        console.error(err);
+        return res.status(500).json({ error: "Failed to parse Excel file", details: err.message });
+      }
+    }
   }
+
   res.json(cachedData);
 });
 
@@ -190,6 +214,51 @@ app.get('/api/reconciliation', (req, res) => {
     console.error(err);
     res.status(500).json({ error: "Failed to reconcile data", details: err.message });
   }
+});
+
+// Endpoint to save visual audit data for a single image file
+app.post('/api/save-audit', (req, res) => {
+  const { fileName, dateFolder, data } = req.body;
+  if (!fileName) {
+    return res.status(400).json({ error: "fileName is required" });
+  }
+
+  const auditPath = "C:\\Users\\Administrator\\.gemini\\antigravity-ide\\scratch\\visual_audit_results.json";
+  let auditResults = {};
+  if (fs.existsSync(auditPath)) {
+    try {
+      auditResults = JSON.parse(fs.readFileSync(auditPath, 'utf8'));
+    } catch (e) {
+      console.error("Error reading visual_audit_results.json, resetting", e);
+    }
+  }
+
+  auditResults[fileName] = {
+    fileName,
+    dateFolder,
+    data,
+    auditedAt: new Date().toISOString()
+  };
+
+  try {
+    fs.writeFileSync(auditPath, JSON.stringify(auditResults, null, 2), 'utf8');
+    res.json({ success: true, count: Object.keys(auditResults).length });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "Failed to write audit results file", details: err.message });
+  }
+});
+
+// Endpoint to retrieve already audited results
+app.get('/api/get-audit', (req, res) => {
+  const auditPath = "C:\\Users\\Administrator\\.gemini\\antigravity-ide\\scratch\\visual_audit_results.json";
+  let auditResults = {};
+  if (fs.existsSync(auditPath)) {
+    try {
+      auditResults = JSON.parse(fs.readFileSync(auditPath, 'utf8'));
+    } catch (e) {}
+  }
+  res.json(auditResults);
 });
 
 app.listen(PORT, () => {
