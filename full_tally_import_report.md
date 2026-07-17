@@ -235,7 +235,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000376 | Guest: VIKAS SRIVASTAVA | Date: 2026-07-02
 * **Debit** | `VIKAS SRIVASTAVA` : **1801.90**
-* **Credit** | `SALES B2B 5% HARYANA` : **1716.10**
+* **Credit** | `Sale 5% Haryana B2C` : **1716.10**
 * **Credit** | `Output Cgst 2.5%` : **42.90**
 * **Credit** | `Output Sgst 2.5%` : **42.90**
 
@@ -466,13 +466,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000377 | Guest: Prashant Kumar | Date: 2026-07-03
 * **Debit** | `Prashant Kumar` : **1796.33**
-* **Credit** | `SALES B2B 5% HARYANA` : **1710.79**
+* **Credit** | `Sale 5% Haryana B2C` : **1710.79**
 * **Credit** | `Output Cgst 2.5%` : **42.77**
 * **Credit** | `Output Sgst 2.5%` : **42.77**
 
 #### Voucher No: 180962826-000378 | Guest: Harendra Tyagi | Date: 2026-07-03
 * **Debit** | `Harendra Tyagi` : **3638.78**
-* **Credit** | `SALES B2B 5% HARYANA` : **3465.50**
+* **Credit** | `Sale 5% Haryana B2C` : **3465.50**
 * **Credit** | `Output Cgst 2.5%` : **86.64**
 * **Credit** | `Output Sgst 2.5%` : **86.64**
 
@@ -1102,43 +1102,43 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000381 | Guest: Nancy Sharma | Date: 2026-07-05
 * **Debit** | `Nancy Sharma` : **2116.60**
-* **Credit** | `SALES B2B 5% HARYANA` : **2015.80**
+* **Credit** | `Sale 5% Haryana B2C` : **2015.80**
 * **Credit** | `Output Cgst 2.5%` : **50.40**
 * **Credit** | `Output Sgst 2.5%` : **50.40**
 
 #### Voucher No: 180962826-000382 | Guest: Shikhar Ojha | Date: 2026-07-05
 * **Debit** | `Shikhar Ojha` : **2616.91**
-* **Credit** | `SALES B2B 5% HARYANA` : **2492.29**
+* **Credit** | `Sale 5% Haryana B2C` : **2492.29**
 * **Credit** | `Output Cgst 2.5%` : **62.31**
 * **Credit** | `Output Sgst 2.5%` : **62.31**
 
 #### Voucher No: 180962826-000383 | Guest: Shivam Pratap | Date: 2026-07-05
 * **Debit** | `Shivam Pratap` : **1875.67**
-* **Credit** | `SALES B2B 5% HARYANA` : **1786.35**
+* **Credit** | `Sale 5% Haryana B2C` : **1786.35**
 * **Credit** | `Output Cgst 2.5%` : **44.66**
 * **Credit** | `Output Sgst 2.5%` : **44.66**
 
 #### Voucher No: 180962826-000384 | Guest: Rohan Gupta | Date: 2026-07-05
 * **Debit** | `Rohan Gupta` : **1979.32**
-* **Credit** | `SALES B2B 5% HARYANA` : **1885.06**
+* **Credit** | `Sale 5% Haryana B2C` : **1885.06**
 * **Credit** | `Output Cgst 2.5%` : **47.13**
 * **Credit** | `Output Sgst 2.5%` : **47.13**
 
 #### Voucher No: 180962826-000385 | Guest: shachi Dixit | Date: 2026-07-05
 * **Debit** | `shachi Dixit` : **2138.94**
-* **Credit** | `SALES B2B 5% HARYANA` : **2037.08**
+* **Credit** | `Sale 5% Haryana B2C` : **2037.08**
 * **Credit** | `Output Cgst 2.5%` : **50.93**
 * **Credit** | `Output Sgst 2.5%` : **50.93**
 
 #### Voucher No: 180962826-000386 | Guest: Ravi Chalotra | Date: 2026-07-05
 * **Debit** | `Ravi Chalotra` : **2387.21**
-* **Credit** | `SALES B2B 5% HARYANA` : **2273.53**
+* **Credit** | `Sale 5% Haryana B2C` : **2273.53**
 * **Credit** | `Output Cgst 2.5%` : **56.84**
 * **Credit** | `Output Sgst 2.5%` : **56.84**
 
 #### Voucher No: 180962826-000387 | Guest: Shubham Gangwar | Date: 2026-07-05
 * **Debit** | `Shubham Gangwar` : **2925.70**
-* **Credit** | `SALES B2B 5% HARYANA` : **2786.38**
+* **Credit** | `Sale 5% Haryana B2C` : **2786.38**
 * **Credit** | `Output Cgst 2.5%` : **69.66**
 * **Credit** | `Output Sgst 2.5%` : **69.66**
 
@@ -1545,19 +1545,19 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000389 | Guest: raj aditi | Date: 2026-07-07
 * **Debit** | `raj aditi` : **5608.30**
-* **Credit** | `SALES B2B 5% HARYANA` : **5341.24**
+* **Credit** | `Sale 5% Haryana B2C` : **5341.24**
 * **Credit** | `Output Cgst 2.5%` : **133.53**
 * **Credit** | `Output Sgst 2.5%` : **133.53**
 
 #### Voucher No: 180962826-000390 | Guest: KULDEEP SHARMA | Date: 2026-07-07
 * **Debit** | `KULDEEP SHARMA` : **4786.48**
-* **Credit** | `SALES B2B 5% HARYANA` : **4558.56**
+* **Credit** | `Sale 5% Haryana B2C` : **4558.56**
 * **Credit** | `Output Cgst 2.5%` : **113.96**
 * **Credit** | `Output Sgst 2.5%` : **113.96**
 
 #### Voucher No: 180962826-000391 | Guest: Kunal Wadhwa | Date: 2026-07-07
 * **Debit** | `Kunal Wadhwa` : **1899.03**
-* **Credit** | `SALES B2B 5% HARYANA` : **1808.59**
+* **Credit** | `Sale 5% Haryana B2C` : **1808.59**
 * **Credit** | `Output Cgst 2.5%` : **45.22**
 * **Credit** | `Output Sgst 2.5%` : **45.22**
 
@@ -1782,13 +1782,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000395 | Guest: Kunal Wadhwa | Date: 2026-07-08
 * **Debit** | `Kunal Wadhwa` : **1807.73**
-* **Credit** | `SALES B2B 5% HARYANA` : **1721.65**
+* **Credit** | `Sale 5% Haryana B2C` : **1721.65**
 * **Credit** | `Output Cgst 2.5%` : **43.04**
 * **Credit** | `Output Sgst 2.5%` : **43.04**
 
 #### Voucher No: 180962826-000396 | Guest: Sahib Chopra | Date: 2026-07-08
 * **Debit** | `Sahib Chopra` : **5017.02**
-* **Credit** | `SALES B2B 5% HARYANA` : **4778.06**
+* **Credit** | `Sale 5% Haryana B2C` : **4778.06**
 * **Credit** | `Output Cgst 2.5%` : **119.48**
 * **Credit** | `Output Sgst 2.5%` : **119.48**
 
@@ -1853,13 +1853,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000398 | Guest: Kunal Wadhwa | Date: 09-Jul-26
 * **Debit** | `Kunal Wadhwa` : **1899.03**
-* **Credit** | `SALES B2B 5% HARYANA` : **1808.59**
+* **Credit** | `Sale 5% Haryana B2C` : **1808.59**
 * **Credit** | `Output Cgst 2.5%` : **45.22**
 * **Credit** | `Output Sgst 2.5%` : **45.22**
 
 #### Voucher No: 180962826-000399 | Guest: Jasmeet Singh | Date: 09-Jul-26
 * **Debit** | `Jasmeet Singh` : **2220.14**
-* **Credit** | `SALES B2B 5% HARYANA` : **2114.44**
+* **Credit** | `Sale 5% Haryana B2C` : **2114.44**
 * **Credit** | `Output Cgst 2.5%` : **52.85**
 * **Credit** | `Output Sgst 2.5%` : **52.85**
 
@@ -2476,19 +2476,19 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000400 | Guest: Alok | Date: 2026-07-10
 * **Debit** | `Alok` : **6744.22**
-* **Credit** | `SALES B2B 5% HARYANA` : **1605.78**
+* **Credit** | `Sale 5% Haryana B2C` : **1605.78**
 * **Credit** | `Output Cgst 2.5%` : **40.14**
 * **Credit** | `Output Sgst 2.5%` : **40.14**
 
 #### Voucher No: 180962826-000402 | Guest: Kunal Wadhwa | Date: 2026-07-10
 * **Debit** | `Kunal Wadhwa` : **1899.03**
-* **Credit** | `SALES B2B 5% HARYANA` : **1808.59**
+* **Credit** | `Sale 5% Haryana B2C` : **1808.59**
 * **Credit** | `Output Cgst 2.5%` : **45.22**
 * **Credit** | `Output Sgst 2.5%` : **45.22**
 
 #### Voucher No: 180962826-000402 | Guest: Kunal Wadhwa | Date: 2026-07-10
 * **Debit** | `Kunal Wadhwa` : **1899.03**
-* **Credit** | `SALES B2B 5% HARYANA` : **1808.59**
+* **Credit** | `Sale 5% Haryana B2C` : **1808.59**
 * **Credit** | `Output Cgst 2.5%` : **45.22**
 * **Credit** | `Output Sgst 2.5%` : **45.22**
 
@@ -2538,7 +2538,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Voucher No: 180962826-000404 | Guest: Akhil Kumar | Date: 2026-07-11
 * **Debit** | `Akhil Kumar` : **3393.61**
-* **Credit** | `SALES B2B 5% HARYANA` : **3232.01**
+* **Credit** | `Sale 5% Haryana B2C` : **3232.01**
 * **Credit** | `Output Cgst 2.5%` : **80.80**
 * **Credit** | `Output Sgst 2.5%` : **80.80**
 
