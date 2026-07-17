@@ -95,9 +95,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
 
-#### Voucher No: POS-16498-23/24 | Guest: MR. ENGLABS EMPOLYEE | Date: 01-Jul-26
-* **Debit** | `MR. ENGLABS EMPOLYEE` : **251.00**
-* **Credit** | `Sale 5% Haryana B2C` : **238.60**
+#### Voucher No: POS-16498-23/24 | Guest: ENGLABS INDIA PVT LTD | Date: 01-Jul-26
+* **Debit** | `ENGLABS INDIA PVT LTD` : **251.00**
+* **Credit** | `SALES B2B 5% HARYANA` : **238.60**
   * *Cost Centre*:
     * `Jeera Rice` -> `Rooms` -> `Room 120` : 90.50 Cr
     * `Jeera Rice` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
@@ -116,9 +116,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `CASH` : **110.00**
 * **Credit** | `MR. AJAY KUMAR` : **110.00**
 
-#### Voucher No (Payment): Journal-POS-16496-23/24 | Guest: 274 | Date: 01-Jul-26
+#### Voucher No (Payment): Journal-POS-16496-23/24 | Guest: Walk-In Customer | Date: 01-Jul-26
 * **Debit** | `CASH` : **154.00**
-* **Credit** | `274` : **154.00**
+* **Credit** | `Walk-In Customer` : **154.00**
 
 ---
 
@@ -423,9 +423,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
 
-#### Voucher No: POS-16520-23/24 | Guest: MR. ENGLABS EMPOLYEE | Date: 03-Jul-26
-* **Debit** | `MR. ENGLABS EMPOLYEE` : **60.00**
-* **Credit** | `Sale 5% Haryana B2C` : **57.14**
+#### Voucher No: POS-16520-23/24 | Guest: ENGLABS INDIA PVT LTD | Date: 03-Jul-26
+* **Debit** | `ENGLABS INDIA PVT LTD` : **60.00**
+* **Credit** | `SALES B2B 5% HARYANA` : **57.14**
   * *Cost Centre*:
     * `Mineral Water` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
@@ -580,9 +580,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **0.48**
 * **Credit** | `Output Sgst 2.5%` : **0.48**
 
-#### Voucher No: POS-16527-23/24 | Guest: ENGLABS | Date: 04-Jul-26
-* **Debit** | `ENGLABS` : **30.00**
-* **Credit** | `Sale 5% Haryana B2C` : **28.57**
+#### Voucher No: POS-16527-23/24 | Guest: ENGLABS INDIA PVT LTD | Date: 04-Jul-26
+* **Debit** | `ENGLABS INDIA PVT LTD` : **30.00**
+* **Credit** | `SALES B2B 5% HARYANA` : **28.57**
   * *Cost Centre*:
     * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
@@ -746,17 +746,17 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `CASH` : **1000.00**
 * **Credit** | `MR. RAJAT SHARMA` : **1000.00**
 
-#### Voucher No (Payment): Journal-POS-16522-23/24 | Guest: 275 | Date: 04-Jul-26
+#### Voucher No (Payment): Journal-POS-16522-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
 * **Debit** | `CASH` : **84.00**
-* **Credit** | `275` : **84.00**
+* **Credit** | `Walk-In Customer` : **84.00**
 
-#### Voucher No (Payment): Journal-POS-16523-23/24 | Guest: 1061 | Date: 04-Jul-26
+#### Voucher No (Payment): Journal-POS-16523-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
 * **Debit** | `CASH` : **430.00**
-* **Credit** | `1061` : **430.00**
+* **Credit** | `Walk-In Customer` : **430.00**
 
-#### Voucher No (Payment): Journal-POS-16524-23/24 | Guest: 1061 | Date: 04-Jul-26
+#### Voucher No (Payment): Journal-POS-16524-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
 * **Debit** | `CASH` : **430.00**
-* **Credit** | `1061` : **430.00**
+* **Credit** | `Walk-In Customer` : **430.00**
 
 #### Voucher No (Payment): Journal-POS-16529-23/24 | Guest: MR. GARVIT DUDEJA | Date: 04-Jul-26
 * **Debit** | `CASH` : **1116.00**
@@ -916,9 +916,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **1.91**
 * **Credit** | `Output Sgst 2.5%` : **1.91**
 
-#### Voucher No: POS-16549-23/24 | Guest: ENGLABS | Date: 05-Jul-26
-* **Debit** | `ENGLABS` : **82.00**
-* **Credit** | `Sale 5% Haryana B2C` : **77.93**
+#### Voucher No: POS-16549-23/24 | Guest: ENGLABS INDIA PVT LTD | Date: 05-Jul-26
+* **Debit** | `ENGLABS INDIA PVT LTD` : **82.00**
+* **Credit** | `SALES B2B 5% HARYANA` : **77.93**
   * *Cost Centre*:
     * `French Fries` -> `Rooms` -> `Walk-in Guest` : 98.73 Cr
     * `French Fries` -> `Expenses` -> `Kitchen Expenses` : 98.73 Cr
@@ -1320,9 +1320,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `CASH` : **1200.00**
 * **Credit** | `MR. PARDEEP KUMAR` : **1200.00**
 
-#### Voucher No (Payment): Journal-POS-16562-23/24 | Guest: 1061 | Date: 06-Jul-26
+#### Voucher No (Payment): Journal-POS-16562-23/24 | Guest: Walk-In Customer | Date: 06-Jul-26
 * **Debit** | `CASH` : **250.00**
-* **Credit** | `1061` : **250.00**
+* **Credit** | `Walk-In Customer` : **250.00**
 
 #### Voucher No (Payment): Journal-POS-16566-23/24 | Guest: MR. ALOK KUMAR | Date: 06-Jul-26
 * **Debit** | `CONSUMER` : **600.00**
@@ -1529,9 +1529,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `CONSUMER` : **1550.00**
 * **Credit** | `Walk-In Customer` : **1550.00**
 
-#### Voucher No (Payment): Journal-POS-16576-23/24 | Guest: 1061 | Date: 07-Jul-26
+#### Voucher No (Payment): Journal-POS-16576-23/24 | Guest: Walk-In Customer | Date: 07-Jul-26
 * **Debit** | `CASH` : **250.00**
-* **Credit** | `1061` : **250.00**
+* **Credit** | `Walk-In Customer` : **250.00**
 
 #### Voucher No (Payment): Journal-POS-16579-23/24 | Guest: MR. KUNAL WADHWA | Date: 07-Jul-26
 * **Debit** | `CONSUMER` : **30.00**
@@ -1731,51 +1731,6 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 ---
 
-## Date: 27-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16441-23/24 | Guest: MR. SHUSHIL KUMAR SHUKLA | Date: 27-Jun-26
-* **Debit** | `MR. SHUSHIL KUMAR SHUKLA` : **130.00**
-* **Credit** | `Sale 5% Haryana B2C` : **123.81**
-  * *Cost Centre*:
-    * `Dal Khichdi` -> `Rooms` -> `Room 110` : 95.24 Cr
-    * `Dal Khichdi` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
-    * `Mineral Water` -> `Rooms` -> `Room 110` : 28.57 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-* **Credit** | `Output Cgst 2.5%` : **3.10**
-* **Credit** | `Output Sgst 2.5%` : **3.10**
-
-#### Voucher No: POS-16448-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 27-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **480.00**
-* **Credit** | `Sale 5% Haryana B2C` : **457.14**
-  * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Room 120` : 238.10 Cr
-    * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
-    * `Manchurian Fried Rice` -> `Rooms` -> `Room 120` : 161.90 Cr
-    * `Manchurian Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 161.90 Cr
-    * `Mineral Water` -> `Rooms` -> `Room 120` : 57.14 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-* **Credit** | `Output Cgst 2.5%` : **11.44**
-* **Credit** | `Output Sgst 2.5%` : **11.44**
-
-#### Voucher No: POS-16451-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 27-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **170.00**
-* **Credit** | `Sale 5% Haryana B2C` : **161.90**
-  * *Cost Centre*:
-    * `Manchurian Fried Rice` -> `Rooms` -> `Room 120` : 161.90 Cr
-    * `Manchurian Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 161.90 Cr
-* **Credit** | `Output Cgst 2.5%` : **4.05**
-* **Credit** | `Output Sgst 2.5%` : **4.05**
-
-### Payment Receipts (Journal Vouchers)
-
-#### Voucher No (Payment): Journal-POS-16441-23/24 | Guest: MR. SHUSHIL KUMAR SHUKLA | Date: 27-Jun-26
-* **Debit** | `CONSUMER` : **230.00**
-* **Credit** | `MR. SHUSHIL KUMAR SHUKLA` : **230.00**
-
----
-
 ## Date: 2026-07-08
 
 ### Treebo Tax Invoices (Sales Vouchers)
@@ -1938,9 +1893,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **4.38**
 * **Credit** | `Output Sgst 2.5%` : **4.38**
 
-#### Voucher No: POS-16605-23/24 | Guest: ENGLABS | Date: 09-Jul-26
-* **Debit** | `ENGLABS` : **210.00**
-* **Credit** | `Sale 5% Haryana B2C` : **200.00**
+#### Voucher No: POS-16605-23/24 | Guest: ENGLABS INDIA PVT LTD | Date: 09-Jul-26
+* **Debit** | `ENGLABS INDIA PVT LTD` : **210.00**
+* **Credit** | `SALES B2B 5% HARYANA` : **200.00**
   * *Cost Centre*:
     * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 400.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 400.00 Cr
@@ -2227,244 +2182,6 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `Complementary Food Expense` : **65.81**
   * *Cost Centre*: `Rooms` -> `Room 103` : 65.81 Dr
 * **Credit** | `CL 3` : **65.81**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 17-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16293-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 17-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **307.00**
-* **Credit** | `Sale 5% Haryana B2C` : **292.69**
-  * *Cost Centre*:
-    * `Paneer Bhurji` -> `Rooms` -> `Room 120` : 197.45 Cr
-    * `Paneer Bhurji` -> `Expenses` -> `Kitchen Expenses` : 197.45 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 95.24 Cr
-    * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
-* **Credit** | `Output Cgst 2.5%` : **7.32**
-* **Credit** | `Output Sgst 2.5%` : **7.32**
-
-### Payment Receipts (Journal Vouchers)
-
-#### Voucher No (Payment): Journal-POS-16293-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 17-Jun-26
-* **Debit** | `CONSUMER` : **33606.00**
-* **Credit** | `MR. BHARAT SIR GUEST` : **33606.00**
-
----
-
-## Date: 18-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16310-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 18-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **366.00**
-* **Credit** | `Sale 5% Haryana B2C` : **348.96**
-  * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Room 120` : 57.14 Cr
-    * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Kadhai Paneer` -> `Rooms` -> `Room 120` : 172.77 Cr
-    * `Kadhai Paneer` -> `Expenses` -> `Kitchen Expenses` : 172.77 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
-    * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
-* **Credit** | `Output Cgst 2.5%` : **8.73**
-* **Credit** | `Output Sgst 2.5%` : **8.73**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 19-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16328-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 19-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **440.00**
-* **Credit** | `Sale 5% Haryana B2C` : **419.04**
-  * *Cost Centre*:
-    * `Manchurian Fried Rice` -> `Rooms` -> `Room 120` : 161.90 Cr
-    * `Manchurian Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 161.90 Cr
-    * `Mineral Water` -> `Rooms` -> `Room 120` : 57.14 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Special Thali` -> `Rooms` -> `Room 120` : 200.00 Cr
-    * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
-* **Credit** | `Output Cgst 2.5%` : **10.48**
-* **Credit** | `Output Sgst 2.5%` : **10.48**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 20-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16341-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 20-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **448.00**
-* **Credit** | `Sale 5% Haryana B2C` : **426.90**
-  * *Cost Centre*:
-    * `Mix Paratha` -> `Rooms` -> `Room 120` : 57.60 Cr
-    * `Mix Paratha` -> `Expenses` -> `Kitchen Expenses` : 57.60 Cr
-    * `Paneer Lawabdar` -> `Rooms` -> `Room 120` : 164.54 Cr
-    * `Paneer Lawabdar` -> `Expenses` -> `Kitchen Expenses` : 164.54 Cr
-    * `Paneer Paratha` -> `Rooms` -> `Room 120` : 85.71 Cr
-    * `Paneer Paratha` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
-    * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
-* **Credit** | `Output Cgst 2.5%` : **10.68**
-* **Credit** | `Output Sgst 2.5%` : **10.68**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 22-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16362-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 22-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **250.00**
-* **Credit** | `Sale 5% Haryana B2C` : **238.10**
-  * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Room 120` : 238.10 Cr
-    * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
-* **Credit** | `Output Cgst 2.5%` : **5.96**
-* **Credit** | `Output Sgst 2.5%` : **5.96**
-
-#### Voucher No: POS-16367-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 22-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **255.00**
-* **Credit** | `Sale 5% Haryana B2C` : **242.48**
-  * *Cost Centre*:
-    * `Dal Arhar Tadka` -> `Rooms` -> `Room 120` : 123.41 Cr
-    * `Dal Arhar Tadka` -> `Expenses` -> `Kitchen Expenses` : 123.41 Cr
-    * `Jeera Rice` -> `Rooms` -> `Room 120` : 90.50 Cr
-    * `Jeera Rice` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-* **Credit** | `Output Cgst 2.5%` : **6.07**
-* **Credit** | `Output Sgst 2.5%` : **6.07**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 23-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16376-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 23-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **150.00**
-* **Credit** | `Sale 5% Haryana B2C` : **142.85**
-  * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Room 120` : 57.14 Cr
-    * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Paneer Paratha` -> `Rooms` -> `Room 120` : 85.71 Cr
-    * `Paneer Paratha` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
-* **Credit** | `Output Cgst 2.5%` : **3.58**
-* **Credit** | `Output Sgst 2.5%` : **3.58**
-
-#### Voucher No: POS-16381-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 23-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **362.00**
-* **Credit** | `Sale 5% Haryana B2C` : **345.07**
-  * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-    * `Paneer Bhurji` -> `Rooms` -> `Room 120` : 197.45 Cr
-    * `Paneer Bhurji` -> `Expenses` -> `Kitchen Expenses` : 197.45 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
-    * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
-* **Credit** | `Output Cgst 2.5%` : **8.63**
-* **Credit** | `Output Sgst 2.5%` : **8.63**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 24-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16389-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 24-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **240.00**
-* **Credit** | `Sale 5% Haryana B2C` : **228.57**
-  * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-    * `Special Thali` -> `Rooms` -> `Room 120` : 200.00 Cr
-    * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
-* **Credit** | `Output Cgst 2.5%` : **5.72**
-* **Credit** | `Output Sgst 2.5%` : **5.72**
-
-### Complementary Food (Journal Vouchers)
-
-#### Journal No: FOC1-POS-16385-23/24 | Date: 24-Jun-26
-* **Debit** | `CL 3` : **131.62**
-* **Credit** | `FOC Food Consumption` : **131.62**
-  * *Cost Centre*: `Omelette Plain/bread` : 131.62 Cr
-
-#### Journal No: FOC2-POS-16385-23/24 | Date: 24-Jun-26
-* **Debit** | `Complementary Food Expense` : **131.62**
-  * *Cost Centre*: `Rooms` -> `Room 103` : 131.62 Dr
-* **Credit** | `CL 3` : **131.62**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 28-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16460-23/24 | Guest: MR. BHARAT SIR GUEST | Date: 28-Jun-26
-* **Debit** | `MR. BHARAT SIR GUEST` : **298.00**
-* **Credit** | `Sale 5% Haryana B2C` : **283.59**
-  * *Cost Centre*:
-    * `Paneer Lawabdar` -> `Rooms` -> `Room 120` : 164.54 Cr
-    * `Paneer Lawabdar` -> `Expenses` -> `Kitchen Expenses` : 164.54 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
-    * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
-* **Credit** | `Output Cgst 2.5%` : **7.09**
-* **Credit** | `Output Sgst 2.5%` : **7.09**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 29-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16477-23/24 | Guest: MR. ENGLABS EMPOLYEE | Date: 29-Jun-26
-* **Debit** | `MR. ENGLABS EMPOLYEE` : **150.00**
-* **Credit** | `Sale 5% Haryana B2C` : **142.85**
-  * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Room 120` : 57.14 Cr
-    * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Paneer Paratha` -> `Rooms` -> `Room 120` : 85.71 Cr
-    * `Paneer Paratha` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
-* **Credit** | `Output Cgst 2.5%` : **3.58**
-* **Credit** | `Output Sgst 2.5%` : **3.58**
-
-### Payment Receipts (Journal Vouchers)
-
----
-
-## Date: 30-Jun-26
-
-### Food Tax Invoices (Sales Vouchers)
-
-#### Voucher No: POS-16487-23/24 | Guest: MR. ENGLABS EMPOLYEE | Date: 30-Jun-26
-* **Debit** | `MR. ENGLABS EMPOLYEE` : **280.00**
-* **Credit** | `Sale 5% Haryana B2C` : **266.67**
-  * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Room 120` : 238.10 Cr
-    * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
-    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
-    * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-* **Credit** | `Output Cgst 2.5%` : **6.67**
-* **Credit** | `Output Sgst 2.5%` : **6.67**
 
 ### Payment Receipts (Journal Vouchers)
 
