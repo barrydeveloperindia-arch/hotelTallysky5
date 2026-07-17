@@ -19,9 +19,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. AJAY KUMAR` : **110.00**
 * **Credit** | `Sale 5% Haryana B2C` : **104.77**
   * *Cost Centre*:
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 117` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Veg Maggies` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Veg Maggies` -> `Rooms` -> `Room 117` : 66.67 Cr
     * `Veg Maggies` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.62**
 * **Credit** | `Output Sgst 2.5%` : **2.62**
@@ -41,24 +41,24 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `Walk-In Customer` : **154.00**
 * **Credit** | `Sale 5% Haryana B2C` : **146.67**
   * *Cost Centre*:
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 26.67 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 274` : 26.67 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 26.67 Cr
-    * `Discount` -> `Rooms` -> `Walk-in Guest` : 11.43 Dr
+    * `Discount` -> `Rooms` -> `Room 274` : 11.43 Dr
     * `Discount` -> `Expenses` -> `Kitchen Expenses` : 11.43 Dr
-    * `Egg Bhurji` -> `Rooms` -> `Walk-in Guest` : 120.00 Cr
+    * `Egg Bhurji` -> `Rooms` -> `Room 274` : 120.00 Cr
     * `Egg Bhurji` -> `Expenses` -> `Kitchen Expenses` : 120.00 Cr
-    * `Discount` -> `Rooms` -> `Walk-in Guest` : 51.43 Dr
+    * `Discount` -> `Rooms` -> `Room 274` : 51.43 Dr
     * `Discount` -> `Expenses` -> `Kitchen Expenses` : 51.43 Dr
 * **Credit** | `Output Cgst 2.5%` : **3.67**
 * **Credit** | `Output Sgst 2.5%` : **3.67**
 
-#### Voucher No: POS-16497-23/24 | Guest: 1061 | Date: 01-Jul-26
-* **Debit** | `1061` : **210.00**
+#### Voucher No: POS-16497-23/24 | Guest: Walk-In Customer | Date: 01-Jul-26
+* **Debit** | `Walk-In Customer` : **210.00**
 * **Credit** | `Sale 5% Haryana B2C` : **200.00**
   * *Cost Centre*:
-    * `Lime Soda` -> `Rooms` -> `Walk-in Guest` : 76.19 Cr
+    * `Lime Soda` -> `Rooms` -> `Room 1061` : 76.19 Cr
     * `Lime Soda` -> `Expenses` -> `Kitchen Expenses` : 76.19 Cr
-    * `Veg. Pulao` -> `Rooms` -> `Walk-in Guest` : 123.81 Cr
+    * `Veg. Pulao` -> `Rooms` -> `Room 1061` : 123.81 Cr
     * `Veg. Pulao` -> `Expenses` -> `Kitchen Expenses` : 123.81 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.00**
 * **Credit** | `Output Sgst 2.5%` : **5.00**
@@ -99,9 +99,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ENGLABS EMPOLYEE` : **251.00**
 * **Credit** | `Sale 5% Haryana B2C` : **238.60**
   * *Cost Centre*:
-    * `Jeera Rice` -> `Rooms` -> `Walk-in Guest` : 90.50 Cr
+    * `Jeera Rice` -> `Rooms` -> `Room 120` : 90.50 Cr
     * `Jeera Rice` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Walk-in Guest` : 148.10 Cr
+    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Room 120` : 148.10 Cr
     * `Yellow Dal Tadka/fry` -> `Expenses` -> `Kitchen Expenses` : 148.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.97**
 * **Credit** | `Output Sgst 2.5%` : **5.97**
@@ -196,9 +196,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. JYOTI SWAROOP` : **290.00**
 * **Credit** | `Sale 5% Haryana B2C` : **276.20**
   * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Walk-in Guest` : 238.10 Cr
+    * `Delux Thali` -> `Rooms` -> `Room 102` : 238.10 Cr
     * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 102` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.91**
 * **Credit** | `Output Sgst 2.5%` : **6.91**
@@ -207,7 +207,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. HARENDER TYAGI` : **70.00**
 * **Credit** | `Sale 5% Haryana B2C` : **66.67**
   * *Cost Centre*:
-    * `Veg Maggies` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Veg Maggies` -> `Rooms` -> `Room 104` : 66.67 Cr
     * `Veg Maggies` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.67**
 * **Credit** | `Output Sgst 2.5%` : **1.67**
@@ -308,9 +308,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. JYOTI SWAROOP` : **110.00**
 * **Credit** | `Sale 5% Haryana B2C` : **104.77**
   * *Cost Centre*:
-    * `Poha` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Poha` -> `Rooms` -> `Room 102` : 66.67 Cr
     * `Poha` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 102` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.62**
 * **Credit** | `Output Sgst 2.5%` : **2.62**
@@ -319,7 +319,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. RAJESH SHARMA` : **80.00**
 * **Credit** | `Sale 5% Haryana B2C` : **76.20**
   * *Cost Centre*:
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 114` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.91**
 * **Credit** | `Output Sgst 2.5%` : **1.91**
@@ -328,13 +328,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. PARSHANT KUMAR` : **230.00**
 * **Credit** | `Sale 5% Haryana B2C` : **219.05**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 108` : 57.14 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 108` : 38.10 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 108` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Veg. Sandwich` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Veg. Sandwich` -> `Rooms` -> `Room 108` : 85.71 Cr
     * `Veg. Sandwich` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.49**
 * **Credit** | `Output Sgst 2.5%` : **5.49**
@@ -376,9 +376,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. MO. SAMEER` : **160.00**
 * **Credit** | `Sale 5% Haryana B2C` : **152.38**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 114.28 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 111` : 114.28 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 114.28 Cr
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 111` : 38.10 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **3.81**
 * **Credit** | `Output Sgst 2.5%` : **3.81**
@@ -427,7 +427,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ENGLABS EMPOLYEE` : **60.00**
 * **Credit** | `Sale 5% Haryana B2C` : **57.14**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
@@ -518,9 +518,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. VARUN SOOD` : **90.00**
 * **Credit** | `Sale 5% Haryana B2C` : **85.72**
   * *Cost Centre*:
-    * `Bread Toast (4pcs)` -> `Rooms` -> `Walk-in Guest` : 47.62 Cr
+    * `Bread Toast (4pcs)` -> `Rooms` -> `Room 116` : 47.62 Cr
     * `Bread Toast (4pcs)` -> `Expenses` -> `Kitchen Expenses` : 47.62 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 116` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.15**
 * **Credit** | `Output Sgst 2.5%` : **2.15**
@@ -529,27 +529,27 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `Walk-In Customer` : **84.00**
 * **Credit** | `Sale 5% Haryana B2C` : **80.00**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 80.00 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 275` : 80.00 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 80.00 Cr
-    * `Discount` -> `Rooms` -> `Walk-in Guest` : 34.28 Dr
+    * `Discount` -> `Rooms` -> `Room 275` : 34.28 Dr
     * `Discount` -> `Expenses` -> `Kitchen Expenses` : 34.28 Dr
 * **Credit** | `Output Cgst 2.5%` : **2.00**
 * **Credit** | `Output Sgst 2.5%` : **2.00**
 
-#### Voucher No: POS-16523-23/24 | Guest: 1061 | Date: 04-Jul-26
-* **Debit** | `1061` : **400.00**
+#### Voucher No: POS-16523-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
+* **Debit** | `Walk-In Customer` : **400.00**
 * **Credit** | `Sale 5% Haryana B2C` : **380.95**
   * *Cost Centre*:
-    * `Chicken Biryani + Raita` -> `Rooms` -> `Walk-in Guest` : 380.95 Cr
+    * `Chicken Biryani + Raita` -> `Rooms` -> `Room 1061` : 380.95 Cr
     * `Chicken Biryani + Raita` -> `Expenses` -> `Kitchen Expenses` : 380.95 Cr
 * **Credit** | `Output Cgst 2.5%` : **9.53**
 * **Credit** | `Output Sgst 2.5%` : **9.53**
 
-#### Voucher No: POS-16524-23/24 | Guest: 1061 | Date: 04-Jul-26
-* **Debit** | `1061` : **30.00**
+#### Voucher No: POS-16524-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
+* **Debit** | `Walk-In Customer` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 1061` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -604,19 +604,19 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. GARVIT DUDEJA` : **791.00**
 * **Credit** | `Sale 5% Haryana B2C` : **753.31**
   * *Cost Centre*:
-    * `Bread Pakora` -> `Rooms` -> `Walk-in Guest` : 115.20 Cr
+    * `Bread Pakora` -> `Rooms` -> `Room 101` : 115.20 Cr
     * `Bread Pakora` -> `Expenses` -> `Kitchen Expenses` : 115.20 Cr
-    * `Bread Toast (4pcs)` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Bread Toast (4pcs)` -> `Rooms` -> `Room 101` : 95.24 Cr
     * `Bread Toast (4pcs)` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
-    * `Coca Cola 250 Ml` -> `Rooms` -> `Walk-in Guest` : 142.86 Cr
+    * `Coca Cola 250 Ml` -> `Rooms` -> `Room 101` : 142.86 Cr
     * `Coca Cola 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 142.86 Cr
-    * `Honey Chilly Potato` -> `Rooms` -> `Walk-in Guest` : 152.38 Cr
+    * `Honey Chilly Potato` -> `Rooms` -> `Room 101` : 152.38 Cr
     * `Honey Chilly Potato` -> `Expenses` -> `Kitchen Expenses` : 152.38 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 101` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
-    * `Veg Maggies` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Veg Maggies` -> `Rooms` -> `Room 101` : 66.67 Cr
     * `Veg Maggies` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
-    * `Veg. Noodles` -> `Rooms` -> `Walk-in Guest` : 104.76 Cr
+    * `Veg. Noodles` -> `Rooms` -> `Room 101` : 104.76 Cr
     * `Veg. Noodles` -> `Expenses` -> `Kitchen Expenses` : 104.76 Cr
 * **Credit** | `Output Cgst 2.5%` : **18.83**
 * **Credit** | `Output Sgst 2.5%` : **18.83**
@@ -625,7 +625,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SHIVAM` : **210.00**
 * **Credit** | `Sale 5% Haryana B2C` : **200.00**
   * *Cost Centre*:
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 102` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.00**
 * **Credit** | `Output Sgst 2.5%` : **5.00**
@@ -634,13 +634,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ROHAN GUPTA` : **410.00**
 * **Credit** | `Sale 5% Haryana B2C` : **390.47**
   * *Cost Centre*:
-    * `Coffee` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Coffee` -> `Rooms` -> `Room 103` : 57.14 Cr
     * `Coffee` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Honey Chilly Potato` -> `Rooms` -> `Walk-in Guest` : 152.38 Cr
+    * `Honey Chilly Potato` -> `Rooms` -> `Room 103` : 152.38 Cr
     * `Honey Chilly Potato` -> `Expenses` -> `Kitchen Expenses` : 152.38 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 103` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Veg Garlic Noodles` -> `Rooms` -> `Walk-in Guest` : 123.81 Cr
+    * `Veg Garlic Noodles` -> `Rooms` -> `Room 103` : 123.81 Cr
     * `Veg Garlic Noodles` -> `Expenses` -> `Kitchen Expenses` : 123.81 Cr
 * **Credit** | `Output Cgst 2.5%` : **9.77**
 * **Credit** | `Output Sgst 2.5%` : **9.77**
@@ -649,7 +649,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MRS. NANCY SHARMA` : **70.00**
 * **Credit** | `Sale 5% Haryana B2C` : **66.67**
   * *Cost Centre*:
-    * `Veg Maggies` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Veg Maggies` -> `Rooms` -> `Room 104` : 66.67 Cr
     * `Veg Maggies` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.67**
 * **Credit** | `Output Sgst 2.5%` : **1.67**
@@ -658,7 +658,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MRS. SNEHA DIXIST` : **60.00**
 * **Credit** | `Sale 5% Haryana B2C` : **57.14**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 111` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
@@ -667,11 +667,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SANDEEP SAINI` : **260.00**
 * **Credit** | `Sale 5% Haryana B2C` : **247.63**
   * *Cost Centre*:
-    * `Egg Curry` -> `Rooms` -> `Walk-in Guest` : 142.86 Cr
+    * `Egg Curry` -> `Rooms` -> `Room 116` : 142.86 Cr
     * `Egg Curry` -> `Expenses` -> `Kitchen Expenses` : 142.86 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 116` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-    * `Tawa Roti` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tawa Roti` -> `Rooms` -> `Room 116` : 76.20 Cr
     * `Tawa Roti` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.19**
 * **Credit** | `Output Sgst 2.5%` : **6.19**
@@ -680,7 +680,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SOURABH DIXIT` : **60.00**
 * **Credit** | `Sale 5% Haryana B2C` : **57.14**
   * *Cost Centre*:
-    * `Coffee` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Coffee` -> `Rooms` -> `Room 117` : 57.14 Cr
     * `Coffee` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
@@ -689,23 +689,23 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SATISH KUMAR` : **1202.00**
 * **Credit** | `Sale 5% Haryana B2C` : **1145.21**
   * *Cost Centre*:
-    * `Aloo Gobhi Dry` -> `Rooms` -> `Walk-in Guest` : 142.86 Cr
+    * `Aloo Gobhi Dry` -> `Rooms` -> `Room 106` : 142.86 Cr
     * `Aloo Gobhi Dry` -> `Expenses` -> `Kitchen Expenses` : 142.86 Cr
-    * `Butter Amul` -> `Rooms` -> `Walk-in Guest` : 14.29 Cr
+    * `Butter Amul` -> `Rooms` -> `Room 106` : 14.29 Cr
     * `Butter Amul` -> `Expenses` -> `Kitchen Expenses` : 14.29 Cr
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 152.40 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 106` : 152.40 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 152.40 Cr
-    * `Mix Paratha` -> `Rooms` -> `Walk-in Guest` : 230.40 Cr
+    * `Mix Paratha` -> `Rooms` -> `Room 106` : 230.40 Cr
     * `Mix Paratha` -> `Expenses` -> `Kitchen Expenses` : 230.40 Cr
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 106` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
-    * `Tawa Roti` -> `Rooms` -> `Walk-in Guest` : 95.25 Cr
+    * `Tawa Roti` -> `Rooms` -> `Room 106` : 95.25 Cr
     * `Tawa Roti` -> `Expenses` -> `Kitchen Expenses` : 95.25 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 106` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
-    * `Veg. Sandwich` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Veg. Sandwich` -> `Rooms` -> `Room 106` : 85.71 Cr
     * `Veg. Sandwich` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
-    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Walk-in Guest` : 148.10 Cr
+    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Room 106` : 148.10 Cr
     * `Yellow Dal Tadka/fry` -> `Expenses` -> `Kitchen Expenses` : 148.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **28.63**
 * **Credit** | `Output Sgst 2.5%` : **28.63**
@@ -714,7 +714,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SHUSHIL KUMAR SHUKLA` : **100.00**
 * **Credit** | `Sale 5% Haryana B2C` : **95.24**
   * *Cost Centre*:
-    * `Dal Khichdi` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Dal Khichdi` -> `Rooms` -> `Room 110` : 95.24 Cr
     * `Dal Khichdi` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.38**
 * **Credit** | `Output Sgst 2.5%` : **2.38**
@@ -723,7 +723,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SHUSHIL KUMAR SHUKLA` : **100.00**
 * **Credit** | `Sale 5% Haryana B2C` : **95.24**
   * *Cost Centre*:
-    * `Dal Khichdi` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Dal Khichdi` -> `Rooms` -> `Room 110` : 95.24 Cr
     * `Dal Khichdi` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.38**
 * **Credit** | `Output Sgst 2.5%` : **2.38**
@@ -865,7 +865,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SHUBHAM GANGWAR` : **60.00**
 * **Credit** | `Sale 5% Haryana B2C` : **57.14**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 105` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
@@ -874,11 +874,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MRS. SHACHI DIXIST` : **487.00**
 * **Credit** | `Sale 5% Haryana B2C` : **464.12**
   * *Cost Centre*:
-    * `Aloo Jeera` -> `Rooms` -> `Walk-in Guest` : 114.29 Cr
+    * `Aloo Jeera` -> `Rooms` -> `Room 111` : 114.29 Cr
     * `Aloo Jeera` -> `Expenses` -> `Kitchen Expenses` : 114.29 Cr
-    * `Lassi Sweet` -> `Rooms` -> `Walk-in Guest` : 197.43 Cr
+    * `Lassi Sweet` -> `Rooms` -> `Room 111` : 197.43 Cr
     * `Lassi Sweet` -> `Expenses` -> `Kitchen Expenses` : 197.43 Cr
-    * `Tawa Roti` -> `Rooms` -> `Walk-in Guest` : 152.40 Cr
+    * `Tawa Roti` -> `Rooms` -> `Room 111` : 152.40 Cr
     * `Tawa Roti` -> `Expenses` -> `Kitchen Expenses` : 152.40 Cr
 * **Credit** | `Output Cgst 2.5%` : **11.60**
 * **Credit** | `Output Sgst 2.5%` : **11.60**
@@ -887,13 +887,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. GARVIT DUDEJA` : **325.00**
 * **Credit** | `Sale 5% Haryana B2C` : **309.57**
   * *Cost Centre*:
-    * `Plain Paratha` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Plain Paratha` -> `Rooms` -> `Room 101` : 38.10 Cr
     * `Plain Paratha` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Poha` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Poha` -> `Rooms` -> `Room 101` : 66.67 Cr
     * `Poha` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
-    * `Poori Bhaji` -> `Rooms` -> `Walk-in Guest` : 90.50 Cr
+    * `Poori Bhaji` -> `Rooms` -> `Room 101` : 90.50 Cr
     * `Poori Bhaji` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 114.30 Cr
+    * `Tea` -> `Rooms` -> `Room 101` : 114.30 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 114.30 Cr
 * **Credit** | `Output Cgst 2.5%` : **7.75**
 * **Credit** | `Output Sgst 2.5%` : **7.75**
@@ -902,7 +902,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. RAVI KUMAR CHARAN` : **40.00**
 * **Credit** | `Sale 5% Haryana B2C` : **38.10**
   * *Cost Centre*:
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 102` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.96**
 * **Credit** | `Output Sgst 2.5%` : **0.96**
@@ -916,8 +916,8 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **1.91**
 * **Credit** | `Output Sgst 2.5%` : **1.91**
 
-#### Voucher No: POS-16549-23/24 | Guest: Table No ENGLABS | Date: 05-Jul-26
-* **Debit** | `Table No ENGLABS` : **82.00**
+#### Voucher No: POS-16549-23/24 | Guest: ENGLABS | Date: 05-Jul-26
+* **Debit** | `ENGLABS` : **82.00**
 * **Credit** | `Sale 5% Haryana B2C` : **77.93**
   * *Cost Centre*:
     * `French Fries` -> `Rooms` -> `Walk-in Guest` : 98.73 Cr
@@ -927,8 +927,8 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **1.95**
 * **Credit** | `Output Sgst 2.5%` : **1.95**
 
-#### Voucher No: POS-16550-23/24 | Guest: Table No MD SIR | Date: 05-Jul-26
-* **Debit** | `Table No MD SIR` : **120.00**
+#### Voucher No: POS-16550-23/24 | Guest: MD SIR | Date: 05-Jul-26
+* **Debit** | `MD SIR` : **120.00**
 * **Credit** | `Sale 5% Haryana B2C` : **114.30**
   * *Cost Centre*:
     * `Lemon Water` -> `Rooms` -> `Walk-in Guest` : 228.60 Cr
@@ -936,8 +936,8 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **2.86**
 * **Credit** | `Output Sgst 2.5%` : **2.86**
 
-#### Voucher No: POS-16551-23/24 | Guest: Table No SHREEYA | Date: 05-Jul-26
-* **Debit** | `Table No SHREEYA` : **125.00**
+#### Voucher No: POS-16551-23/24 | Guest: SHREEYA | Date: 05-Jul-26
+* **Debit** | `SHREEYA` : **125.00**
 * **Credit** | `Sale 5% Haryana B2C` : **119.04**
   * *Cost Centre*:
     * `Poha` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
@@ -951,9 +951,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `AVANI SHARMA` : **281.00**
 * **Credit** | `Sale 5% Haryana B2C` : **268.01**
   * *Cost Centre*:
-    * `Kadhai Paneer` -> `Rooms` -> `Walk-in Guest` : 172.77 Cr
+    * `Kadhai Paneer` -> `Rooms` -> `Room 107` : 172.77 Cr
     * `Kadhai Paneer` -> `Expenses` -> `Kitchen Expenses` : 172.77 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 107` : 95.24 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.70**
 * **Credit** | `Output Sgst 2.5%` : **6.70**
@@ -962,15 +962,15 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SATISH KUMAR` : **611.00**
 * **Credit** | `Sale 5% Haryana B2C` : **581.43**
   * *Cost Centre*:
-    * `Aloo Gobhi Dry` -> `Rooms` -> `Walk-in Guest` : 142.86 Cr
+    * `Aloo Gobhi Dry` -> `Rooms` -> `Room 106` : 142.86 Cr
     * `Aloo Gobhi Dry` -> `Expenses` -> `Kitchen Expenses` : 142.86 Cr
-    * `Coca Cola 250 Ml` -> `Rooms` -> `Walk-in Guest` : 23.81 Cr
+    * `Coca Cola 250 Ml` -> `Rooms` -> `Room 106` : 23.81 Cr
     * `Coca Cola 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 23.81 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 106` : 95.24 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
-    * `Veg. Sandwich` -> `Rooms` -> `Walk-in Guest` : 171.42 Cr
+    * `Veg. Sandwich` -> `Rooms` -> `Room 106` : 171.42 Cr
     * `Veg. Sandwich` -> `Expenses` -> `Kitchen Expenses` : 171.42 Cr
-    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Walk-in Guest` : 148.10 Cr
+    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Room 106` : 148.10 Cr
     * `Yellow Dal Tadka/fry` -> `Expenses` -> `Kitchen Expenses` : 148.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **14.54**
 * **Credit** | `Output Sgst 2.5%` : **14.54**
@@ -979,7 +979,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MISS. SHREYA SHARMA` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 108` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -995,7 +995,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16538-23/24 | Date: 05-Jul-26
 * **Debit** | `Complementary Food Expense` : **333.35**
-  * *Cost Centre*: `Rooms` -> `Room 8` : 333.35 Dr
+  * *Cost Centre*: `Rooms` -> `Room 108` : 333.35 Dr
 * **Credit** | `CL 8` : **333.35**
 
 #### Journal No: FOC1-POS-16539-23/24 | Date: 05-Jul-26
@@ -1006,7 +1006,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16539-23/24 | Date: 05-Jul-26
 * **Debit** | `Complementary Food Expense` : **122.95**
-  * *Cost Centre*: `Rooms` -> `Room 2` : 122.95 Dr
+  * *Cost Centre*: `Rooms` -> `Room 102` : 122.95 Dr
 * **Credit** | `CL 2` : **122.95**
 
 #### Journal No: FOC1-POS-16540-23/24 | Date: 05-Jul-26
@@ -1019,7 +1019,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16540-23/24 | Date: 05-Jul-26
 * **Debit** | `Complementary Food Expense` : **332.47**
-  * *Cost Centre*: `Rooms` -> `Room 3` : 332.47 Dr
+  * *Cost Centre*: `Rooms` -> `Room 103` : 332.47 Dr
 * **Credit** | `CL 3` : **332.47**
 
 #### Journal No: FOC1-POS-16541-23/24 | Date: 05-Jul-26
@@ -1034,7 +1034,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16541-23/24 | Date: 05-Jul-26
 * **Debit** | `Complementary Food Expense` : **411.91**
-  * *Cost Centre*: `Rooms` -> `Room 12` : 411.91 Dr
+  * *Cost Centre*: `Rooms` -> `Room 112` : 411.91 Dr
 * **Credit** | `CL 12` : **411.91**
 
 #### Journal No: FOC1-POS-16546-23/24 | Date: 05-Jul-26
@@ -1045,7 +1045,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16546-23/24 | Date: 05-Jul-26
 * **Debit** | `Complementary Food Expense` : **142.87**
-  * *Cost Centre*: `Rooms` -> `Room 5` : 142.87 Dr
+  * *Cost Centre*: `Rooms` -> `Room 105` : 142.87 Dr
 * **Credit** | `CL 5` : **142.87**
 
 ### Payment Receipts (Journal Vouchers)
@@ -1177,9 +1177,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `AVANI SHARMA` : **140.00**
 * **Credit** | `Sale 5% Haryana B2C` : **133.34**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 107` : 57.14 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 107` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
 * **Credit** | `Output Cgst 2.5%` : **3.34**
 * **Credit** | `Output Sgst 2.5%` : **3.34**
@@ -1188,7 +1188,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SATISH KUMAR` : **25.00**
 * **Credit** | `Sale 5% Haryana B2C` : **23.81**
   * *Cost Centre*:
-    * `Coca Cola 250 Ml` -> `Rooms` -> `Walk-in Guest` : 23.81 Cr
+    * `Coca Cola 250 Ml` -> `Rooms` -> `Room 106` : 23.81 Cr
     * `Coca Cola 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 23.81 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.60**
 * **Credit** | `Output Sgst 2.5%` : **0.60**
@@ -1228,7 +1228,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `SATISH KUMAR` : **90.00**
 * **Credit** | `Sale 5% Haryana B2C` : **85.71**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 106` : 85.71 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.15**
 * **Credit** | `Output Sgst 2.5%` : **2.15**
@@ -1237,15 +1237,15 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. VISHWA SHARMA` : **1551.00**
 * **Credit** | `Sale 5% Haryana B2C` : **1477.09**
   * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Walk-in Guest` : 952.40 Cr
+    * `Delux Thali` -> `Rooms` -> `Room 101` : 952.40 Cr
     * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 952.40 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 171.42 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 101` : 171.42 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 171.42 Cr
-    * `Mix Pakora` -> `Rooms` -> `Walk-in Guest` : 115.17 Cr
+    * `Mix Pakora` -> `Rooms` -> `Room 101` : 115.17 Cr
     * `Mix Pakora` -> `Expenses` -> `Kitchen Expenses` : 115.17 Cr
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 101` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 101` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **36.93**
 * **Credit** | `Output Sgst 2.5%` : **36.93**
@@ -1254,25 +1254,25 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ATUL KUMAR` : **784.00**
 * **Credit** | `Sale 5% Haryana B2C` : **746.89**
   * *Cost Centre*:
-    * `Coca Cola 250 Ml` -> `Rooms` -> `Walk-in Guest` : 47.62 Cr
+    * `Coca Cola 250 Ml` -> `Rooms` -> `Room 112` : 47.62 Cr
     * `Coca Cola 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 47.62 Cr
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 112` : 38.10 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Gobhi Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Gobhi Parantha` -> `Rooms` -> `Room 112` : 57.14 Cr
     * `Gobhi Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Green Salad Mix` -> `Rooms` -> `Walk-in Guest` : 98.73 Cr
+    * `Green Salad Mix` -> `Rooms` -> `Room 112` : 98.73 Cr
     * `Green Salad Mix` -> `Expenses` -> `Kitchen Expenses` : 98.73 Cr
-    * `Jeera Rice` -> `Rooms` -> `Walk-in Guest` : 90.50 Cr
+    * `Jeera Rice` -> `Rooms` -> `Room 112` : 90.50 Cr
     * `Jeera Rice` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Poha` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Poha` -> `Rooms` -> `Room 112` : 66.67 Cr
     * `Poha` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
-    * `Poori Bhaji` -> `Rooms` -> `Walk-in Guest` : 90.50 Cr
+    * `Poori Bhaji` -> `Rooms` -> `Room 112` : 90.50 Cr
     * `Poori Bhaji` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 71.43 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 112` : 71.43 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 71.43 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 112` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Walk-in Guest` : 148.10 Cr
+    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Room 112` : 148.10 Cr
     * `Yellow Dal Tadka/fry` -> `Expenses` -> `Kitchen Expenses` : 148.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **18.69**
 * **Credit** | `Output Sgst 2.5%` : **18.69**
@@ -1281,18 +1281,18 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. PAWAN` : **190.00**
 * **Credit** | `Sale 5% Haryana B2C` : **180.97**
   * *Cost Centre*:
-    * `Poha` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Poha` -> `Rooms` -> `Room 114` : 66.67 Cr
     * `Poha` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 114.30 Cr
+    * `Tea` -> `Rooms` -> `Room 114` : 114.30 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 114.30 Cr
 * **Credit** | `Output Cgst 2.5%` : **4.53**
 * **Credit** | `Output Sgst 2.5%` : **4.53**
 
-#### Voucher No: POS-16562-23/24 | Guest: 1061 | Date: 06-Jul-26
-* **Debit** | `1061` : **40.00**
+#### Voucher No: POS-16562-23/24 | Guest: Walk-In Customer | Date: 06-Jul-26
+* **Debit** | `Walk-In Customer` : **40.00**
 * **Credit** | `Sale 5% Haryana B2C` : **38.10**
   * *Cost Centre*:
-    * `Lemon Water` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Lemon Water` -> `Rooms` -> `Room 1061` : 38.10 Cr
     * `Lemon Water` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.96**
 * **Credit** | `Output Sgst 2.5%` : **0.96**
@@ -1301,7 +1301,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ALOK KUMAR` : **300.00**
 * **Credit** | `Sale 5% Haryana B2C` : **285.71**
   * *Cost Centre*:
-    * `Chicken Fried Rice` -> `Rooms` -> `Walk-in Guest` : 285.71 Cr
+    * `Chicken Fried Rice` -> `Rooms` -> `Room 111` : 285.71 Cr
     * `Chicken Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 285.71 Cr
 * **Credit** | `Output Cgst 2.5%` : **7.15**
 * **Credit** | `Output Sgst 2.5%` : **7.15**
@@ -1375,15 +1375,15 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ATUL KUMAR` : **295.00**
 * **Credit** | `Sale 5% Haryana B2C` : **280.98**
   * *Cost Centre*:
-    * `Coffee` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Coffee` -> `Rooms` -> `Room 112` : 57.14 Cr
     * `Coffee` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 112` : 38.10 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Gobhi Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Gobhi Parantha` -> `Rooms` -> `Room 112` : 57.14 Cr
     * `Gobhi Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Poori Bhaji` -> `Rooms` -> `Walk-in Guest` : 90.50 Cr
+    * `Poori Bhaji` -> `Rooms` -> `Room 112` : 90.50 Cr
     * `Poori Bhaji` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 112` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **7.04**
 * **Credit** | `Output Sgst 2.5%` : **7.04**
@@ -1392,9 +1392,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `SATISH KUMAR` : **261.00**
 * **Credit** | `Sale 5% Haryana B2C` : **249.00**
   * *Cost Centre*:
-    * `Curd Bowl` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Curd Bowl` -> `Rooms` -> `Room 106` : 76.20 Cr
     * `Curd Bowl` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
-    * `Mix Paratha` -> `Rooms` -> `Walk-in Guest` : 172.80 Cr
+    * `Mix Paratha` -> `Rooms` -> `Room 106` : 172.80 Cr
     * `Mix Paratha` -> `Expenses` -> `Kitchen Expenses` : 172.80 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.23**
 * **Credit** | `Output Sgst 2.5%` : **6.23**
@@ -1403,11 +1403,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. PAWAN` : **350.00**
 * **Credit** | `Sale 5% Haryana B2C` : **333.35**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 114.28 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 114` : 114.28 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 114.28 Cr
-    * `Poha` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Poha` -> `Rooms` -> `Room 114` : 66.67 Cr
     * `Poha` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 152.40 Cr
+    * `Tea` -> `Rooms` -> `Room 114` : 152.40 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 152.40 Cr
 * **Credit** | `Output Cgst 2.5%` : **8.33**
 * **Credit** | `Output Sgst 2.5%` : **8.33**
@@ -1438,11 +1438,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **4.06**
 * **Credit** | `Output Sgst 2.5%` : **4.06**
 
-#### Voucher No: POS-16576-23/24 | Guest: 1061 | Date: 07-Jul-26
-* **Debit** | `1061` : **210.00**
+#### Voucher No: POS-16576-23/24 | Guest: Walk-In Customer | Date: 07-Jul-26
+* **Debit** | `Walk-In Customer` : **210.00**
 * **Credit** | `Sale 5% Haryana B2C` : **200.00**
   * *Cost Centre*:
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 1061` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.00**
 * **Credit** | `Output Sgst 2.5%` : **5.00**
@@ -1473,16 +1473,16 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SAHIB CHOPRA` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 107` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
 
-#### Voucher No: POS-16580-23/24 | Guest: 1061 | Date: 07-Jul-26
-* **Debit** | `1061` : **30.00**
+#### Voucher No: POS-16580-23/24 | Guest: Walk-In Customer | Date: 07-Jul-26
+* **Debit** | `Walk-In Customer` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 1061` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -1491,7 +1491,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. KUNAL WADHWA` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 104` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -1500,13 +1500,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ALOK KUMAR` : **377.00**
 * **Credit** | `Sale 5% Haryana B2C` : **359.36**
   * *Cost Centre*:
-    * `Paneer Bhurji` -> `Rooms` -> `Walk-in Guest` : 197.45 Cr
+    * `Paneer Bhurji` -> `Rooms` -> `Room 111` : 197.45 Cr
     * `Paneer Bhurji` -> `Expenses` -> `Kitchen Expenses` : 197.45 Cr
-    * `Tawa Missi Roti` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Tawa Missi Roti` -> `Rooms` -> `Room 111` : 57.14 Cr
     * `Tawa Missi Roti` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 38.10 Cr
+    * `Tea` -> `Rooms` -> `Room 111` : 38.10 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 38.10 Cr
-    * `Veg Maggies` -> `Rooms` -> `Walk-in Guest` : 66.67 Cr
+    * `Veg Maggies` -> `Rooms` -> `Room 111` : 66.67 Cr
     * `Veg Maggies` -> `Expenses` -> `Kitchen Expenses` : 66.67 Cr
 * **Credit** | `Output Cgst 2.5%` : **8.99**
 * **Credit** | `Output Sgst 2.5%` : **8.99**
@@ -1610,7 +1610,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SAHIB CHOPRA` : **60.00**
 * **Credit** | `Sale 5% Haryana B2C` : **57.14**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 107` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
@@ -1619,20 +1619,20 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. NASIM` : **359.00**
 * **Credit** | `Sale 5% Haryana B2C` : **342.04**
   * *Cost Centre*:
-    * `Coffee` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Coffee` -> `Rooms` -> `Room 106` : 57.14 Cr
     * `Coffee` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Tawa Roti` -> `Rooms` -> `Walk-in Guest` : 133.35 Cr
+    * `Tawa Roti` -> `Rooms` -> `Room 106` : 133.35 Cr
     * `Tawa Roti` -> `Expenses` -> `Kitchen Expenses` : 133.35 Cr
-    * `Paneer Lawabdar` -> `Rooms` -> `Walk-in Guest` : 164.54 Cr
+    * `Paneer Lawabdar` -> `Rooms` -> `Room 106` : 164.54 Cr
     * `Paneer Lawabdar` -> `Expenses` -> `Kitchen Expenses` : 164.54 Cr
 * **Credit** | `Output Cgst 2.5%` : **8.55**
 * **Credit** | `Output Sgst 2.5%` : **8.55**
 
-#### Voucher No: POS-16588-23/24 | Guest: 1061 | Date: 08-Jul-26
-* **Debit** | `1061` : **60.00**
+#### Voucher No: POS-16588-23/24 | Guest: Walk-In Customer | Date: 08-Jul-26
+* **Debit** | `Walk-In Customer` : **60.00**
 * **Credit** | `Sale 5% Haryana B2C` : **57.14**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 1061` : 57.14 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
@@ -1646,20 +1646,20 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `Output Cgst 2.5%` : **1.43**
 * **Credit** | `Output Sgst 2.5%` : **1.43**
 
-#### Voucher No: POS-16590-23/24 | Guest: 1061 | Date: 08-Jul-26
-* **Debit** | `1061` : **173.00**
+#### Voucher No: POS-16590-23/24 | Guest: Walk-In Customer | Date: 08-Jul-26
+* **Debit** | `Walk-In Customer` : **173.00**
 * **Credit** | `Sale 5% Haryana B2C` : **164.54**
   * *Cost Centre*:
-    * `Paneer Lawabdar` -> `Rooms` -> `Walk-in Guest` : 164.54 Cr
+    * `Paneer Lawabdar` -> `Rooms` -> `Room 1061` : 164.54 Cr
     * `Paneer Lawabdar` -> `Expenses` -> `Kitchen Expenses` : 164.54 Cr
 * **Credit** | `Output Cgst 2.5%` : **4.12**
 * **Credit** | `Output Sgst 2.5%` : **4.12**
 
-#### Voucher No: POS-16591-23/24 | Guest: 1061 | Date: 08-Jul-26
-* **Debit** | `1061` : **30.00**
+#### Voucher No: POS-16591-23/24 | Guest: Walk-In Customer | Date: 08-Jul-26
+* **Debit** | `Walk-In Customer` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 1061` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -1668,15 +1668,15 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `SURINDER KUMAR` : **693.00**
 * **Credit** | `Sale 5% Haryana B2C` : **659.83**
   * *Cost Centre*:
-    * `Green Salad Mix` -> `Rooms` -> `Walk-in Guest` : 98.73 Cr
+    * `Green Salad Mix` -> `Rooms` -> `Room 105` : 98.73 Cr
     * `Green Salad Mix` -> `Expenses` -> `Kitchen Expenses` : 98.73 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 105` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-    * `Peanut Masala` -> `Rooms` -> `Walk-in Guest` : 98.73 Cr
+    * `Peanut Masala` -> `Rooms` -> `Room 105` : 98.73 Cr
     * `Peanut Masala` -> `Expenses` -> `Kitchen Expenses` : 98.73 Cr
-    * `Tawa Missi Roti` -> `Rooms` -> `Walk-in Guest` : 285.70 Cr
+    * `Tawa Missi Roti` -> `Rooms` -> `Room 105` : 285.70 Cr
     * `Tawa Missi Roti` -> `Expenses` -> `Kitchen Expenses` : 285.70 Cr
-    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Walk-in Guest` : 148.10 Cr
+    * `Yellow Dal Tadka/fry` -> `Rooms` -> `Room 105` : 148.10 Cr
     * `Yellow Dal Tadka/fry` -> `Expenses` -> `Kitchen Expenses` : 148.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **16.51**
 * **Credit** | `Output Sgst 2.5%` : **16.51**
@@ -1685,7 +1685,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `SURINDER KUMAR` : **15.00**
 * **Credit** | `Sale 5% Haryana B2C` : **14.29**
   * *Cost Centre*:
-    * `Butter Amul` -> `Rooms` -> `Walk-in Guest` : 14.29 Cr
+    * `Butter Amul` -> `Rooms` -> `Room 105` : 14.29 Cr
     * `Butter Amul` -> `Expenses` -> `Kitchen Expenses` : 14.29 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.36**
 * **Credit** | `Output Sgst 2.5%` : **0.36**
@@ -1694,9 +1694,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ALOK KUMAR` : **425.00**
 * **Credit** | `Sale 5% Haryana B2C` : **404.76**
   * *Cost Centre*:
-    * `Chicken Biryani + Raita` -> `Rooms` -> `Walk-in Guest` : 380.95 Cr
+    * `Chicken Biryani + Raita` -> `Rooms` -> `Room 111` : 380.95 Cr
     * `Chicken Biryani + Raita` -> `Expenses` -> `Kitchen Expenses` : 380.95 Cr
-    * `Limca 250 Ml` -> `Rooms` -> `Walk-in Guest` : 23.81 Cr
+    * `Limca 250 Ml` -> `Rooms` -> `Room 111` : 23.81 Cr
     * `Limca 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 23.81 Cr
 * **Credit** | `Output Cgst 2.5%` : **10.12**
 * **Credit** | `Output Sgst 2.5%` : **10.12**
@@ -1712,7 +1712,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16584-23/24 | Date: 08-Jul-26
 * **Debit** | `Complementary Food Expense` : **162.37**
-  * *Cost Centre*: `Rooms` -> `Room 4` : 162.37 Dr
+  * *Cost Centre*: `Rooms` -> `Room 104` : 162.37 Dr
 * **Credit** | `CL 4` : **162.37**
 
 ### Payment Receipts (Journal Vouchers)
@@ -1739,9 +1739,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SHUSHIL KUMAR SHUKLA` : **130.00**
 * **Credit** | `Sale 5% Haryana B2C` : **123.81**
   * *Cost Centre*:
-    * `Dal Khichdi` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Dal Khichdi` -> `Rooms` -> `Room 110` : 95.24 Cr
     * `Dal Khichdi` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 110` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **3.10**
 * **Credit** | `Output Sgst 2.5%` : **3.10**
@@ -1750,11 +1750,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **480.00**
 * **Credit** | `Sale 5% Haryana B2C` : **457.14**
   * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Walk-in Guest` : 238.10 Cr
+    * `Delux Thali` -> `Rooms` -> `Room 120` : 238.10 Cr
     * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
-    * `Manchurian Fried Rice` -> `Rooms` -> `Walk-in Guest` : 161.90 Cr
+    * `Manchurian Fried Rice` -> `Rooms` -> `Room 120` : 161.90 Cr
     * `Manchurian Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 161.90 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
 * **Credit** | `Output Cgst 2.5%` : **11.44**
 * **Credit** | `Output Sgst 2.5%` : **11.44**
@@ -1763,7 +1763,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **170.00**
 * **Credit** | `Sale 5% Haryana B2C` : **161.90**
   * *Cost Centre*:
-    * `Manchurian Fried Rice` -> `Rooms` -> `Walk-in Guest` : 161.90 Cr
+    * `Manchurian Fried Rice` -> `Rooms` -> `Room 120` : 161.90 Cr
     * `Manchurian Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 161.90 Cr
 * **Credit** | `Output Cgst 2.5%` : **4.05**
 * **Credit** | `Output Sgst 2.5%` : **4.05**
@@ -1869,7 +1869,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `JASMEET SINGH` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 106` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -1878,9 +1878,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. SAHIL` : **126.00**
 * **Credit** | `Sale 5% Haryana B2C` : **120.00**
   * *Cost Centre*:
-    * `Egg Bhurji` -> `Rooms` -> `Walk-in Guest` : 171.43 Cr
+    * `Egg Bhurji` -> `Rooms` -> `Room 277` : 171.43 Cr
     * `Egg Bhurji` -> `Expenses` -> `Kitchen Expenses` : 171.43 Cr
-    * `Discount` -> `Rooms` -> `Walk-in Guest` : 51.43 Dr
+    * `Discount` -> `Rooms` -> `Room 277` : 51.43 Dr
     * `Discount` -> `Expenses` -> `Kitchen Expenses` : 51.43 Dr
 * **Credit** | `Output Cgst 2.5%` : **3.00**
 * **Credit** | `Output Sgst 2.5%` : **3.00**
@@ -1889,9 +1889,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHEL SIR` : **280.00**
 * **Credit** | `Sale 5% Haryana B2C` : **266.66**
   * *Cost Centre*:
-    * `Chicken Biryani + Raita` -> `Rooms` -> `Walk-in Guest` : 380.95 Cr
+    * `Chicken Biryani + Raita` -> `Rooms` -> `Room 278` : 380.95 Cr
     * `Chicken Biryani + Raita` -> `Expenses` -> `Kitchen Expenses` : 380.95 Cr
-    * `Discount` -> `Rooms` -> `Walk-in Guest` : 114.29 Dr
+    * `Discount` -> `Rooms` -> `Room 278` : 114.29 Dr
     * `Discount` -> `Expenses` -> `Kitchen Expenses` : 114.29 Dr
 * **Credit** | `Output Cgst 2.5%` : **6.67**
 * **Credit** | `Output Sgst 2.5%` : **6.67**
@@ -1931,9 +1931,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. HANISH KUMAR` : **184.00**
 * **Credit** | `Sale 5% Haryana B2C` : **174.93**
   * *Cost Centre*:
-    * `Mix Sauce Pasta` -> `Rooms` -> `Walk-in Guest` : 98.73 Cr
+    * `Mix Sauce Pasta` -> `Rooms` -> `Room 108` : 98.73 Cr
     * `Mix Sauce Pasta` -> `Expenses` -> `Kitchen Expenses` : 98.73 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 108` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
 * **Credit** | `Output Cgst 2.5%` : **4.38**
 * **Credit** | `Output Sgst 2.5%` : **4.38**
@@ -1953,11 +1953,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `AMIT` : **455.00**
 * **Credit** | `Sale 5% Haryana B2C` : **433.34**
   * *Cost Centre*:
-    * `Coca Cola 250 Ml` -> `Rooms` -> `Walk-in Guest` : 71.43 Cr
+    * `Coca Cola 250 Ml` -> `Rooms` -> `Room 102` : 71.43 Cr
     * `Coca Cola 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 71.43 Cr
-    * `Paneer Fried Rice` -> `Rooms` -> `Walk-in Guest` : 190.48 Cr
+    * `Paneer Fried Rice` -> `Rooms` -> `Room 102` : 190.48 Cr
     * `Paneer Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 190.48 Cr
-    * `Veg. Manchurian (dry/gravy)` -> `Rooms` -> `Walk-in Guest` : 171.43 Cr
+    * `Veg. Manchurian (dry/gravy)` -> `Rooms` -> `Room 102` : 171.43 Cr
     * `Veg. Manchurian (dry/gravy)` -> `Expenses` -> `Kitchen Expenses` : 171.43 Cr
 * **Credit** | `Output Cgst 2.5%` : **10.83**
 * **Credit** | `Output Sgst 2.5%` : **10.83**
@@ -1966,7 +1966,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. HANISH KUMAR` : **180.00**
 * **Credit** | `Sale 5% Haryana B2C` : **171.43**
   * *Cost Centre*:
-    * `Veg Biryani` -> `Rooms` -> `Walk-in Guest` : 171.43 Cr
+    * `Veg Biryani` -> `Rooms` -> `Room 108` : 171.43 Cr
     * `Veg Biryani` -> `Expenses` -> `Kitchen Expenses` : 171.43 Cr
 * **Credit** | `Output Cgst 2.5%` : **4.29**
 * **Credit** | `Output Sgst 2.5%` : **4.29**
@@ -1975,7 +1975,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `AMIT` : **210.00**
 * **Credit** | `Sale 5% Haryana B2C` : **200.00**
   * *Cost Centre*:
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 102` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.00**
 * **Credit** | `Output Sgst 2.5%` : **5.00**
@@ -1984,7 +1984,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `AMIT` : **100.00**
 * **Credit** | `Sale 5% Haryana B2C` : **95.24**
   * *Cost Centre*:
-    * `Coca Cola 250 Ml` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Coca Cola 250 Ml` -> `Rooms` -> `Room 102` : 95.24 Cr
     * `Coca Cola 250 Ml` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.38**
 * **Credit** | `Output Sgst 2.5%` : **2.38**
@@ -1993,9 +1993,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. HARSH KUMAR` : **240.00**
 * **Credit** | `Sale 5% Haryana B2C` : **228.57**
   * *Cost Centre*:
-    * `Coffee` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Coffee` -> `Rooms` -> `Room 105` : 57.14 Cr
     * `Coffee` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Veg Biryani` -> `Rooms` -> `Walk-in Guest` : 171.43 Cr
+    * `Veg Biryani` -> `Rooms` -> `Room 105` : 171.43 Cr
     * `Veg Biryani` -> `Expenses` -> `Kitchen Expenses` : 171.43 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.72**
 * **Credit** | `Output Sgst 2.5%` : **5.72**
@@ -2011,7 +2011,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16596-23/24 | Date: 09-Jul-26
 * **Debit** | `Complementary Food Expense` : **152.39**
-  * *Cost Centre*: `Rooms` -> `Room 4` : 152.39 Dr
+  * *Cost Centre*: `Rooms` -> `Room 104` : 152.39 Dr
 * **Credit** | `CL 4` : **152.39**
 
 ### Payment Receipts (Journal Vouchers)
@@ -2091,7 +2091,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. JASMEET SINGH` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 106` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -2100,9 +2100,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. HANISH KUMAR` : **260.00**
 * **Credit** | `Sale 5% Haryana B2C` : **247.62**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 171.42 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 108` : 171.42 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 171.42 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 108` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.19**
 * **Credit** | `Output Sgst 2.5%` : **6.19**
@@ -2111,7 +2111,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. JASMEET SINGH` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 106` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -2129,9 +2129,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. PARAMJEET SINGH` : **201.00**
 * **Credit** | `Sale 5% Haryana B2C` : **191.40**
   * *Cost Centre*:
-    * `Mix Paratha` -> `Rooms` -> `Walk-in Guest` : 115.20 Cr
+    * `Mix Paratha` -> `Rooms` -> `Room 117` : 115.20 Cr
     * `Mix Paratha` -> `Expenses` -> `Kitchen Expenses` : 115.20 Cr
-    * `Tea` -> `Rooms` -> `Walk-in Guest` : 76.20 Cr
+    * `Tea` -> `Rooms` -> `Room 117` : 76.20 Cr
     * `Tea` -> `Expenses` -> `Kitchen Expenses` : 76.20 Cr
 * **Credit** | `Output Cgst 2.5%` : **4.79**
 * **Credit** | `Output Sgst 2.5%` : **4.79**
@@ -2140,7 +2140,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. KULDEEP SHARMA` : **90.00**
 * **Credit** | `Sale 5% Haryana B2C` : **85.71**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 106` : 85.71 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
 * **Credit** | `Output Cgst 2.5%` : **2.15**
 * **Credit** | `Output Sgst 2.5%` : **2.15**
@@ -2199,7 +2199,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. KULDEEP SHARMA` : **30.00**
 * **Credit** | `Sale 5% Haryana B2C` : **28.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 106` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **0.72**
 * **Credit** | `Output Sgst 2.5%` : **0.72**
@@ -2215,7 +2215,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16613-23/24 | Date: 10-Jul-26
 * **Debit** | `Complementary Food Expense` : **162.37**
-  * *Cost Centre*: `Rooms` -> `Room 4` : 162.37 Dr
+  * *Cost Centre*: `Rooms` -> `Room 104` : 162.37 Dr
 * **Credit** | `CL 4` : **162.37**
 
 #### Journal No: FOC1-POS-16615-23/24 | Date: 10-Jul-26
@@ -2225,7 +2225,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16615-23/24 | Date: 10-Jul-26
 * **Debit** | `Complementary Food Expense` : **65.81**
-  * *Cost Centre*: `Rooms` -> `Room 3` : 65.81 Dr
+  * *Cost Centre*: `Rooms` -> `Room 103` : 65.81 Dr
 * **Credit** | `CL 3` : **65.81**
 
 ### Payment Receipts (Journal Vouchers)
@@ -2240,9 +2240,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **307.00**
 * **Credit** | `Sale 5% Haryana B2C` : **292.69**
   * *Cost Centre*:
-    * `Paneer Bhurji` -> `Rooms` -> `Walk-in Guest` : 197.45 Cr
+    * `Paneer Bhurji` -> `Rooms` -> `Room 120` : 197.45 Cr
     * `Paneer Bhurji` -> `Expenses` -> `Kitchen Expenses` : 197.45 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 95.24 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 95.24 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 95.24 Cr
 * **Credit** | `Output Cgst 2.5%` : **7.32**
 * **Credit** | `Output Sgst 2.5%` : **7.32**
@@ -2263,11 +2263,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **366.00**
 * **Credit** | `Sale 5% Haryana B2C` : **348.96**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Kadhai Paneer` -> `Rooms` -> `Walk-in Guest` : 172.77 Cr
+    * `Kadhai Paneer` -> `Rooms` -> `Room 120` : 172.77 Cr
     * `Kadhai Paneer` -> `Expenses` -> `Kitchen Expenses` : 172.77 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 119.05 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
 * **Credit** | `Output Cgst 2.5%` : **8.73**
 * **Credit** | `Output Sgst 2.5%` : **8.73**
@@ -2284,11 +2284,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **440.00**
 * **Credit** | `Sale 5% Haryana B2C` : **419.04**
   * *Cost Centre*:
-    * `Manchurian Fried Rice` -> `Rooms` -> `Walk-in Guest` : 161.90 Cr
+    * `Manchurian Fried Rice` -> `Rooms` -> `Room 120` : 161.90 Cr
     * `Manchurian Fried Rice` -> `Expenses` -> `Kitchen Expenses` : 161.90 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 120` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
 * **Credit** | `Output Cgst 2.5%` : **10.48**
 * **Credit** | `Output Sgst 2.5%` : **10.48**
@@ -2305,13 +2305,13 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **448.00**
 * **Credit** | `Sale 5% Haryana B2C` : **426.90**
   * *Cost Centre*:
-    * `Mix Paratha` -> `Rooms` -> `Walk-in Guest` : 57.60 Cr
+    * `Mix Paratha` -> `Rooms` -> `Room 120` : 57.60 Cr
     * `Mix Paratha` -> `Expenses` -> `Kitchen Expenses` : 57.60 Cr
-    * `Paneer Lawabdar` -> `Rooms` -> `Walk-in Guest` : 164.54 Cr
+    * `Paneer Lawabdar` -> `Rooms` -> `Room 120` : 164.54 Cr
     * `Paneer Lawabdar` -> `Expenses` -> `Kitchen Expenses` : 164.54 Cr
-    * `Paneer Paratha` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Paneer Paratha` -> `Rooms` -> `Room 120` : 85.71 Cr
     * `Paneer Paratha` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 119.05 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
 * **Credit** | `Output Cgst 2.5%` : **10.68**
 * **Credit** | `Output Sgst 2.5%` : **10.68**
@@ -2328,7 +2328,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **250.00**
 * **Credit** | `Sale 5% Haryana B2C` : **238.10**
   * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Walk-in Guest` : 238.10 Cr
+    * `Delux Thali` -> `Rooms` -> `Room 120` : 238.10 Cr
     * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.96**
 * **Credit** | `Output Sgst 2.5%` : **5.96**
@@ -2337,11 +2337,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **255.00**
 * **Credit** | `Sale 5% Haryana B2C` : **242.48**
   * *Cost Centre*:
-    * `Dal Arhar Tadka` -> `Rooms` -> `Walk-in Guest` : 123.41 Cr
+    * `Dal Arhar Tadka` -> `Rooms` -> `Room 120` : 123.41 Cr
     * `Dal Arhar Tadka` -> `Expenses` -> `Kitchen Expenses` : 123.41 Cr
-    * `Jeera Rice` -> `Rooms` -> `Walk-in Guest` : 90.50 Cr
+    * `Jeera Rice` -> `Rooms` -> `Room 120` : 90.50 Cr
     * `Jeera Rice` -> `Expenses` -> `Kitchen Expenses` : 90.50 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.07**
 * **Credit** | `Output Sgst 2.5%` : **6.07**
@@ -2358,9 +2358,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **150.00**
 * **Credit** | `Sale 5% Haryana B2C` : **142.85**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Paneer Paratha` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Paneer Paratha` -> `Rooms` -> `Room 120` : 85.71 Cr
     * `Paneer Paratha` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
 * **Credit** | `Output Cgst 2.5%` : **3.58**
 * **Credit** | `Output Sgst 2.5%` : **3.58**
@@ -2369,11 +2369,11 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **362.00**
 * **Credit** | `Sale 5% Haryana B2C` : **345.07**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-    * `Paneer Bhurji` -> `Rooms` -> `Walk-in Guest` : 197.45 Cr
+    * `Paneer Bhurji` -> `Rooms` -> `Room 120` : 197.45 Cr
     * `Paneer Bhurji` -> `Expenses` -> `Kitchen Expenses` : 197.45 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 119.05 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
 * **Credit** | `Output Cgst 2.5%` : **8.63**
 * **Credit** | `Output Sgst 2.5%` : **8.63**
@@ -2390,9 +2390,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **240.00**
 * **Credit** | `Sale 5% Haryana B2C` : **228.57**
   * *Cost Centre*:
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
-    * `Special Thali` -> `Rooms` -> `Walk-in Guest` : 200.00 Cr
+    * `Special Thali` -> `Rooms` -> `Room 120` : 200.00 Cr
     * `Special Thali` -> `Expenses` -> `Kitchen Expenses` : 200.00 Cr
 * **Credit** | `Output Cgst 2.5%` : **5.72**
 * **Credit** | `Output Sgst 2.5%` : **5.72**
@@ -2406,7 +2406,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16385-23/24 | Date: 24-Jun-26
 * **Debit** | `Complementary Food Expense` : **131.62**
-  * *Cost Centre*: `Rooms` -> `Room 3` : 131.62 Dr
+  * *Cost Centre*: `Rooms` -> `Room 103` : 131.62 Dr
 * **Credit** | `CL 3` : **131.62**
 
 ### Payment Receipts (Journal Vouchers)
@@ -2421,9 +2421,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. BHARAT SIR GUEST` : **298.00**
 * **Credit** | `Sale 5% Haryana B2C` : **283.59**
   * *Cost Centre*:
-    * `Paneer Lawabdar` -> `Rooms` -> `Walk-in Guest` : 164.54 Cr
+    * `Paneer Lawabdar` -> `Rooms` -> `Room 120` : 164.54 Cr
     * `Paneer Lawabdar` -> `Expenses` -> `Kitchen Expenses` : 164.54 Cr
-    * `Tawa Butter Roti` -> `Rooms` -> `Walk-in Guest` : 119.05 Cr
+    * `Tawa Butter Roti` -> `Rooms` -> `Room 120` : 119.05 Cr
     * `Tawa Butter Roti` -> `Expenses` -> `Kitchen Expenses` : 119.05 Cr
 * **Credit** | `Output Cgst 2.5%` : **7.09**
 * **Credit** | `Output Sgst 2.5%` : **7.09**
@@ -2440,9 +2440,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ENGLABS EMPOLYEE` : **150.00**
 * **Credit** | `Sale 5% Haryana B2C` : **142.85**
   * *Cost Centre*:
-    * `Aloo Parantha` -> `Rooms` -> `Walk-in Guest` : 57.14 Cr
+    * `Aloo Parantha` -> `Rooms` -> `Room 120` : 57.14 Cr
     * `Aloo Parantha` -> `Expenses` -> `Kitchen Expenses` : 57.14 Cr
-    * `Paneer Paratha` -> `Rooms` -> `Walk-in Guest` : 85.71 Cr
+    * `Paneer Paratha` -> `Rooms` -> `Room 120` : 85.71 Cr
     * `Paneer Paratha` -> `Expenses` -> `Kitchen Expenses` : 85.71 Cr
 * **Credit** | `Output Cgst 2.5%` : **3.58**
 * **Credit** | `Output Sgst 2.5%` : **3.58**
@@ -2459,9 +2459,9 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `MR. ENGLABS EMPOLYEE` : **280.00**
 * **Credit** | `Sale 5% Haryana B2C` : **266.67**
   * *Cost Centre*:
-    * `Delux Thali` -> `Rooms` -> `Walk-in Guest` : 238.10 Cr
+    * `Delux Thali` -> `Rooms` -> `Room 120` : 238.10 Cr
     * `Delux Thali` -> `Expenses` -> `Kitchen Expenses` : 238.10 Cr
-    * `Mineral Water` -> `Rooms` -> `Walk-in Guest` : 28.57 Cr
+    * `Mineral Water` -> `Rooms` -> `Room 120` : 28.57 Cr
     * `Mineral Water` -> `Expenses` -> `Kitchen Expenses` : 28.57 Cr
 * **Credit** | `Output Cgst 2.5%` : **6.67**
 * **Credit** | `Output Sgst 2.5%` : **6.67**
@@ -2525,7 +2525,7 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 #### Journal No: FOC2-POS-16628-23/24 | Date: 11-Jul-26
 * **Debit** | `Complementary Food Expense` : **861.90**
-  * *Cost Centre*: `Rooms` -> `Room 7` : 861.90 Dr
+  * *Cost Centre*: `Rooms` -> `Room 107` : 861.90 Dr
 * **Credit** | `CL 7` : **861.90**
 
 ### Payment Receipts (Journal Vouchers)
