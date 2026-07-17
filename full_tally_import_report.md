@@ -109,16 +109,20 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 ### Payment Receipts (Journal Vouchers)
 
 #### Voucher No (Payment): Journal-12192 | Guest: MR. AJAY KUMAR | Date: 01-Jul-26
-* **Debit** | `CASH` : **1600.00**
+* **Debit** | `CONSUMER` : **1600.00**
 * **Credit** | `MR. AJAY KUMAR` : **1600.00**
 
 #### Voucher No (Payment): Journal-POS-16494-23/24 | Guest: MR. AJAY KUMAR | Date: 01-Jul-26
-* **Debit** | `CASH` : **110.00**
+* **Debit** | `CONSUMER` : **110.00**
 * **Credit** | `MR. AJAY KUMAR` : **110.00**
 
 #### Voucher No (Payment): Journal-POS-16496-23/24 | Guest: Walk-In Customer | Date: 01-Jul-26
-* **Debit** | `CASH` : **154.00**
+* **Debit** | `CONSUMER` : **154.00**
 * **Credit** | `Walk-In Customer` : **154.00**
+
+#### Voucher No (Payment): Journal-POS-16497-23/24 | Guest: Walk-In Customer | Date: 01-Jul-26
+* **Debit** | `CASH` : **480.00**
+* **Credit** | `Walk-In Customer` : **480.00**
 
 ---
 
@@ -215,17 +219,16 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 ### Payment Receipts (Journal Vouchers)
 
 #### Voucher No (Payment): Journal-12194 | Guest: MR. BALWINDER | Date: 02-Jul-26
-* **Debit** | `CASH` : **1700.00**
+* **Debit** | `CONSUMER` : **1700.00**
 * **Credit** | `MR. BALWINDER` : **1700.00**
 
 #### Voucher No (Payment): Journal-12195 | Guest: MR. GURDEEP SINGH | Date: 02-Jul-26
-* **Debit** | `CASH` : **1800.00**
+* **Debit** | `CONSUMER` : **1800.00**
 * **Credit** | `MR. GURDEEP SINGH` : **1800.00**
 
 #### Voucher No (Payment): Journal-POS-16506-23/24 | Guest: MR. JYOTI SWAROOP | Date: 02-Jul-26
-* **Debit** | `CASH` : **400.00**
-* **Debit** | `CONSUMER` : **290.00**
-* **Credit** | `MR. JYOTI SWAROOP` : **690.00**
+* **Debit** | `CONSUMER` : **400.00**
+* **Credit** | `MR. JYOTI SWAROOP` : **400.00**
 
 ---
 
@@ -434,28 +437,56 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 ### Payment Receipts (Journal Vouchers)
 
+#### Voucher No (Payment): Journal-12196 | Guest: MR. ATUL KUMAR | Date: 03-Jul-26
+* **Debit** | `CASH` : **2000.00**
+* **Credit** | `MR. ATUL KUMAR` : **2000.00**
+
 #### Voucher No (Payment): Journal-12197 | Guest: MR. JYOTI SWAROOP | Date: 03-Jul-26
-* **Debit** | `CASH` : **1800.00**
+* **Debit** | `CONSUMER` : **1800.00**
 * **Credit** | `MR. JYOTI SWAROOP` : **1800.00**
+
+#### Voucher No (Payment): Journal-12198 | Guest: MR. RAJESH SHARMA | Date: 03-Jul-26
+* **Debit** | `CASH` : **3300.00**
+* **Credit** | `MR. RAJESH SHARMA` : **3300.00**
 
 #### Voucher No (Payment): Journal-12200 | Guest: MR. SUMIT | Date: 03-Jul-26
 * **Debit** | `CONSUMER` : **1800.00**
 * **Credit** | `MR. SUMIT` : **1800.00**
 
+#### Voucher No (Payment): Journal-POS-16508-23/24 | Guest: Walk-In Customer | Date: 03-Jul-26
+* **Debit** | `CASH` : **70.00**
+* **Credit** | `Walk-In Customer` : **70.00**
+
+#### Voucher No (Payment): Journal-POS-16512-23/24 | Guest: MR. RAJESH SHARMA | Date: 03-Jul-26
+* **Debit** | `CASH` : **80.00**
+* **Credit** | `MR. RAJESH SHARMA` : **80.00**
+
 #### Voucher No (Payment): Journal-POS-16513-23/24 | Guest: MR. PARSHANT KUMAR | Date: 03-Jul-26
-* **Debit** | `CASH` : **230.00**
+* **Debit** | `CONSUMER` : **230.00**
 * **Credit** | `MR. PARSHANT KUMAR` : **230.00**
 
+#### Voucher No (Payment): Journal-POS-16514-23/24 | Guest: Walk-In Customer | Date: 03-Jul-26
+* **Debit** | `CASH` : **70.00**
+* **Credit** | `Walk-In Customer` : **70.00**
+
 #### Voucher No (Payment): Journal-12202 | Guest: MR. SAMEER | Date: 03-Jul-26
-* **Debit** | `CASH` : **1800.00**
+* **Debit** | `CONSUMER` : **1800.00**
 * **Credit** | `MR. SAMEER` : **1800.00**
 
 #### Voucher No (Payment): Journal-12203 | Guest: MR. MO. SAMEER | Date: 03-Jul-26
-* **Debit** | `CASH` : **1800.00**
+* **Debit** | `CONSUMER` : **1800.00**
 * **Credit** | `MR. MO. SAMEER` : **1800.00**
 
+#### Voucher No (Payment): Journal-POS-16510-23/24 | Guest: Walk-In Customer | Date: 03-Jul-26
+* **Debit** | `CASH` : **140.00**
+* **Credit** | `Walk-In Customer` : **140.00**
+
+#### Voucher No (Payment): Journal-POS-16511-23/24 | Guest: Walk-In Customer | Date: 03-Jul-26
+* **Debit** | `CASH` : **140.00**
+* **Credit** | `Walk-In Customer` : **140.00**
+
 #### Voucher No (Payment): Journal-POS-16515-23/24 | Guest: MR. MO. SAMEER | Date: 03-Jul-26
-* **Debit** | `CASH` : **160.00**
+* **Debit** | `CONSUMER` : **160.00**
 * **Credit** | `MR. MO. SAMEER` : **160.00**
 
 ---
@@ -731,64 +762,73 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 ### Payment Receipts (Journal Vouchers)
 
 #### Voucher No (Payment): Journal-12204 | Guest: MR. VARUN SOOD | Date: 04-Jul-26
-* **Debit** | `CASH` : **1200.00**
+* **Debit** | `CONSUMER` : **1200.00**
 * **Credit** | `MR. VARUN SOOD` : **1200.00**
 
 #### Voucher No (Payment): Journal-12205 | Guest: MR. RAVINDER SINGH YADAV | Date: 04-Jul-26
-* **Debit** | `CASH` : **1000.00**
-* **Credit** | `MR. RAVINDER SINGH YADAV` : **1000.00**
+* **Debit** | `CASH` : **2000.00**
+* **Debit** | `CONSUMER` : **1000.00**
+* **Credit** | `MR. RAVINDER SINGH YADAV` : **3000.00**
 
 #### Voucher No (Payment): Journal-POS-16521-23/24 | Guest: MR. VARUN SOOD | Date: 04-Jul-26
-* **Debit** | `CASH` : **90.00**
+* **Debit** | `CONSUMER` : **90.00**
 * **Credit** | `MR. VARUN SOOD` : **90.00**
 
 #### Voucher No (Payment): Journal-12207 | Guest: MR. RAJAT SHARMA | Date: 04-Jul-26
-* **Debit** | `CASH` : **1000.00**
+* **Debit** | `CONSUMER` : **1000.00**
 * **Credit** | `MR. RAJAT SHARMA` : **1000.00**
 
 #### Voucher No (Payment): Journal-POS-16522-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
-* **Debit** | `CASH` : **84.00**
+* **Debit** | `CONSUMER` : **84.00**
 * **Credit** | `Walk-In Customer` : **84.00**
 
 #### Voucher No (Payment): Journal-POS-16523-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
-* **Debit** | `CASH` : **430.00**
+* **Debit** | `CONSUMER` : **430.00**
 * **Credit** | `Walk-In Customer` : **430.00**
 
 #### Voucher No (Payment): Journal-POS-16524-23/24 | Guest: Walk-In Customer | Date: 04-Jul-26
-* **Debit** | `CASH` : **430.00**
+* **Debit** | `CONSUMER` : **430.00**
 * **Credit** | `Walk-In Customer` : **430.00**
 
 #### Voucher No (Payment): Journal-POS-16529-23/24 | Guest: MR. GARVIT DUDEJA | Date: 04-Jul-26
-* **Debit** | `CASH` : **1116.00**
+* **Debit** | `CONSUMER` : **1116.00**
 * **Credit** | `MR. GARVIT DUDEJA` : **1116.00**
 
 #### Voucher No (Payment): Journal-POS-16530-23/24 | Guest: MR. SHIVAM | Date: 04-Jul-26
-* **Debit** | `CASH` : **210.00**
+* **Debit** | `CONSUMER` : **210.00**
 * **Credit** | `MR. SHIVAM` : **210.00**
 
 #### Voucher No (Payment): Journal-POS-16531-23/24 | Guest: MR. ROHAN GUPTA | Date: 04-Jul-26
-* **Debit** | `CASH` : **410.00**
+* **Debit** | `CONSUMER` : **410.00**
 * **Credit** | `MR. ROHAN GUPTA` : **410.00**
 
+#### Voucher No (Payment): Journal-POS-16532-23/24 | Guest: MRS. NANCY SHARMA | Date: 04-Jul-26
+* **Debit** | `CASH` : **70.00**
+* **Credit** | `MRS. NANCY SHARMA` : **70.00**
+
 #### Voucher No (Payment): Journal-POS-16535-23/24 | Guest: MRS. SNEHA DIXIST | Date: 04-Jul-26
-* **Debit** | `CASH` : **547.00**
+* **Debit** | `CONSUMER` : **547.00**
 * **Credit** | `MRS. SNEHA DIXIST` : **547.00**
 
+#### Voucher No (Payment): Journal-POS-16536-23/24 | Guest: MR. SANDEEP SAINI | Date: 04-Jul-26
+* **Debit** | `CASH` : **260.00**
+* **Credit** | `MR. SANDEEP SAINI` : **260.00**
+
 #### Voucher No (Payment): Journal-POS-16537-23/24 | Guest: MR. SOURABH DIXIT | Date: 04-Jul-26
-* **Debit** | `CASH` : **60.00**
+* **Debit** | `CONSUMER` : **60.00**
 * **Credit** | `MR. SOURABH DIXIT` : **60.00**
 
 #### Voucher No (Payment): Journal-POS-16534-23/24 | Guest: MR. SATISH KUMAR | Date: 04-Jul-26
-* **Debit** | `CONSUMER` : **1202.00**
-* **Credit** | `MR. SATISH KUMAR` : **1202.00**
+* **Debit** | `CASH` : **1838.00**
+* **Credit** | `MR. SATISH KUMAR` : **1838.00**
 
 #### Voucher No (Payment): Journal-POS-16533-23/24 | Guest: MR. SHUSHIL KUMAR SHUKLA | Date: 04-Jul-26
-* **Debit** | `CONSUMER` : **460.00**
-* **Credit** | `MR. SHUSHIL KUMAR SHUKLA` : **460.00**
+* **Debit** | `CONSUMER` : **330.00**
+* **Credit** | `MR. SHUSHIL KUMAR SHUKLA` : **330.00**
 
 #### Voucher No (Payment): Journal-POS-16533-23/24 | Guest: MR. SHUSHIL KUMAR SHUKLA | Date: 04-Jul-26
-* **Debit** | `CONSUMER` : **460.00**
-* **Credit** | `MR. SHUSHIL KUMAR SHUKLA` : **460.00**
+* **Debit** | `CONSUMER` : **330.00**
+* **Credit** | `MR. SHUSHIL KUMAR SHUKLA` : **330.00**
 
 ---
 
@@ -1051,15 +1091,15 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 ### Payment Receipts (Journal Vouchers)
 
 #### Voucher No (Payment): Journal-12211 | Guest: MR. SOURABH DIXIT | Date: 05-Jul-26
-* **Debit** | `CASH` : **1700.00**
+* **Debit** | `CONSUMER` : **1700.00**
 * **Credit** | `MR. SOURABH DIXIT` : **1700.00**
 
 #### Voucher No (Payment): Journal-12212 | Guest: MR. AKASH THKUR | Date: 05-Jul-26
-* **Debit** | `CASH` : **2200.00**
+* **Debit** | `CONSUMER` : **2200.00**
 * **Credit** | `MR. AKASH THKUR` : **2200.00**
 
 #### Voucher No (Payment): Journal-12213 | Guest: MR. V.P SINGH | Date: 05-Jul-26
-* **Debit** | `CASH` : **1200.00**
+* **Debit** | `CONSUMER` : **1200.00**
 * **Credit** | `MR. V.P SINGH` : **1200.00**
 
 #### Voucher No (Payment): Journal-12215 | Guest: MR. SANDEEP SAINI | Date: 05-Jul-26
@@ -1067,32 +1107,52 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `MR. SANDEEP SAINI` : **1500.00**
 
 #### Voucher No (Payment): Journal-12219 | Guest: MR. ABHISHEK SHARMA | Date: 05-Jul-26
-* **Debit** | `CASH` : **500.00**
+* **Debit** | `CONSUMER` : **500.00**
 * **Credit** | `MR. ABHISHEK SHARMA` : **500.00**
 
 #### Voucher No (Payment): Journal-12225 | Guest: MR. GARVIT DUDEJA | Date: 05-Jul-26
-* **Debit** | `CASH` : **4300.00**
+* **Debit** | `CONSUMER` : **4300.00**
 * **Credit** | `MR. GARVIT DUDEJA` : **4300.00**
 
 #### Voucher No (Payment): Journal-POS-16542-23/24 | Guest: MR. SHUBHAM GANGWAR | Date: 05-Jul-26
-* **Debit** | `CASH` : **60.00**
+* **Debit** | `CONSUMER` : **60.00**
 * **Credit** | `MR. SHUBHAM GANGWAR` : **60.00**
 
 #### Voucher No (Payment): Journal-POS-16547-23/24 | Guest: MRS. SHACHI DIXIST | Date: 05-Jul-26
-* **Debit** | `CASH` : **547.00**
+* **Debit** | `CONSUMER` : **547.00**
 * **Credit** | `MRS. SHACHI DIXIST` : **547.00**
 
+#### Voucher No (Payment): Journal-12222 | Guest: MR. ARUN KUMAR | Date: 05-Jul-26
+* **Debit** | `CASH` : **1500.00**
+* **Credit** | `MR. ARUN KUMAR` : **1500.00**
+
 #### Voucher No (Payment): Journal-12223 | Guest: MR. ARJUN | Date: 05-Jul-26
-* **Debit** | `CASH` : **1200.00**
+* **Debit** | `CONSUMER` : **1200.00**
 * **Credit** | `MR. ARJUN` : **1200.00**
 
+#### Voucher No (Payment): Journal-12224 | Guest: MR. SOHANLAL | Date: 05-Jul-26
+* **Debit** | `CASH` : **1100.00**
+* **Credit** | `MR. SOHANLAL` : **1100.00**
+
+#### Voucher No (Payment): Journal-POS-16544-23/24 | Guest: MR. RAVI KUMAR CHARAN | Date: 05-Jul-26
+* **Debit** | `CASH` : **40.00**
+* **Credit** | `MR. RAVI KUMAR CHARAN` : **40.00**
+
 #### Voucher No (Payment): Journal-POS-16545-23/24 | Guest: PACKING 276 | Date: 05-Jul-26
-* **Debit** | `CASH` : **80.00**
+* **Debit** | `CONSUMER` : **80.00**
 * **Credit** | `PACKING 276` : **80.00**
 
 #### Voucher No (Payment): Journal-POS-16552-23/24 | Guest: AVANI SHARMA | Date: 05-Jul-26
-* **Debit** | `CASH` : **421.00**
+* **Debit** | `CONSUMER` : **421.00**
 * **Credit** | `AVANI SHARMA` : **421.00**
+
+#### Voucher No (Payment): Journal-POS-16554-23/24 | Guest: MR. SATISH KUMAR | Date: 05-Jul-26
+* **Debit** | `CASH` : **1838.00**
+* **Credit** | `MR. SATISH KUMAR` : **1838.00**
+
+#### Voucher No (Payment): Journal-POS-16555-23/24 | Guest: MISS. SHREYA SHARMA | Date: 05-Jul-26
+* **Debit** | `CASH` : **30.00**
+* **Credit** | `MISS. SHREYA SHARMA` : **30.00**
 
 ---
 
@@ -1312,21 +1372,37 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Debit** | `CONSUMER` : **1800.00**
 * **Credit** | `MR. RADHIKA RAMAN` : **1800.00**
 
+#### Voucher No (Payment): Journal-12228 | Guest: MR. SATISH KUMAR | Date: 06-Jul-26
+* **Debit** | `CASH` : **1800.00**
+* **Credit** | `MR. SATISH KUMAR` : **1800.00**
+
 #### Voucher No (Payment): Journal-POS-16557-23/24 | Guest: AVANI SHARMA | Date: 06-Jul-26
-* **Debit** | `CASH` : **421.00**
+* **Debit** | `CONSUMER` : **421.00**
 * **Credit** | `AVANI SHARMA` : **421.00**
 
+#### Voucher No (Payment): Journal-POS-16558-23/24 | Guest: MR. SATISH KUMAR | Date: 06-Jul-26
+* **Debit** | `CASH` : **1838.00**
+* **Credit** | `MR. SATISH KUMAR` : **1838.00**
+
 #### Voucher No (Payment): Journal-12229 | Guest: MR. PARDEEP KUMAR | Date: 06-Jul-26
-* **Debit** | `CASH` : **1200.00**
+* **Debit** | `CONSUMER` : **1200.00**
 * **Credit** | `MR. PARDEEP KUMAR` : **1200.00**
 
+#### Voucher No (Payment): Journal-POS-16563-23/24 | Guest: SATISH KUMAR | Date: 06-Jul-26
+* **Debit** | `CASH` : **350.00**
+* **Credit** | `SATISH KUMAR` : **350.00**
+
+#### Voucher No (Payment): Journal-POS-16567-23/24 | Guest: MR. ATUL KUMAR | Date: 06-Jul-26
+* **Debit** | `CASH` : **1080.00**
+* **Credit** | `MR. ATUL KUMAR` : **1080.00**
+
 #### Voucher No (Payment): Journal-POS-16562-23/24 | Guest: Walk-In Customer | Date: 06-Jul-26
-* **Debit** | `CASH` : **250.00**
+* **Debit** | `CONSUMER` : **250.00**
 * **Credit** | `Walk-In Customer` : **250.00**
 
 #### Voucher No (Payment): Journal-POS-16566-23/24 | Guest: MR. ALOK KUMAR | Date: 06-Jul-26
-* **Debit** | `CONSUMER` : **600.00**
-* **Credit** | `MR. ALOK KUMAR` : **600.00**
+* **Debit** | `CONSUMER` : **1102.00**
+* **Credit** | `MR. ALOK KUMAR` : **1102.00**
 
 ---
 
@@ -1514,28 +1590,48 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 ### Payment Receipts (Journal Vouchers)
 
 #### Voucher No (Payment): Journal-12230 | Guest: MR. RAVI KUMAR | Date: 07-Jul-26
-* **Debit** | `CASH` : **1400.00**
+* **Debit** | `CONSUMER` : **1400.00**
 * **Credit** | `MR. RAVI KUMAR` : **1400.00**
 
 #### Voucher No (Payment): Journal-12232 | Guest: MR. UMANG JAIN | Date: 07-Jul-26
-* **Debit** | `CASH` : **1700.00**
+* **Debit** | `CONSUMER` : **1700.00**
 * **Credit** | `MR. UMANG JAIN` : **1700.00**
 
+#### Voucher No (Payment): Journal-12233 | Guest: MR. ATUL KUMAR | Date: 07-Jul-26
+* **Debit** | `CASH` : **2000.00**
+* **Credit** | `MR. ATUL KUMAR` : **2000.00**
+
+#### Voucher No (Payment): Journal-12235 | Guest: SATISH KUMAR | Date: 07-Jul-26
+* **Debit** | `CASH` : **1800.00**
+* **Credit** | `SATISH KUMAR` : **1800.00**
+
 #### Voucher No (Payment): Journal-12236 | Guest: MR. PAWAN | Date: 07-Jul-26
-* **Debit** | `CASH` : **3000.00**
+* **Debit** | `CONSUMER` : **3000.00**
 * **Credit** | `MR. PAWAN` : **3000.00**
+
+#### Voucher No (Payment): Journal-POS-16570-23/24 | Guest: MR. ATUL KUMAR | Date: 07-Jul-26
+* **Debit** | `CASH` : **1080.00**
+* **Credit** | `MR. ATUL KUMAR` : **1080.00**
+
+#### Voucher No (Payment): Journal-POS-16572-23/24 | Guest: MR. PAWAN | Date: 07-Jul-26
+* **Debit** | `CASH` : **540.00**
+* **Credit** | `MR. PAWAN` : **540.00**
 
 #### Voucher No (Payment): Journal-POS-16573-23/24 | Guest: Walk-In Customer | Date: 07-Jul-26
 * **Debit** | `CONSUMER` : **1550.00**
 * **Credit** | `Walk-In Customer` : **1550.00**
 
 #### Voucher No (Payment): Journal-POS-16576-23/24 | Guest: Walk-In Customer | Date: 07-Jul-26
-* **Debit** | `CASH` : **250.00**
+* **Debit** | `CONSUMER` : **250.00**
 * **Credit** | `Walk-In Customer` : **250.00**
 
-#### Voucher No (Payment): Journal-POS-16579-23/24 | Guest: MR. KUNAL WADHWA | Date: 07-Jul-26
-* **Debit** | `CONSUMER` : **30.00**
-* **Credit** | `MR. KUNAL WADHWA` : **30.00**
+#### Voucher No (Payment): Journal-POS-16580-23/24 | Guest: Walk-In Customer | Date: 07-Jul-26
+* **Debit** | `CASH` : **290.00**
+* **Credit** | `Walk-In Customer` : **290.00**
+
+#### Voucher No (Payment): Journal-POS-16582-23/24 | Guest: MR. ALOK KUMAR | Date: 07-Jul-26
+* **Debit** | `CONSUMER` : **1102.00**
+* **Credit** | `MR. ALOK KUMAR` : **1102.00**
 
 ---
 
@@ -1717,17 +1813,41 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 ### Payment Receipts (Journal Vouchers)
 
+#### Voucher No (Payment): Journal-12237 | Guest: MR. ARUN KUMAR | Date: 08-Jul-26
+* **Debit** | `CASH` : **1200.00**
+* **Credit** | `MR. ARUN KUMAR` : **1200.00**
+
 #### Voucher No (Payment): Journal-12238 | Guest: MR. SHUSHIL KUMAR SHUKLA | Date: 08-Jul-26
 * **Debit** | `CONSUMER` : **1300.00**
 * **Credit** | `MR. SHUSHIL KUMAR SHUKLA` : **1300.00**
 
 #### Voucher No (Payment): Journal-12239 | Guest: MR. GAURAV | Date: 08-Jul-26
-* **Debit** | `CASH` : **1200.00**
+* **Debit** | `CONSUMER` : **1200.00**
 * **Credit** | `MR. GAURAV` : **1200.00**
 
 #### Voucher No (Payment): Journal-POS-16585-23/24 | Guest: MR. SAHIB CHOPRA | Date: 08-Jul-26
-* **Debit** | `CASH` : **90.00**
+* **Debit** | `CONSUMER` : **90.00**
 * **Credit** | `MR. SAHIB CHOPRA` : **90.00**
+
+#### Voucher No (Payment): Journal-12242 | Guest: MR. HARPREET SINGH | Date: 08-Jul-26
+* **Debit** | `CASH` : **1500.00**
+* **Credit** | `MR. HARPREET SINGH` : **1500.00**
+
+#### Voucher No (Payment): Journal-12243 | Guest: MR. NASIM | Date: 08-Jul-26
+* **Debit** | `CASH` : **1500.00**
+* **Credit** | `MR. NASIM` : **1500.00**
+
+#### Voucher No (Payment): Journal-POS-16586-23/24 | Guest: MR. NASIM | Date: 08-Jul-26
+* **Debit** | `CASH` : **359.00**
+* **Credit** | `MR. NASIM` : **359.00**
+
+#### Voucher No (Payment): Journal-POS-16594-23/24 | Guest: SURINDER KUMAR | Date: 08-Jul-26
+* **Debit** | `CASH` : **710.00**
+* **Credit** | `SURINDER KUMAR` : **710.00**
+
+#### Voucher No (Payment): Journal-POS-16593-23/24 | Guest: MR. ALOK KUMAR | Date: 08-Jul-26
+* **Debit** | `CONSUMER` : **1102.00**
+* **Credit** | `MR. ALOK KUMAR` : **1102.00**
 
 ---
 
@@ -1971,6 +2091,66 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 ### Payment Receipts (Journal Vouchers)
 
+#### Voucher No (Payment): Journal-12244 | Guest: JASVINDER SINGH | Date: 09-Jul-26
+* **Debit** | `CASH` : **1600.00**
+* **Credit** | `JASVINDER SINGH` : **1600.00**
+
+#### Voucher No (Payment): Journal-12245 | Guest: ASHOK KUMAR | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **1200.00**
+* **Credit** | `ASHOK KUMAR` : **1200.00**
+
+#### Voucher No (Payment): Journal-12246 | Guest: SURINDER KUMAR | Date: 09-Jul-26
+* **Debit** | `CASH` : **2300.00**
+* **Credit** | `SURINDER KUMAR` : **2300.00**
+
+#### Voucher No (Payment): Journal-12248 | Guest: MR. TARUN GOYAL | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **1100.00**
+* **Credit** | `MR. TARUN GOYAL` : **1100.00**
+
+#### Voucher No (Payment): Journal-POS-16595-23/24 | Guest: JASMEET SINGH | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **60.00**
+* **Credit** | `JASMEET SINGH` : **60.00**
+
+#### Voucher No (Payment): Journal-12249 | Guest: MR. BHUPINDER SINGH | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **1500.00**
+* **Credit** | `MR. BHUPINDER SINGH` : **1500.00**
+
+#### Voucher No (Payment): Journal-12250 | Guest: MR. PARDEEP KUMAR | Date: 09-Jul-26
+* **Debit** | `CASH` : **1200.00**
+* **Credit** | `MR. PARDEEP KUMAR` : **1200.00**
+
+#### Voucher No (Payment): Journal-POS-16598-23/24 | Guest: MR. SAHIL | Date: 09-Jul-26
+* **Debit** | `CASH` : **100.00**
+* **Debit** | `CONSUMER` : **26.00**
+* **Credit** | `MR. SAHIL` : **126.00**
+
+#### Voucher No (Payment): Journal-POS-16599-23/24 | Guest: MR. BHEL SIR | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **280.00**
+* **Credit** | `MR. BHEL SIR` : **280.00**
+
+#### Voucher No (Payment): Journal-POS-16603-23/24 | Guest: MR. HANISH KUMAR | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **624.00**
+* **Credit** | `MR. HANISH KUMAR` : **624.00**
+
+#### Voucher No (Payment): Journal-POS-16606-23/24 | Guest: AMIT | Date: 09-Jul-26
+* **Debit** | `CASH` : **600.00**
+* **Debit** | `CONSUMER` : **165.00**
+* **Credit** | `AMIT` : **765.00**
+
+#### Voucher No (Payment): Journal-POS-16608-23/24 | Guest: AMIT | Date: 09-Jul-26
+* **Debit** | `CASH` : **600.00**
+* **Debit** | `CONSUMER` : **165.00**
+* **Credit** | `AMIT` : **765.00**
+
+#### Voucher No (Payment): Journal-POS-16609-23/24 | Guest: AMIT | Date: 09-Jul-26
+* **Debit** | `CASH` : **600.00**
+* **Debit** | `CONSUMER` : **165.00**
+* **Credit** | `AMIT` : **765.00**
+
+#### Voucher No (Payment): Journal-POS-16610-23/24 | Guest: MR. HARSH KUMAR | Date: 09-Jul-26
+* **Debit** | `CONSUMER` : **240.00**
+* **Credit** | `MR. HARSH KUMAR` : **240.00**
+
 ---
 
 ## Date: 10-Jul-26
@@ -2185,6 +2365,63 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 
 ### Payment Receipts (Journal Vouchers)
 
+#### Voucher No (Payment): Journal-12252 | Guest: MR. HANISH KUMAR | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **1700.00**
+* **Credit** | `MR. HANISH KUMAR` : **1700.00**
+
+#### Voucher No (Payment): Journal-12253 | Guest: MR. HARSH KUMAR | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **2500.00**
+* **Credit** | `MR. HARSH KUMAR` : **2500.00**
+
+#### Voucher No (Payment): Journal-12255 | Guest: TASHI SONAM | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **1400.00**
+* **Credit** | `TASHI SONAM` : **1400.00**
+
+#### Voucher No (Payment): Journal-12257 | Guest: UMANG JAIN | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **1200.00**
+* **Credit** | `UMANG JAIN` : **1200.00**
+
+#### Voucher No (Payment): Journal-12258 | Guest: AMIT | Date: 10-Jul-26
+* **Debit** | `CASH` : **1600.00**
+* **Credit** | `AMIT` : **1600.00**
+
+#### Voucher No (Payment): Journal-12259 | Guest: MR. JASMEET SINGH | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **2000.00**
+* **Credit** | `MR. JASMEET SINGH` : **2000.00**
+
+#### Voucher No (Payment): Journal-12262 | Guest: MR. PARAMJEET SINGH | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **1200.00**
+* **Credit** | `MR. PARAMJEET SINGH` : **1200.00**
+
+#### Voucher No (Payment): Journal-POS-16611-23/24 | Guest: MR. JASMEET SINGH | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **60.00**
+* **Credit** | `MR. JASMEET SINGH` : **60.00**
+
+#### Voucher No (Payment): Journal-12261 | Guest: MR. JAIVARDHAN KOHLI | Date: 10-Jul-26
+* **Debit** | `CASH` : **1400.00**
+* **Debit** | `CONSUMER` : **1200.00**
+* **Credit** | `MR. JAIVARDHAN KOHLI` : **2600.00**
+
+#### Voucher No (Payment): Journal-12262 | Guest: MR. PARAMJEET SINGH | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **1200.00**
+* **Credit** | `MR. PARAMJEET SINGH` : **1200.00**
+
+#### Voucher No (Payment): Journal-POS-16617-23/24 | Guest: PACKING 279 | Date: 10-Jul-26
+* **Debit** | `CASH` : **20.00**
+* **Credit** | `PACKING 279` : **20.00**
+
+#### Voucher No (Payment): Journal-POS-16618-23/24 | Guest: MR. PARAMJEET SINGH | Date: 10-Jul-26
+* **Debit** | `CONSUMER` : **201.00**
+* **Credit** | `MR. PARAMJEET SINGH` : **201.00**
+
+#### Voucher No (Payment): Journal-POS-16620-23/24 | Guest: MR. KULDEEP SHARMA | Date: 10-Jul-26
+* **Debit** | `CASH` : **150.00**
+* **Credit** | `MR. KULDEEP SHARMA` : **150.00**
+
+#### Voucher No (Payment): Journal-POS-16625-23/24 | Guest: MR. KULDEEP SHARMA | Date: 10-Jul-26
+* **Debit** | `CASH` : **150.00**
+* **Credit** | `MR. KULDEEP SHARMA` : **150.00**
+
 ---
 
 ## Date: 2026-07-10
@@ -2246,6 +2483,14 @@ This report contains all valid, deduplicated Sales Vouchers and their correspond
 * **Credit** | `CL 7` : **861.90**
 
 ### Payment Receipts (Journal Vouchers)
+
+#### Voucher No (Payment): Journal-12263 | Guest: BHARAT BHUSHAN | Date: 11-Jul-26
+* **Debit** | `CONSUMER` : **1700.00**
+* **Credit** | `BHARAT BHUSHAN` : **1700.00**
+
+#### Voucher No (Payment): Journal-12264 | Guest: MR. TARUN GOYAL | Date: 11-Jul-26
+* **Debit** | `CONSUMER` : **1100.00**
+* **Credit** | `MR. TARUN GOYAL` : **1100.00**
 
 ---
 
