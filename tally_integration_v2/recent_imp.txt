@@ -1,0 +1,5000 @@
+﻿ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:10
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:11
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:12
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:12
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:12
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:12
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:12
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:19:12
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:43
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:44
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:21:47
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5a>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5b>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5c>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5d>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5e>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5f>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e60>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e61>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e62>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:35
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e63>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e64>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e65>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e66>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e67>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e68>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e69>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6a>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6b>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6c>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6d>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6e>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:37
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6f>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:37
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e70>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:37
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e71>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:22:37
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e72>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot process 'empty' object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:29
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:29
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:29
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:30
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:31
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:23:32
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5a>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5b>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5c>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5d>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5e>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e5f>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e60>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e61>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e62>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e63>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e64>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e65>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e66>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e67>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e68>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e69>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6a>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6b>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6c>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6d>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6e>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e6f>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e70>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e71>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:24:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<REMOTEID:c6e5f9d1-ea31-488d-b304-a8b3c4e4f165-00002e72>, Voucher Type: Payment, Source Voucher Number: , Voucher Number: 1, Date: 
+       Voucher does not exist!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 1
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:23
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:24
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:25
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:25
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:25
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:25
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:27:25
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+ERROR: Voucher: ID:<>, Voucher Type: , Source Voucher Number: , Voucher Number: , Date: 
+       Cannot delete unnamed object: VOUCHER!
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:01
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:02
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:02
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:02
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:02
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:03
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:03
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:03
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:04
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:05
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:06
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:07
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:08
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:28:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 1
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:45:01
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 1
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:19
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:19
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:20
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:21
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:21
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:21
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 11:53:21
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:17
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:17
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:18
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:18
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:18
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:19
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:19
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:19
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 17-Jul-26 at 12:03:19
+
+Importing Data to company: 'ANAND AND ANAND'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 12:16:45
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 49
+Altered   : 2
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 212
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 18-Jul-26 at 12:21:38
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 18-Jul-26 at 12:21:46
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 1
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 12:25:27
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 51
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 212
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 18-Jul-26 at 12:26:36
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 1
+Altered   : 0
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 0
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 12:33:49
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 56
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 207
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 12:40:51
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 88
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 175
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 12:58:02
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 114
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 149
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 13:00:29
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 114
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 149
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 13:06:25
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 114
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 149
+----------------------------------------------
+
+
+Importing Data from 'C:\Users\Administrator\OneDrive\MANGEMENT FILE\Documents\Antigravity\Hotel\tally_integration_v2\Final_Tally_Import_1_to_10_July.xml' on 18-Jul-26 at 13:07:13
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 114
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 149
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 18-Jul-26 at 13:17:09
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 114
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 149
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 18-Jul-26 at 13:19:28
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 118
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 145
+----------------------------------------------
+
+
+Importing Data through SOAP Request on 18-Jul-26 at 13:20:49
+
+Importing Data to company: 'Hotel Sky 5 2026-27'
+
+
+Import Summary
+Created   : 0
+Altered   : 139
+Deleted   : 0
+Combined  : 0
+Ignored   : 0
+Errors    : 0
+Exceptions: 124
+----------------------------------------------

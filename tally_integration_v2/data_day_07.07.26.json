@@ -1,0 +1,209 @@
+[
+  {
+    "type": "master",
+    "guestName": "MR. ARUN KUMAR",
+    "date": "08-Jul-26",
+    "billNo": "12237",
+    "gstNo": "",
+    "roomNo": "116",
+    "cgst": 85.71,
+    "sgst": 85.71,
+    "roomRentIncTaxes": 3600.00,
+    "basicAmount": 3428.58
+  },
+  {
+    "type": "master",
+    "guestName": "MR. SHUSHIL KUMAR SHUKLA",
+    "date": "08-Jul-26",
+    "billNo": "12238",
+    "gstNo": "",
+    "roomNo": "110",
+    "cgst": 464.33,
+    "sgst": 464.33,
+    "roomRentIncTaxes": 19500.15,
+    "basicAmount": 18571.50
+  },
+  {
+    "type": "master",
+    "guestName": "MR. GAURAV",
+    "date": "08-Jul-26",
+    "billNo": "12239",
+    "gstNo": "",
+    "roomNo": "117",
+    "cgst": 28.57,
+    "sgst": 28.57,
+    "roomRentIncTaxes": 1200.00,
+    "basicAmount": 1142.86
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SHUSHIL KUMAR SHUKLA",
+    "date": "27-Jun-26",
+    "billNo": "POS-16441-23/24",
+    "roomNo": "110",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Dal Khichdi", "rate": 95.24, "amount": 95.24},
+      {"name": "Mineral Water", "rate": 28.57, "amount": 28.57}
+    ],
+    "cgst": 3.10,
+    "sgst": 3.10,
+    "discount": 0,
+    "total": 130.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SHUSHIL KUMAR SHUKLA",
+    "date": "04-Jul-26",
+    "billNo": "POS-16533-23/24",
+    "roomNo": "110",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Dal Khichdi", "rate": 95.24, "amount": 95.24}
+    ],
+    "cgst": 2.38,
+    "sgst": 2.38,
+    "discount": 0,
+    "total": 100.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "06-Jul-26",
+    "billNo": "POS-16562-23/24",
+    "roomNo": "1061",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Lemon Water", "rate": 38.10, "amount": 38.10}
+    ],
+    "cgst": 0.96,
+    "sgst": 0.96,
+    "discount": 0,
+    "total": 40.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "07-Jul-26",
+    "billNo": "POS-16576-23/24",
+    "roomNo": "1061",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Special Thali", "rate": 200.00, "amount": 200.00}
+    ],
+    "cgst": 5.00,
+    "sgst": 5.00,
+    "discount": 0,
+    "total": 210.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "07-Jul-26",
+    "billNo": "POS-16577-23/24",
+    "roomNo": "MD SIR",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "French Fries", "rate": 98.73, "amount": 98.73},
+      {"name": "Lemon Water", "rate": 38.10, "amount": 114.30},
+      {"name": "Veg. Sandwich", "rate": 85.71, "amount": 171.42}
+    ],
+    "cgst": 4.81,
+    "sgst": 4.81,
+    "discount": 192.23,
+    "total": 202.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "07-Jul-26",
+    "billNo": "POS-16578-23/24",
+    "roomNo": "A&A",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Staff Tea", "rate": 14.29, "amount": 57.16}
+    ],
+    "cgst": 1.43,
+    "sgst": 1.43,
+    "discount": 0,
+    "total": 60.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SAHIB CHOPRA",
+    "date": "07-Jul-26",
+    "billNo": "POS-16581-23/24",
+    "roomNo": "107",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Mineral Water", "rate": 28.57, "amount": 28.57}
+    ],
+    "cgst": 0.72,
+    "sgst": 0.72,
+    "discount": 0,
+    "total": 30.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "08-Jul-26",
+    "billNo": "POS-16584-23/24",
+    "roomNo": "CL 4",
+    "isWalkIn": true,
+    "isCL": true,
+    "items": [
+      {"name": "Curd Bowl", "rate": 38.10, "amount": 38.10},
+      {"name": "Mix Paratha", "rate": 57.60, "amount": 57.60},
+      {"name": "Poha", "rate": 66.67, "amount": 66.67}
+    ],
+    "cgst": 4.06,
+    "sgst": 4.06,
+    "discount": 0,
+    "total": 170.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SAHIB CHOPRA",
+    "date": "08-Jul-26",
+    "billNo": "POS-16585-23/24",
+    "roomNo": "107",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Mineral Water", "rate": 28.57, "amount": 57.14}
+    ],
+    "cgst": 1.43,
+    "sgst": 1.43,
+    "discount": 0,
+    "total": 60.00
+  },
+  {
+    "type": "treebo",
+    "guestName": "Kunal Wadhwa",
+    "date": "2026-07-08",
+    "invoiceNo": "180962826-000395",
+    "gstNo": "",
+    "cgst": 43.04,
+    "sgst": 43.04,
+    "basicAmount": 1721.65,
+    "total": 1807.73
+  },
+  {
+    "type": "treebo",
+    "guestName": "ZINDAGI TECHNOLOGIES PVT LTD",
+    "date": "2026-07-08",
+    "invoiceNo": "180962826-000396",
+    "gstNo": "07AABCZ5169P1ZJ",
+    "cgst": 119.48,
+    "sgst": 119.48,
+    "basicAmount": 4778.06,
+    "total": 5017.02
+  }
+]

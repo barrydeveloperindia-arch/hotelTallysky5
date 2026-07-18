@@ -1,0 +1,201 @@
+[
+  {
+    "type": "master",
+    "guestName": "MR. AJAY KUMAR",
+    "date": "01-Jul-26",
+    "billNo": "12192",
+    "gstNo": null,
+    "roomNo": "117",
+    "cgst": 38.10,
+    "sgst": 38.10,
+    "roomRentIncTaxes": 1600.00,
+    "basicAmount": 1523.81
+  },
+  {
+    "type": "master",
+    "guestName": "MR. BALWINDER",
+    "date": "02-Jul-26",
+    "billNo": "12194",
+    "gstNo": null,
+    "roomNo": "107",
+    "cgst": 40.48,
+    "sgst": 40.48,
+    "roomRentIncTaxes": 1700.00,
+    "basicAmount": 1619.05
+  },
+  {
+    "type": "treebo",
+    "guestName": "VIKAS SRIVASTAVA",
+    "date": "2026-07-02",
+    "invoiceNo": "180962826-000376",
+    "gstNo": null,
+    "cgst": 42.90,
+    "sgst": 42.90,
+    "basicAmount": 1716.10,
+    "total": 1801.90
+  },
+  {
+    "type": "food",
+    "guestName": "MR. AJAY KUMAR",
+    "date": "01-Jul-26",
+    "billNo": "POS-16494-23/24",
+    "roomNo": "117",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Tea",
+        "rate": 38.10,
+        "amount": 38.10
+      },
+      {
+        "name": "Veg Maggies",
+        "rate": 66.67,
+        "amount": 66.67
+      }
+    ],
+    "cgst": 2.62,
+    "sgst": 2.62,
+    "discount": 0,
+    "total": 110.00
+  },
+  {
+    "type": "food",
+    "guestName": "SWATI",
+    "date": "01-Jul-26",
+    "billNo": "POS-16495-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Tea",
+        "rate": 38.10,
+        "amount": 38.10
+      }
+    ],
+    "cgst": 0.48,
+    "sgst": 0.48,
+    "discount": 19.05,
+    "total": 20.00
+  },
+  {
+    "type": "food",
+    "guestName": "CASH",
+    "date": "01-Jul-26",
+    "billNo": "POS-16496-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Curd Bowl",
+        "rate": 38.10,
+        "amount": 38.10
+      },
+      {
+        "name": "Egg Bhurji",
+        "rate": 171.43,
+        "amount": 171.43
+      }
+    ],
+    "cgst": 3.67,
+    "sgst": 3.67,
+    "discount": 62.86,
+    "total": 154.00
+  },
+  {
+    "type": "food",
+    "guestName": "Walk-In Customer",
+    "date": "01-Jul-26",
+    "billNo": "POS-16497-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Lime Soda",
+        "rate": 76.19,
+        "amount": 76.19
+      },
+      {
+        "name": "Veg. Pulao",
+        "rate": 123.81,
+        "amount": 123.81
+      }
+    ],
+    "cgst": 5.00,
+    "sgst": 5.00,
+    "discount": 0,
+    "total": 210.00
+  },
+  {
+    "type": "food",
+    "guestName": "Walk-In Customer",
+    "date": "01-Jul-26",
+    "billNo": "POS-16499-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Aloo Jeera",
+        "rate": 114.29,
+        "amount": 114.29
+      },
+      {
+        "name": "Dal Makhani",
+        "rate": 180.95,
+        "amount": 180.95
+      },
+      {
+        "name": "Lemon Water",
+        "rate": 38.10,
+        "amount": 76.20
+      },
+      {
+        "name": "Tawa Butter Roti",
+        "rate": 23.81,
+        "amount": 71.43
+      }
+    ],
+    "cgst": 5.54,
+    "sgst": 5.54,
+    "discount": 221.45,
+    "total": 233.00
+  },
+  {
+    "type": "food",
+    "guestName": "Walk-In Customer",
+    "date": "01-Jul-26",
+    "billNo": "POS-16500-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Staff Tea",
+        "rate": 14.29,
+        "amount": 57.16
+      }
+    ],
+    "cgst": 1.43,
+    "sgst": 1.43,
+    "discount": 0,
+    "total": 60.00
+  },
+  {
+    "type": "food",
+    "guestName": "Walk-In Customer",
+    "date": "01-Jul-26",
+    "billNo": "POS-16497-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [],
+    "cgst": 5.00,
+    "sgst": 5.00,
+    "discount": 0,
+    "total": 210.00
+  }
+]

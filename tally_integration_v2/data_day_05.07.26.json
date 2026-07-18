@@ -1,0 +1,254 @@
+[
+  {
+    "type": "master",
+    "guestName": "MR. ARUN KUMAR",
+    "date": "05-Jul-26",
+    "billNo": "12222",
+    "gstNo": null,
+    "roomNo": "104",
+    "cgst": 35.72,
+    "sgst": 35.72,
+    "roomRentIncTaxes": 1500.00,
+    "basicAmount": 1428.57
+  },
+  {
+    "type": "master",
+    "guestName": "MR. ARJUN",
+    "date": "05-Jul-26",
+    "billNo": "12223",
+    "gstNo": null,
+    "roomNo": "116",
+    "cgst": 28.57,
+    "sgst": 28.57,
+    "roomRentIncTaxes": 1200.00,
+    "basicAmount": 1142.86
+  },
+  {
+    "type": "master",
+    "guestName": "MR. SOHANLAL",
+    "date": "05-Jul-26",
+    "billNo": "12224",
+    "gstNo": null,
+    "roomNo": "119",
+    "cgst": 26.19,
+    "sgst": 26.19,
+    "roomRentIncTaxes": 1100.00,
+    "basicAmount": 1047.62
+  },
+  {
+    "type": "master",
+    "guestName": "MR. RADHIKA RAMAN",
+    "date": "06-Jul-26",
+    "billNo": "12226",
+    "gstNo": null,
+    "roomNo": "104",
+    "cgst": 42.86,
+    "sgst": 42.86,
+    "roomRentIncTaxes": 1800.00,
+    "basicAmount": 1714.29
+  },
+  {
+    "type": "master",
+    "guestName": "MR. SATISH KUMAR",
+    "date": "06-Jul-26",
+    "billNo": "12228",
+    "gstNo": null,
+    "roomNo": "106",
+    "cgst": 121.43,
+    "sgst": 121.43,
+    "roomRentIncTaxes": 5100.00,
+    "basicAmount": 4857.15
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SATISH KUMAR",
+    "date": "04-Jul-26",
+    "billNo": "POS-16534-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Aloo Gobhi Dry", "rate": 142.86, "amount": 142.86 },
+      { "name": "Butter Amul", "rate": 14.29, "amount": 14.29 },
+      { "name": "Curd Bowl", "rate": 38.10, "amount": 152.40 },
+      { "name": "Mix Paratha", "rate": 57.60, "amount": 230.40 },
+      { "name": "Special Thali", "rate": 200.00, "amount": 200.00 },
+      { "name": "Tawa Roti", "rate": 19.05, "amount": 95.25 },
+      { "name": "Tea", "rate": 38.10, "amount": 76.20 },
+      { "name": "Veg. Sandwich", "rate": 85.71, "amount": 85.71 },
+      { "name": "Yellow Dal Tadka/fry", "rate": 148.10, "amount": 148.10 }
+    ],
+    "cgst": 28.63,
+    "sgst": 28.63,
+    "discount": 0.00,
+    "total": 1202.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. RAVI KUMAR CHARAN",
+    "date": "05-Jul-26",
+    "billNo": "POS-16544-23/24",
+    "roomNo": "102",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Tea", "rate": 38.10, "amount": 38.10 }
+    ],
+    "cgst": 0.96,
+    "sgst": 0.96,
+    "discount": 0.00,
+    "total": 40.00
+  },
+  {
+    "type": "food",
+    "guestName": "CASH",
+    "date": "05-Jul-26",
+    "billNo": "POS-16545-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      { "name": "Lemon Water", "rate": 38.10, "amount": 76.20 }
+    ],
+    "cgst": 1.91,
+    "sgst": 1.91,
+    "discount": 0.00,
+    "total": 80.00
+  },
+  {
+    "type": "food",
+    "guestName": null,
+    "date": "05-Jul-26",
+    "billNo": "POS-16549-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      { "name": "French Fries", "rate": 98.73, "amount": 98.73 },
+      { "name": "Mineral Water", "rate": 28.57, "amount": 57.14 }
+    ],
+    "cgst": 1.95,
+    "sgst": 1.95,
+    "discount": 77.94,
+    "total": 82.00
+  },
+  {
+    "type": "food",
+    "guestName": null,
+    "date": "05-Jul-26",
+    "billNo": "POS-16550-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      { "name": "Lemon Water", "rate": 38.10, "amount": 228.60 }
+    ],
+    "cgst": 2.86,
+    "sgst": 2.86,
+    "discount": 114.30,
+    "total": 120.00
+  },
+  {
+    "type": "food",
+    "guestName": null,
+    "date": "05-Jul-26",
+    "billNo": "POS-16551-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      { "name": "Poha", "rate": 66.67, "amount": 66.67 },
+      { "name": "Veg. Sandwich", "rate": 85.71, "amount": 171.42 }
+    ],
+    "cgst": 2.98,
+    "sgst": 2.98,
+    "discount": 119.05,
+    "total": 125.00
+  },
+  {
+    "type": "food",
+    "guestName": "AVANI SHARMA",
+    "date": "05-Jul-26",
+    "billNo": "POS-16552-23/24",
+    "roomNo": "107",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Kadhai Paneer", "rate": 172.77, "amount": 172.77 },
+      { "name": "Tawa Butter Roti", "rate": 23.81, "amount": 95.24 }
+    ],
+    "cgst": 6.70,
+    "sgst": 6.70,
+    "discount": 0.00,
+    "total": 281.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SHUSHIL KUMAR SHUKLA",
+    "date": "04-Jul-26",
+    "billNo": "POS-16553-23/24",
+    "roomNo": "110",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Dal Khichdi", "rate": 95.24, "amount": 95.24 }
+    ],
+    "cgst": 2.38,
+    "sgst": 2.38,
+    "discount": 0.00,
+    "total": 100.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SATISH KUMAR",
+    "date": "05-Jul-26",
+    "billNo": "POS-16554-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Aloo Gobhi Dry", "rate": 142.86, "amount": 142.86 },
+      { "name": "Coca Cola 250 Ml", "rate": 23.81, "amount": 23.81 },
+      { "name": "Tawa Butter Roti", "rate": 23.81, "amount": 95.24 },
+      { "name": "Veg. Sandwich", "rate": 85.71, "amount": 171.42 },
+      { "name": "Yellow Dal Tadka/fry", "rate": 148.10, "amount": 148.10 }
+    ],
+    "cgst": 14.54,
+    "sgst": 14.54,
+    "discount": 0.00,
+    "total": 611.00
+  },
+  {
+    "type": "food",
+    "guestName": "AVANI SHARMA",
+    "date": "06-Jul-26",
+    "billNo": "POS-16557-23/24",
+    "roomNo": "107",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Aloo Parantha", "rate": 57.14, "amount": 57.14 },
+      { "name": "Tea", "rate": 38.10, "amount": 76.20 }
+    ],
+    "cgst": 3.34,
+    "sgst": 3.34,
+    "discount": 0.00,
+    "total": 140.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. SATISH KUMAR",
+    "date": "06-Jul-26",
+    "billNo": "POS-16558-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      { "name": "Coca Cola 250 Ml", "rate": 23.81, "amount": 23.81 }
+    ],
+    "cgst": 0.60,
+    "sgst": 0.60,
+    "discount": 0.00,
+    "total": 25.00
+  }
+]

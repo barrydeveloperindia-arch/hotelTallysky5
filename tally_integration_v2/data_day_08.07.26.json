@@ -1,0 +1,264 @@
+[
+  {
+    "type": "treebo",
+    "guestName": "Kunal Wadhwa",
+    "date": "2026-07-09",
+    "invoiceNo": "180962826-000398",
+    "gstNo": "",
+    "cgst": 45.22,
+    "sgst": 45.22,
+    "basicAmount": 1808.59,
+    "total": 1899.03
+  },
+  {
+    "type": "treebo",
+    "guestName": "Jasmeet Singh",
+    "date": "2026-07-09",
+    "invoiceNo": "180962826-000399",
+    "gstNo": "",
+    "cgst": 52.85,
+    "sgst": 52.85,
+    "basicAmount": 2114.44,
+    "total": 2220.14
+  },
+  {
+    "type": "master",
+    "guestName": "MR. HARPREET SINGH",
+    "date": "08-Jul-26",
+    "billNo": "12242",
+    "gstNo": "",
+    "roomNo": "108",
+    "cgst": 35.72,
+    "sgst": 35.72,
+    "roomRentIncTaxes": 1500.00,
+    "basicAmount": 1428.57
+  },
+  {
+    "type": "master",
+    "guestName": "MR. NASIM",
+    "date": "08-Jul-26",
+    "billNo": "12243",
+    "gstNo": "",
+    "roomNo": "106",
+    "cgst": 35.72,
+    "sgst": 35.72,
+    "roomRentIncTaxes": 1500.00,
+    "basicAmount": 1428.57
+  },
+  {
+    "type": "master",
+    "guestName": "JASVINDER SINGH",
+    "date": "09-Jul-26",
+    "billNo": "12244",
+    "gstNo": "",
+    "roomNo": "102",
+    "cgst": 38.10,
+    "sgst": 38.10,
+    "roomRentIncTaxes": 1600.00,
+    "basicAmount": 1523.81
+  },
+  {
+    "type": "master",
+    "guestName": "ASHOK KUMAR",
+    "date": "09-Jul-26",
+    "billNo": "12245",
+    "gstNo": "",
+    "roomNo": "116",
+    "cgst": 28.57,
+    "sgst": 28.57,
+    "roomRentIncTaxes": 1200.00,
+    "basicAmount": 1142.86
+  },
+  {
+    "type": "master",
+    "guestName": "SURINDER KUMAR",
+    "date": "09-Jul-26",
+    "billNo": "12246",
+    "gstNo": "",
+    "roomNo": "105",
+    "cgst": 54.76,
+    "sgst": 54.76,
+    "roomRentIncTaxes": 2300.00,
+    "basicAmount": 2190.48
+  },
+  {
+    "type": "master",
+    "guestName": "MR. TARUN GOYAL",
+    "date": "09-Jul-26",
+    "billNo": "12248",
+    "gstNo": "",
+    "roomNo": "117",
+    "cgst": 26.19,
+    "sgst": 26.19,
+    "roomRentIncTaxes": 1100.00,
+    "basicAmount": 1047.62
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "07-Jul-26",
+    "billNo": "POS-16580-23/24",
+    "roomNo": "1061",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Mineral Water", "rate": 28.57, "amount": 28.57}
+    ],
+    "cgst": 0.72,
+    "sgst": 0.72,
+    "discount": 0,
+    "total": 30.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. NASIM",
+    "date": "08-Jul-26",
+    "billNo": "POS-16586-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Coffee", "rate": 57.14, "amount": 57.14},
+      {"name": "Tawa Roti", "rate": 19.05, "amount": 133.35},
+      {"name": "Paneer Lawabdar", "rate": 164.54, "amount": 164.54}
+    ],
+    "cgst": 8.55,
+    "sgst": 8.55,
+    "discount": 12.99,
+    "total": 359.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "08-Jul-26",
+    "billNo": "POS-16588-23/24",
+    "roomNo": "1061",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Aloo Parantha", "rate": 57.14, "amount": 57.14}
+    ],
+    "cgst": 1.43,
+    "sgst": 1.43,
+    "discount": 0,
+    "total": 60.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "08-Jul-26",
+    "billNo": "POS-16589-23/24",
+    "roomNo": "A&A",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Staff Tea", "rate": 14.29, "amount": 57.16}
+    ],
+    "cgst": 1.43,
+    "sgst": 1.43,
+    "discount": 0,
+    "total": 60.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "08-Jul-26",
+    "billNo": "POS-16590-23/24",
+    "roomNo": "1061",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Paneer Lawabdar", "rate": 164.54, "amount": 164.54}
+    ],
+    "cgst": 4.12,
+    "sgst": 4.12,
+    "discount": 0,
+    "total": 173.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "08-Jul-26",
+    "billNo": "POS-16591-23/24",
+    "roomNo": "1061",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {"name": "Mineral Water", "rate": 28.57, "amount": 28.57}
+    ],
+    "cgst": 0.72,
+    "sgst": 0.72,
+    "discount": 0,
+    "total": 30.00
+  },
+  {
+    "type": "food",
+    "guestName": "SURINDER KUMAR",
+    "date": "08-Jul-26",
+    "billNo": "POS-16592-23/24",
+    "roomNo": "105",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Green Salad Mix", "rate": 98.73, "amount": 98.73},
+      {"name": "Mineral Water", "rate": 28.57, "amount": 28.57},
+      {"name": "Peanut Masala", "rate": 98.73, "amount": 98.73},
+      {"name": "Tawa Missi Roti", "rate": 28.57, "amount": 285.70},
+      {"name": "Yellow Dal Tadka/fry", "rate": 148.10, "amount": 148.10}
+    ],
+    "cgst": 16.51,
+    "sgst": 16.51,
+    "discount": 0,
+    "total": 693.00
+  },
+  {
+    "type": "food",
+    "guestName": "SURINDER KUMAR",
+    "date": "08-Jul-26",
+    "billNo": "POS-16594-23/24",
+    "roomNo": "105",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Butter Amul", "rate": 14.29, "amount": 14.29}
+    ],
+    "cgst": 0.36,
+    "sgst": 0.36,
+    "discount": 0,
+    "total": 15.00
+  },
+  {
+    "type": "food",
+    "guestName": "JASMEET SINGH",
+    "date": "09-Jul-26",
+    "billNo": "POS-16595-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {"name": "Mineral Water", "rate": 28.57, "amount": 28.57}
+    ],
+    "cgst": 0.72,
+    "sgst": 0.72,
+    "discount": 0,
+    "total": 30.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "09-Jul-26",
+    "billNo": "POS-16596-23/24",
+    "roomNo": "104",
+    "isWalkIn": false,
+    "isCL": true,
+    "items": [
+      {"name": "Bread Toast (4pcs)", "rate": 47.62, "amount": 47.62},
+      {"name": "Poha", "rate": 66.67, "amount": 66.67},
+      {"name": "Tea", "rate": 38.10, "amount": 38.10}
+    ],
+    "cgst": 3.81,
+    "sgst": 3.81,
+    "discount": 0,
+    "total": 160.00
+  }
+]

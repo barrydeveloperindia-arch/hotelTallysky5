@@ -1,0 +1,3422 @@
+{
+  "guests": {
+    "AJAY KUMAR_01.07.26": {
+      "guestName": "AJAY KUMAR",
+      "roomNo": 17,
+      "invoiceNo": 12192,
+      "checkIn": "01.07.26",
+      "checkOut": "01.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1600,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 110,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26"
+      ]
+    },
+    "ENGLABS EMPLOYEE_17.06.26": {
+      "guestName": "ENGLABS EMPLOYEE",
+      "roomNo": 20,
+      "checkIn": "17.06.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 4758,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26"
+      ]
+    },
+    "SHUSHIL KUMAR SHUKLA_23.06.26": {
+      "guestName": "SHUSHIL KUMAR SHUKLA",
+      "roomNo": 10,
+      "checkIn": "23.06.26",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 9100,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 330,
+        "pending": 130,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26",
+        "02.07.26",
+        "03.07.26",
+        "04.07.26",
+        "05.07.26",
+        "06.07.26",
+        "07.07.26"
+      ]
+    },
+    "HARENDRA TYAGI_01.07.26": {
+      "guestName": "HARENDRA TYAGI",
+      "roomNo": 4,
+      "checkIn": "01.07.26",
+      "checkOut": "03.7.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 3638
+      },
+      "foodPayments": {
+        "cash": 70,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 153
+      },
+      "days": [
+        "01.07.26",
+        "02.07.26"
+      ]
+    },
+    "VIKASH SRIVASTAVA_02.07.26": {
+      "guestName": "VIKASH SRIVASTAVA",
+      "roomNo": 11,
+      "invoiceNo": 376,
+      "checkIn": "02.07.26",
+      "checkOut": "02.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1801
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26"
+      ]
+    },
+    "BALWINDER_02.07.26": {
+      "guestName": "BALWINDER",
+      "roomNo": 7,
+      "invoiceNo": 12194,
+      "checkIn": "02.07.26",
+      "checkOut": "02.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1700,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26"
+      ]
+    },
+    "1061_undefined": {
+      "guestName": "1061",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 910,
+        "upi": 1335,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26",
+        "03.07.26",
+        "04.07.26",
+        "07.07.26",
+        "08.07.26 ",
+        "11.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "BEHAL SIR_undefined": {
+      "guestName": "BEHAL SIR",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 154,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26"
+      ]
+    },
+    "BHARAT_undefined": {
+      "guestName": "BHARAT",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26"
+      ]
+    },
+    "SWATI_undefined": {
+      "guestName": "SWATI",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26",
+        "02.07.26",
+        "03.07.26",
+        "06.07.26"
+      ]
+    },
+    "A&A STAFF_undefined": {
+      "guestName": "A&A STAFF",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "01.07.26",
+        "02.07.26",
+        "03.07.26",
+        "06.07.26",
+        "08.07.26 ",
+        "09.07.26 ",
+        "10.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "ENLAGBS EMPLOYEE_17.06.26": {
+      "guestName": "ENLAGBS EMPLOYEE",
+      "roomNo": 20,
+      "checkIn": "17.06.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 38484,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26",
+        "03.07.26",
+        "04.07.26",
+        "05.07.26",
+        "06.07.26",
+        "07.07.26",
+        "08.07.26 ",
+        "09.07.26 "
+      ]
+    },
+    "GURDEEP_02.07.26": {
+      "guestName": "GURDEEP",
+      "roomNo": 3,
+      "invoiceNo": 12195,
+      "checkIn": "02.07.26",
+      "checkOut": "02.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1800,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26"
+      ]
+    },
+    "ATUL KUMAR_02.07.26": {
+      "guestName": "ATUL KUMAR",
+      "roomNo": 7,
+      "invoiceNo": 12196,
+      "checkIn": "02.07.26",
+      "checkOut": "03.07.26",
+      "roomPayments": {
+        "cash": 2000,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26"
+      ]
+    },
+    "SUMIT_02.07.26": {
+      "guestName": "SUMIT",
+      "roomNo": 6,
+      "invoiceNo": 12200,
+      "checkIn": "02.07.26",
+      "checkOut": "03.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1800,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26"
+      ]
+    },
+    "JAESH SHARMA_2.07.26": {
+      "guestName": "JAESH SHARMA",
+      "roomNo": 14,
+      "invoiceNo": 12198,
+      "checkIn": "2.07.26",
+      "checkOut": "03.7.26",
+      "roomPayments": {
+        "cash": 3300,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 80,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26"
+      ]
+    },
+    "PARSHANT KUMAR_2.07.26": {
+      "guestName": "PARSHANT KUMAR",
+      "roomNo": 8,
+      "invoiceNo": 377,
+      "checkIn": "2.07.26",
+      "checkOut": "03.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1796
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 230,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26"
+      ]
+    },
+    "JYOTI SWAROOP_02.07.26": {
+      "guestName": "JYOTI SWAROOP",
+      "roomNo": 2,
+      "invoiceNo": 12197,
+      "checkIn": "02.07.26",
+      "checkOut": "03.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1800,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 400,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26"
+      ]
+    },
+    "MD SIR_undefined": {
+      "guestName": "MD SIR",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26",
+        "03.07.26",
+        "04.07.26",
+        "07.07.26",
+        "10.07.26 ",
+        "11.07.26 ",
+        "14.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "ENGLABS_undefined": {
+      "guestName": "ENGLABS",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "02.07.26",
+        "03.07.26",
+        "04.07.26",
+        "05.07.26",
+        "06.07.26",
+        "09.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "MO. SAMEER_03.07.26": {
+      "guestName": "MO. SAMEER",
+      "roomNo": 11,
+      "invoiceNo": 12203,
+      "checkIn": "03.07.26",
+      "checkOut": "03.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1800,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 160,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "03.07.26"
+      ]
+    },
+    "SAMEER_03.07.26": {
+      "guestName": "SAMEER",
+      "roomNo": 12,
+      "invoiceNo": 12202,
+      "checkIn": "03.07.26",
+      "checkOut": "03.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1800,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "03.07.26"
+      ]
+    },
+    "ABHISHEK SHARMA_23.06.26": {
+      "guestName": "ABHISHEK SHARMA",
+      "roomNo": 7,
+      "checkIn": "23.06.26",
+      "checkOut": "05.7.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 5100,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "03.07.26",
+        "04.07.26"
+      ]
+    },
+    "VARUN SOOD_03.07.26": {
+      "guestName": "VARUN SOOD",
+      "roomNo": 16,
+      "invoiceNo": 12204,
+      "checkIn": "03.07.26",
+      "checkOut": "04.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 90,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "03.07.26"
+      ]
+    },
+    "SATISH KUMAR_04.07.26": {
+      "guestName": "SATISH KUMAR",
+      "roomNo": 6,
+      "checkIn": "04.07.26",
+      "checkOut": 6.07026,
+      "roomPayments": {
+        "cash": 5100,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 1838,
+        "upi": 0,
+        "card": 0,
+        "pending": 1202,
+        "treebo": 0
+      },
+      "days": [
+        "03.07.26",
+        "04.07.26",
+        "05.07.26"
+      ]
+    },
+    "RAVINDER SINGH YADAV_04.07.26": {
+      "guestName": "RAVINDER SINGH YADAV",
+      "roomNo": 1,
+      "invoiceNo": 12205,
+      "checkIn": "04.07.26",
+      "checkOut": "04.07.26",
+      "roomPayments": {
+        "cash": 2000,
+        "upi": 1000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "03.07.26"
+      ]
+    },
+    "SHIKHAR OJHA_04.07.26": {
+      "guestName": "SHIKHAR OJHA",
+      "roomNo": 8,
+      "invoiceNo": 382,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1308,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1308
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "SHACHI DIXIT_04.07.26": {
+      "guestName": "SHACHI DIXIT",
+      "roomNo": 11,
+      "invoiceNo": 385,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 2138
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 547,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "ROHAN GUPTA_04.07.26": {
+      "guestName": "ROHAN GUPTA",
+      "roomNo": 3,
+      "invoiceNo": 384,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 990,
+        "card": 0,
+        "pending": 0,
+        "treebo": 989
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 410,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "SOURABH DIXIT_04.07.26": {
+      "guestName": "SOURABH DIXIT",
+      "roomNo": 17,
+      "invoiceNo": 12211,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1700,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 60,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "MANOJ KUMAR_04.07.26": {
+      "guestName": "MANOJ KUMAR",
+      "roomNo": 16,
+      "invoiceNo": 12026,
+      "checkIn": "04.07.26",
+      "checkOut": "04.07.26",
+      "roomPayments": {
+        "cash": 1000,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "GARVIT DUDEJA_04.07.26": {
+      "guestName": "GARVIT DUDEJA",
+      "roomNo": 1,
+      "invoiceNo": 12225,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 4300,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 1116,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "SHIVAM_04.07.26": {
+      "guestName": "SHIVAM",
+      "roomNo": 2,
+      "invoiceNo": 383,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1875
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 210,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "YATINDER_04.07.26": {
+      "guestName": "YATINDER",
+      "roomNo": 16,
+      "invoiceNo": 12207,
+      "checkIn": "04.07.26",
+      "checkOut": "04.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "NANCY_04.07.26": {
+      "guestName": "NANCY",
+      "roomNo": 4,
+      "invoiceNo": 381,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 2116
+      },
+      "foodPayments": {
+        "cash": 70,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "SANDEEP SAINI_04.07.26": {
+      "guestName": "SANDEEP SAINI",
+      "roomNo": 16,
+      "invoiceNo": 12215,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1500,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 260,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "RAVI CHALOTRA_04.07.26": {
+      "guestName": "RAVI CHALOTRA",
+      "roomNo": 12,
+      "invoiceNo": 12214,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 2387
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "SHUBHAM_04.07.26": {
+      "guestName": "SHUBHAM",
+      "roomNo": 5,
+      "invoiceNo": 387,
+      "checkIn": "04.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1462,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1462
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 60,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "VP SINGH_05.07.26": {
+      "guestName": "VP SINGH",
+      "roomNo": 19,
+      "invoiceNo": 12213,
+      "checkIn": "05.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "AKASH THKUR_05.07.26": {
+      "guestName": "AKASH THKUR",
+      "roomNo": 14,
+      "invoiceNo": 12212,
+      "checkIn": "05.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "ANCHAL_undefined": {
+      "guestName": "ANCHAL",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 84,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "SWATI MAA_undefined": {
+      "guestName": "SWATI MAA",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "A&A SATFF_undefined": {
+      "guestName": "A&A SATFF",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "04.07.26"
+      ]
+    },
+    "RAVI KUMAR_05.07.26": {
+      "guestName": "RAVI KUMAR",
+      "roomNo": 2,
+      "invoiceNo": 12218,
+      "checkIn": "05.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 40,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "LOVEPREET DHAMI_05.07.26": {
+      "guestName": "LOVEPREET DHAMI",
+      "roomNo": 17,
+      "invoiceNo": 12221,
+      "checkIn": "05.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "SHREYA SHARMA_05.07.26": {
+      "guestName": "SHREYA SHARMA",
+      "roomNo": 8,
+      "checkIn": "05.07.26",
+      "checkOut": "07.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 5608,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 30,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26",
+        "06.07.26"
+      ]
+    },
+    "ARUN KUMAR_05.07.26": {
+      "guestName": "ARUN KUMAR",
+      "roomNo": 4,
+      "invoiceNo": 12222,
+      "checkIn": "05.07.26",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 3900,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26",
+        "05.07.26",
+        "06.07.26",
+        "07.07.26"
+      ]
+    },
+    "SOHAN LAL_05.07.26": {
+      "guestName": "SOHAN LAL",
+      "roomNo": 19,
+      "invoiceNo": 12224,
+      "checkIn": "05.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 1100,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "ARJUN_05.07.26": {
+      "guestName": "ARJUN",
+      "roomNo": 16,
+      "invoiceNo": 12223,
+      "checkIn": "05.07.26",
+      "checkOut": "05.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "AVANI SHARMA_05.07.26": {
+      "guestName": "AVANI SHARMA",
+      "roomNo": 7,
+      "invoiceNo": 12227,
+      "checkIn": "05.07.26",
+      "checkOut": "06.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 421,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "RADHIKA RAMAN_05.07.26": {
+      "guestName": "RADHIKA RAMAN",
+      "roomNo": 4,
+      "invoiceNo": 12226,
+      "checkIn": "05.07.26",
+      "checkOut": "06.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1800,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "DIRECT_undefined": {
+      "guestName": "DIRECT",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 80,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "MD SIR./_undefined": {
+      "guestName": "MD SIR./",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "SHREEYA MAAM_undefined": {
+      "guestName": "SHREEYA MAAM",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "05.07.26"
+      ]
+    },
+    "ALOK KUMAR_06.07.26": {
+      "guestName": "ALOK KUMAR",
+      "roomNo": 11,
+      "checkIn": "06.07.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 6744
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 1102,
+        "card": 0,
+        "pending": 900,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26",
+        "07.07.26",
+        "08.07.26 ",
+        "09.07.26 "
+      ]
+    },
+    "ATUL KUMAR_06.07.26": {
+      "guestName": "ATUL KUMAR",
+      "roomNo": 12,
+      "invoiceNo": 12233,
+      "checkIn": "06.07.26",
+      "checkOut": "07.07.26",
+      "roomPayments": {
+        "cash": 2000,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 1080,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "RAVI KUMAR_06.07.26": {
+      "guestName": "RAVI KUMAR",
+      "roomNo": 17,
+      "invoiceNo": 12230,
+      "checkIn": "06.07.26",
+      "checkOut": "07.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1400,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "VISHWA SHARMA_06.07.26": {
+      "guestName": "VISHWA SHARMA",
+      "roomNo": "1/.5",
+      "invoiceNo": 390,
+      "checkIn": "06.07.26",
+      "checkOut": "07.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 4786
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1550,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "PARDEEP KUMAR_06.07.26": {
+      "guestName": "PARDEEP KUMAR",
+      "roomNo": 19,
+      "invoiceNo": 12229,
+      "checkIn": "06.07.26",
+      "checkOut": "06.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "PAWAN_06.07.26": {
+      "guestName": "PAWAN",
+      "roomNo": 14,
+      "invoiceNo": 12236,
+      "checkIn": "06.07.26",
+      "checkOut": "07.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 3000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 540,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "UMANG JAIN_06.07.26": {
+      "guestName": "UMANG JAIN",
+      "roomNo": 3,
+      "invoiceNo": 12232,
+      "checkIn": "06.07.26",
+      "checkOut": "07.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1700,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "NAVEEN SONI_06.07.26": {
+      "guestName": "NAVEEN SONI",
+      "roomNo": 2,
+      "checkIn": "06.07.26",
+      "checkOut": "19.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 21823,
+        "card": 0,
+        "pending": 86584,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 177,
+        "card": 0,
+        "pending": 8043,
+        "treebo": 9851
+      },
+      "days": [
+        "06.07.26",
+        "07.07.26",
+        "08.07.26 ",
+        "09.07.26 ",
+        "10.07.26 ",
+        "11.07.26 ",
+        "12.07.26 ",
+        "13.07.26 ",
+        "14.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "SATISH KUMAR_06.07.26": {
+      "guestName": "SATISH KUMAR",
+      "roomNo": 6,
+      "invoiceNo": 12235,
+      "checkIn": "06.07.26",
+      "checkOut": 46210,
+      "roomPayments": {
+        "cash": 1800,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 350,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26"
+      ]
+    },
+    "KUNAL WADHWA_06.07.26": {
+      "guestName": "KUNAL WADHWA",
+      "roomNo": 4,
+      "invoiceNo": 391,
+      "checkIn": "06.07.26",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 7504
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 60,
+        "treebo": 0
+      },
+      "days": [
+        "06.07.26",
+        "07.07.26",
+        "08.07.26 ",
+        "09.07.26 "
+      ]
+    },
+    "SAHIB CHOPRA_07.07.26": {
+      "guestName": "SAHIB CHOPRA",
+      "roomNo": "7./8",
+      "invoiceNo": 396,
+      "checkIn": "07.07.26",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 5017
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 90,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "07.07.26"
+      ]
+    },
+    "GAURAV_07.07.26": {
+      "guestName": "GAURAV",
+      "roomNo": 17,
+      "invoiceNo": 12239,
+      "checkIn": "07.07.26",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "07.07.26"
+      ]
+    },
+    "UMANG JAIN_46210": {
+      "guestName": "UMANG JAIN",
+      "roomNo": 19,
+      "checkIn": 46210,
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2400,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "07.07.26",
+        "08.07.26 "
+      ]
+    },
+    "A&A_undefined": {
+      "guestName": "A&A",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "07.07.26",
+        "11.07.26 ",
+        "13.07.26 ",
+        "14.07.26 "
+      ]
+    },
+    "HARPREET_08.07.26": {
+      "guestName": "HARPREET",
+      "roomNo": 8,
+      "invoiceNo": 12242,
+      "checkIn": "08.07.26",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 "
+      ]
+    },
+    "NASIM_08.07.06": {
+      "guestName": "NASIM",
+      "roomNo": 6,
+      "invoiceNo": 12243,
+      "checkIn": "08.07.06",
+      "checkOut": "08.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 359,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 "
+      ]
+    },
+    "TARUN GOYAL_08.07.06": {
+      "guestName": "TARUN GOYAL",
+      "roomNo": 17,
+      "invoiceNo": 12248,
+      "checkIn": "08.07.06",
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1100,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 "
+      ]
+    },
+    "ASHOK KUMAR_46241": {
+      "guestName": "ASHOK KUMAR",
+      "roomNo": 16,
+      "invoiceNo": 12245,
+      "checkIn": 46241,
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1200,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 "
+      ]
+    },
+    "SURINDER KUMAR_46241": {
+      "guestName": "SURINDER KUMAR",
+      "roomNo": 5,
+      "invoiceNo": 12246,
+      "checkIn": 46241,
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 2300,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 710,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 "
+      ]
+    },
+    "JASVINDER SINGH_46241": {
+      "guestName": "JASVINDER SINGH",
+      "roomNo": 2,
+      "invoiceNo": 12244,
+      "checkIn": 46241,
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 1600,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 "
+      ]
+    },
+    "JASMEET SINGH_46272": {
+      "guestName": "JASMEET SINGH",
+      "roomNo": 6,
+      "invoiceNo": 399,
+      "checkIn": 46272,
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 3110,
+        "pending": 0,
+        "treebo": 1110
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 60,
+        "card": 0,
+        "pending": 30,
+        "treebo": 0
+      },
+      "days": [
+        "08.07.26 ",
+        "09.07.26 "
+      ]
+    },
+    "UMANG JAIN_07.07.26": {
+      "guestName": "UMANG JAIN",
+      "roomNo": 19,
+      "invoiceNo": 12257,
+      "checkIn": "07.07.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "AMIT KUMAR_09.07.26": {
+      "guestName": "AMIT KUMAR",
+      "roomNo": 16,
+      "invoiceNo": 12261,
+      "checkIn": "09.07.26",
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "HARSH KUMAR_09.07.26": {
+      "guestName": "HARSH KUMAR",
+      "roomNo": 5,
+      "invoiceNo": 12253,
+      "checkIn": "09.07.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2500,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 240,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "PARDEEP KUMAR_09.07.26": {
+      "guestName": "PARDEEP KUMAR",
+      "roomNo": 17,
+      "invoiceNo": 12250,
+      "checkIn": "09.07.26",
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 1200,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "HANISH_09.07.26": {
+      "guestName": "HANISH",
+      "roomNo": 8,
+      "invoiceNo": 12252,
+      "checkIn": "09.07.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1700,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 624,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "BHUPINDER_09.07.26": {
+      "guestName": "BHUPINDER",
+      "roomNo": 2,
+      "invoiceNo": 12249,
+      "checkIn": "09.07.26",
+      "checkOut": "09.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1500,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "KATARI AKHILESH_09.07.26": {
+      "guestName": "KATARI AKHILESH",
+      "roomNo": 3,
+      "checkIn": "09.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 8786,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 69,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 ",
+        "10.07.26 ",
+        "11.07.26 "
+      ]
+    },
+    "AMIT_09.07.26": {
+      "guestName": "AMIT",
+      "roomNo": 2,
+      "invoiceNo": 12258,
+      "checkIn": "09.07.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 1600,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 600,
+        "upi": 165,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "TASHI SONAM_09.07.26": {
+      "guestName": "TASHI SONAM",
+      "roomNo": 17,
+      "invoiceNo": 12255,
+      "checkIn": "09.07.26",
+      "checkOut": "10.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1400,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "MR. SAHIL_undefined": {
+      "guestName": "MR. SAHIL",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 100,
+        "upi": 26,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "MR. BHEL_undefined": {
+      "guestName": "MR. BHEL",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 280,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 "
+      ]
+    },
+    "SHREEYA_undefined": {
+      "guestName": "SHREEYA",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 ",
+        "10.07.26 "
+      ]
+    },
+    "S&A STAFF_undefined": {
+      "guestName": "S&A STAFF",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "09.07.26 ",
+        "10.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "JAIVARDHAN_10.07.26": {
+      "guestName": "JAIVARDHAN",
+      "roomNo": 16,
+      "invoiceNo": 12261,
+      "checkIn": "10.07.26",
+      "checkOut": "10.06.26",
+      "roomPayments": {
+        "cash": 1400,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "PARMJEET SINGH_10.07.26": {
+      "guestName": "PARMJEET SINGH",
+      "roomNo": 17,
+      "invoiceNo": 12262,
+      "checkIn": "10.07.26",
+      "checkOut": "10.06.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 201,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "KULDEEP SHARMA_10.07.26": {
+      "guestName": "KULDEEP SHARMA",
+      "roomNo": "6/.7",
+      "invoiceNo": 403,
+      "checkIn": "10.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 2500,
+        "pending": 0,
+        "treebo": 2500
+      },
+      "foodPayments": {
+        "cash": 150,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "RAJVEER SINGH_10.07.26": {
+      "guestName": "RAJVEER SINGH",
+      "roomNo": 2,
+      "checkIn": "10.07.26",
+      "checkOut": "12.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 3600,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1281,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 ",
+        "11.07.26 "
+      ]
+    },
+    "TARUN GOYAL_10.07.26": {
+      "guestName": "TARUN GOYAL",
+      "roomNo": 20,
+      "invoiceNo": 12264,
+      "checkIn": "10.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1100,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "BHARAT BHUSHAN_10.07.26": {
+      "guestName": "BHARAT BHUSHAN",
+      "roomNo": 11,
+      "invoiceNo": 12263,
+      "checkIn": "10.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1700,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "HAFIZ_undefined": {
+      "guestName": "HAFIZ",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 20,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "ROOM NO 2 KINFISHER 600 CASH_undefined": {
+      "guestName": "ROOM NO 2 KINFISHER 600 CASH",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "10.07.26 "
+      ]
+    },
+    "CHANDRA SEN_11.07.26": {
+      "guestName": "CHANDRA SEN",
+      "roomNo": 16,
+      "invoiceNo": 12267,
+      "checkIn": "11.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 310,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 "
+      ]
+    },
+    "RAJESH_11.07.26": {
+      "guestName": "RAJESH",
+      "roomNo": 7,
+      "invoiceNo": 12266,
+      "checkIn": "11.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 2000,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 "
+      ]
+    },
+    "RAGHUBEER_11.07.26": {
+      "guestName": "RAGHUBEER",
+      "roomNo": 17,
+      "invoiceNo": 12268,
+      "checkIn": "11.07.26",
+      "checkOut": "11.07.26",
+      "roomPayments": {
+        "cash": 1300,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 350,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 "
+      ]
+    },
+    "ROHIT_11.07.26": {
+      "guestName": "ROHIT",
+      "roomNo": 11,
+      "invoiceNo": 12270,
+      "checkIn": "11.07.26",
+      "checkOut": "12.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 591,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 "
+      ]
+    },
+    "SURINDER_11.07.26": {
+      "guestName": "SURINDER",
+      "roomNo": 20,
+      "invoiceNo": 12273,
+      "checkIn": "11.07.26",
+      "checkOut": "12.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1300,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 "
+      ]
+    },
+    "RAJ KUMAR_11.07.26": {
+      "guestName": "RAJ KUMAR",
+      "roomNo": 7,
+      "checkIn": "11.07.26",
+      "checkOut": "13.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 3338
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 180
+      },
+      "days": [
+        "11.07.26 ",
+        "12.07.26 "
+      ]
+    },
+    "JASDEEP SINGH_11.07.26": {
+      "guestName": "JASDEEP SINGH",
+      "roomNo": 6,
+      "invoiceNo": 12269,
+      "checkIn": "11.07.26",
+      "checkOut": "12.7.26",
+      "roomPayments": {
+        "cash": 1600,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 50,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 "
+      ]
+    },
+    "SHREEYA MAM_undefined": {
+      "guestName": "SHREEYA MAM",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 ",
+        "14.07.26 "
+      ]
+    },
+    "S&A_undefined": {
+      "guestName": "S&A",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "11.07.26 ",
+        "14.07.26 "
+      ]
+    },
+    "JATIN KUMAR_12.07.26": {
+      "guestName": "JATIN KUMAR",
+      "roomNo": 17,
+      "invoiceNo": 12274,
+      "checkIn": "12.07.26",
+      "checkOut": "12.07.26",
+      "roomPayments": {
+        "cash": 1300,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 231,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "12.07.26 "
+      ]
+    },
+    "SANJEEV KUMAR_12.07.26": {
+      "guestName": "SANJEEV KUMAR",
+      "roomNo": 16,
+      "invoiceNo": 12275,
+      "checkIn": "12.07.26",
+      "checkOut": "12.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "12.07.26 "
+      ]
+    },
+    "PARDEEP KUMAR_12.7.26": {
+      "guestName": "PARDEEP KUMAR",
+      "roomNo": 8,
+      "invoiceNo": 12276,
+      "checkIn": "12.7.26",
+      "checkOut": "12.07.26",
+      "roomPayments": {
+        "cash": 1800,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "12.07.26 "
+      ]
+    },
+    "RAVI KUMAR_12.7.26": {
+      "guestName": "RAVI KUMAR",
+      "roomNo": 6,
+      "invoiceNo": 12278,
+      "checkIn": "12.7.26",
+      "checkOut": "13.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1600,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 385,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "12.07.26 "
+      ]
+    },
+    "AMIT_12.7.26": {
+      "guestName": "AMIT",
+      "roomNo": 2,
+      "invoiceNo": 12277,
+      "checkIn": "12.7.26",
+      "checkOut": "13.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1500,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "12.07.26 "
+      ]
+    },
+    "ARUN KUMAR SANSI_13.07.26": {
+      "guestName": "ARUN KUMAR SANSI",
+      "roomNo": 5,
+      "checkIn": "13.07.26",
+      "checkOut": "13.07.26",
+      "roomPayments": {
+        "cash": 3000,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 540,
+        "upi": 0,
+        "card": 0,
+        "pending": 299,
+        "treebo": 0
+      },
+      "days": [
+        "12.07.26 ",
+        "13.07.26 "
+      ]
+    },
+    "AMIT KUMAR_13.7.26": {
+      "guestName": "AMIT KUMAR",
+      "roomNo": 8,
+      "invoiceNo": 408,
+      "checkIn": "13.7.26",
+      "checkOut": "14.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 500,
+        "card": 0,
+        "pending": 0,
+        "treebo": 2061
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "DEEPAK KUMAR_13.7.26": {
+      "guestName": "DEEPAK KUMAR",
+      "roomNo": 7,
+      "invoiceNo": 12280,
+      "checkIn": "13.7.26",
+      "checkOut": "13.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1500,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 655,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "JASDISH SINGH_13.07.26": {
+      "guestName": "JASDISH SINGH",
+      "roomNo": "6./4",
+      "invoiceNo": 12282,
+      "checkIn": "13.07.26",
+      "checkOut": "14.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 3800,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "HARINDER SINGH_13.7.26": {
+      "guestName": "HARINDER SINGH",
+      "roomNo": 16,
+      "invoiceNo": 12284,
+      "checkIn": "13.7.26",
+      "checkOut": "14.07.26",
+      "roomPayments": {
+        "cash": 1400,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 460,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "RAJ KUMAR_13.7.26": {
+      "guestName": "RAJ KUMAR",
+      "roomNo": 7,
+      "invoiceNo": 407,
+      "checkIn": "13.7.26",
+      "checkOut": "14.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1680
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "JAMSHED_undefined": {
+      "guestName": "JAMSHED",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 56,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 ",
+        "14.07.26 "
+      ]
+    },
+    "BHARAT SIR_undefined": {
+      "guestName": "BHARAT SIR",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "SWATI MAM_undefined": {
+      "guestName": "SWATI MAM",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "S &A_undefined": {
+      "guestName": "S &A",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "13.07.26 "
+      ]
+    },
+    "GAURAV_14.07.26": {
+      "guestName": "GAURAV",
+      "roomNo": 11,
+      "checkIn": "14.07.26",
+      "checkOut": "17.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 5514
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 1624,
+        "treebo": 591
+      },
+      "days": [
+        "14.07.26 ",
+        "15.07.26 "
+      ]
+    },
+    "NEK CHAND_14.07.26": {
+      "guestName": "NEK CHAND",
+      "roomNo": 17,
+      "invoiceNo": 12285,
+      "checkIn": "14.07.26",
+      "checkOut": "14.07.26",
+      "roomPayments": {
+        "cash": 1300,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "VISHAL KUMAR_14.07.26": {
+      "guestName": "VISHAL KUMAR",
+      "roomNo": 16,
+      "invoiceNo": 12288,
+      "checkIn": "14.07.26",
+      "checkOut": "14.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1200,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "REKHA_14.07.26": {
+      "guestName": "REKHA",
+      "roomNo": 20,
+      "invoiceNo": 12287,
+      "checkIn": "14.07.26",
+      "checkOut": 14.07026,
+      "roomPayments": {
+        "cash": 1200,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "GUNJAN_14.07.26": {
+      "guestName": "GUNJAN",
+      "roomNo": 4,
+      "invoiceNo": 12289,
+      "checkIn": "14.07.26",
+      "checkOut": "15.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "PARDEEP KUMAR_14.07.26 ": {
+      "guestName": "PARDEEP KUMAR",
+      "roomNo": 2,
+      "invoiceNo": 12293,
+      "checkIn": "14.07.26 ",
+      "checkOut": "15.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 1500,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 584,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "HARINDER SINGH_14.07.26": {
+      "guestName": "HARINDER SINGH",
+      "roomNo": 6,
+      "invoiceNo": 12290,
+      "checkIn": "14.07.26",
+      "checkOut": "15.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 70,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "SARJEET_14.07.26": {
+      "guestName": "SARJEET",
+      "roomNo": 7,
+      "invoiceNo": 409,
+      "checkIn": "14.07.26",
+      "checkOut": "15.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1700,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 210,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "KARTIK_14.07.26": {
+      "guestName": "KARTIK",
+      "roomNo": "117/119",
+      "invoiceNo": 12294,
+      "checkIn": "14.07.26",
+      "checkOut": "15.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "PRINCE SAINI_14.07.26": {
+      "guestName": "PRINCE SAINI",
+      "roomNo": 3,
+      "invoiceNo": 12292,
+      "checkIn": "14.07.26",
+      "checkOut": "15.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 1600,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "LARISSA MAM_undefined": {
+      "guestName": "LARISSA MAM",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "MR BEHAL_undefined": {
+      "guestName": "MR BEHAL",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 28,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "14.07.26 "
+      ]
+    },
+    "VISHAL_15.07.26": {
+      "guestName": "VISHAL",
+      "roomNo": 7,
+      "invoiceNo": 410,
+      "checkIn": "15.07.26",
+      "checkOut": "16.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 2220,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 551,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "KUNAL WADHWA_15.07.26": {
+      "guestName": "KUNAL WADHWA",
+      "roomNo": 4,
+      "invoiceNo": 411,
+      "checkIn": "15.07.26",
+      "checkOut": "17.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 1821
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "AMIT SHARMA_15.07.26": {
+      "guestName": "AMIT SHARMA",
+      "roomNo": 6,
+      "invoiceNo": 412,
+      "checkIn": "15.07.26",
+      "checkOut": "16.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 2257
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 40,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "PANKAJ JINDAL_15.07.26": {
+      "guestName": "PANKAJ JINDAL",
+      "roomNo": 3,
+      "invoiceNo": 12295,
+      "checkIn": "15.07.26",
+      "checkOut": "16.07.26",
+      "roomPayments": {
+        "cash": 1500,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "TARUN GOYAL_15.07.26": {
+      "guestName": "TARUN GOYAL",
+      "roomNo": 17,
+      "invoiceNo": 12296,
+      "checkIn": "15.07.26",
+      "checkOut": "16.07.26",
+      "roomPayments": {
+        "cash": 1000,
+        "upi": 100,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "KARTIK_15.07.26": {
+      "guestName": "KARTIK",
+      "roomNo": "16./19",
+      "invoiceNo": 12299,
+      "checkIn": "15.07.26",
+      "checkOut": "16.07.26",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 2000,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "BHEL SAB_undefined": {
+      "guestName": "BHEL SAB",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 105,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    },
+    "LARISSA_undefined": {
+      "guestName": "LARISSA",
+      "roomPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "foodPayments": {
+        "cash": 0,
+        "upi": 0,
+        "card": 0,
+        "pending": 0,
+        "treebo": 0
+      },
+      "days": [
+        "15.07.26 "
+      ]
+    }
+  },
+  "treeboInvoices": {
+    "376": "VIKASH SRIVASTAVA_02.07.26",
+    "377": "PARSHANT KUMAR_2.07.26",
+    "378": "HARENDRA TYAGI_01.07.26",
+    "381": "NANCY_04.07.26",
+    "382": "SHIKHAR OJHA_04.07.26",
+    "383": "SHIVAM_04.07.26",
+    "384": "ROHAN GUPTA_04.07.26",
+    "385": "SHACHI DIXIT_04.07.26",
+    "387": "SHUBHAM_04.07.26",
+    "389": "SHREYA SHARMA_05.07.26",
+    "390": "VISHWA SHARMA_06.07.26",
+    "391": "KUNAL WADHWA_06.07.26",
+    "395": "KUNAL WADHWA_06.07.26",
+    "396": "SAHIB CHOPRA_07.07.26",
+    "398": "KUNAL WADHWA_06.07.26",
+    "399": "JASMEET SINGH_46272",
+    "400": "ALOK KUMAR_06.07.26",
+    "402": "KUNAL WADHWA_06.07.26",
+    "403": "KULDEEP SHARMA_10.07.26",
+    "404": "KATARI AKHILESH_09.07.26",
+    "405": "RAJ KUMAR_11.07.26",
+    "407": "RAJ KUMAR_13.7.26",
+    "408": "AMIT KUMAR_13.7.26",
+    "409": "SARJEET_14.07.26",
+    "410": "VISHAL_15.07.26",
+    "411": "KUNAL WADHWA_15.07.26",
+    "412": "AMIT SHARMA_15.07.26",
+    "12026": "MANOJ KUMAR_04.07.26",
+    "12192": "AJAY KUMAR_01.07.26",
+    "12194": "BALWINDER_02.07.26",
+    "12195": "GURDEEP_02.07.26",
+    "12196": "ATUL KUMAR_02.07.26",
+    "12197": "JYOTI SWAROOP_02.07.26",
+    "12198": "JAESH SHARMA_2.07.26",
+    "12200": "SUMIT_02.07.26",
+    "12202": "SAMEER_03.07.26",
+    "12203": "MO. SAMEER_03.07.26",
+    "12204": "VARUN SOOD_03.07.26",
+    "12205": "RAVINDER SINGH YADAV_04.07.26",
+    "12207": "YATINDER_04.07.26",
+    "12211": "SOURABH DIXIT_04.07.26",
+    "12212": "AKASH THKUR_05.07.26",
+    "12213": "VP SINGH_05.07.26",
+    "12214": "RAVI CHALOTRA_04.07.26",
+    "12215": "SANDEEP SAINI_04.07.26",
+    "12218": "RAVI KUMAR_05.07.26",
+    "12219": "ABHISHEK SHARMA_23.06.26",
+    "12221": "LOVEPREET DHAMI_05.07.26",
+    "12222": "ARUN KUMAR_05.07.26",
+    "12223": "ARJUN_05.07.26",
+    "12224": "SOHAN LAL_05.07.26",
+    "12225": "GARVIT DUDEJA_04.07.26",
+    "12226": "RADHIKA RAMAN_05.07.26",
+    "12227": "AVANI SHARMA_05.07.26",
+    "12228": "SATISH KUMAR_04.07.26",
+    "12229": "PARDEEP KUMAR_06.07.26",
+    "12230": "RAVI KUMAR_06.07.26",
+    "12232": "UMANG JAIN_06.07.26",
+    "12233": "ATUL KUMAR_06.07.26",
+    "12235": "SATISH KUMAR_06.07.26",
+    "12236": "PAWAN_06.07.26",
+    "12237": "ARUN KUMAR_05.07.26",
+    "12238": "SHUSHIL KUMAR SHUKLA_23.06.26",
+    "12239": "GAURAV_07.07.26",
+    "12242": "HARPREET_08.07.26",
+    "12243": "NASIM_08.07.06",
+    "12244": "JASVINDER SINGH_46241",
+    "12245": "ASHOK KUMAR_46241",
+    "12246": "SURINDER KUMAR_46241",
+    "12248": "TARUN GOYAL_08.07.06",
+    "12249": "BHUPINDER_09.07.26",
+    "12250": "PARDEEP KUMAR_09.07.26",
+    "12252": "HANISH_09.07.26",
+    "12253": "HARSH KUMAR_09.07.26",
+    "12255": "TASHI SONAM_09.07.26",
+    "12257": "UMANG JAIN_07.07.26",
+    "12258": "AMIT_09.07.26",
+    "12259": "JASMEET SINGH_46272",
+    "12260": "ENLAGBS EMPLOYEE_17.06.26",
+    "12261": "JAIVARDHAN_10.07.26",
+    "12262": "PARMJEET SINGH_10.07.26",
+    "12263": "BHARAT BHUSHAN_10.07.26",
+    "12264": "TARUN GOYAL_10.07.26",
+    "12266": "RAJESH_11.07.26",
+    "12267": "CHANDRA SEN_11.07.26",
+    "12268": "RAGHUBEER_11.07.26",
+    "12269": "JASDEEP SINGH_11.07.26",
+    "12270": "ROHIT_11.07.26",
+    "12271": "RAJVEER SINGH_10.07.26",
+    "12272": "KATARI AKHILESH_09.07.26",
+    "12273": "SURINDER_11.07.26",
+    "12274": "JATIN KUMAR_12.07.26",
+    "12275": "SANJEEV KUMAR_12.07.26",
+    "12276": "PARDEEP KUMAR_12.7.26",
+    "12277": "AMIT_12.7.26",
+    "12278": "RAVI KUMAR_12.7.26",
+    "12280": "DEEPAK KUMAR_13.7.26",
+    "12281": "ARUN KUMAR SANSI_13.07.26",
+    "12282": "JASDISH SINGH_13.07.26",
+    "12284": "HARINDER SINGH_13.7.26",
+    "12285": "NEK CHAND_14.07.26",
+    "12287": "REKHA_14.07.26",
+    "12288": "VISHAL KUMAR_14.07.26",
+    "12289": "GUNJAN_14.07.26",
+    "12290": "HARINDER SINGH_14.07.26",
+    "12292": "PRINCE SAINI_14.07.26",
+    "12293": "PARDEEP KUMAR_14.07.26 ",
+    "12294": "KARTIK_14.07.26",
+    "12295": "PANKAJ JINDAL_15.07.26",
+    "12296": "TARUN GOYAL_15.07.26",
+    "12299": "KARTIK_15.07.26"
+  }
+}

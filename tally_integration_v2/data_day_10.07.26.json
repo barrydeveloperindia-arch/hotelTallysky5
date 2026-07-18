@@ -1,0 +1,322 @@
+[
+  {
+    "type": "master",
+    "guestName": "MR. JAIVARDHAN KOHLI",
+    "date": "10-Jul-26",
+    "billNo": "12261",
+    "gstNo": "",
+    "roomNo": "116",
+    "cgst": 33.34,
+    "sgst": 33.34,
+    "roomRentIncTaxes": 1400.00,
+    "basicAmount": 1333.33
+  },
+  {
+    "type": "master",
+    "guestName": "MR. PARAMJEET SINGH",
+    "date": "10-Jul-26",
+    "billNo": "12262",
+    "gstNo": "",
+    "roomNo": "117",
+    "cgst": 28.57,
+    "sgst": 28.57,
+    "roomRentIncTaxes": 1200.00,
+    "basicAmount": 1142.86
+  },
+  {
+    "type": "master",
+    "guestName": "BHARAT BHUSHAN",
+    "date": "11-Jul-26",
+    "billNo": "12263",
+    "gstNo": "06OVXPS4147G1ZL",
+    "roomNo": "111",
+    "cgst": 40.48,
+    "sgst": 40.48,
+    "roomRentIncTaxes": 1700.00,
+    "basicAmount": 1619.05
+  },
+  {
+    "type": "master",
+    "guestName": "MR. TARUN GOYAL",
+    "date": "11-Jul-26",
+    "billNo": "12264",
+    "gstNo": "",
+    "roomNo": "120",
+    "cgst": 26.19,
+    "sgst": 26.19,
+    "roomRentIncTaxes": 1100.00,
+    "basicAmount": 1047.62
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "10-Jul-26",
+    "billNo": "POS-16615-23/24",
+    "roomNo": "",
+    "isWalkIn": false,
+    "isCL": true,
+    "items": [
+      {
+        "name": "Omelette Plain/bread",
+        "rate": 65.81,
+        "amount": 65.81
+      }
+    ],
+    "cgst": 1.65,
+    "sgst": 1.65,
+    "discount": 0.00,
+    "total": 69.00
+  },
+  {
+    "type": "food",
+    "guestName": "CASH",
+    "date": "10-Jul-26",
+    "billNo": "POS-16617-23/24",
+    "roomNo": "",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Limca 250 Ml",
+        "rate": 23.81,
+        "amount": 23.81
+      }
+    ],
+    "cgst": 0.60,
+    "sgst": 0.60,
+    "discount": 0.00,
+    "total": 25.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. PARAMJEET SINGH",
+    "date": "10-Jul-26",
+    "billNo": "POS-16618-23/24",
+    "roomNo": "117",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Mix Paratha",
+        "rate": 57.60,
+        "amount": 115.20
+      },
+      {
+        "name": "Tea",
+        "rate": 38.10,
+        "amount": 76.20
+      }
+    ],
+    "cgst": 4.79,
+    "sgst": 4.79,
+    "discount": 0.00,
+    "total": 201.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. KULDEEP SHARMA",
+    "date": "10-Jul-26",
+    "billNo": "POS-16620-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Mineral Water",
+        "rate": 28.57,
+        "amount": 85.71
+      }
+    ],
+    "cgst": 2.15,
+    "sgst": 2.15,
+    "discount": 0.00,
+    "total": 90.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "10-Jul-26",
+    "billNo": "POS-16621-23/24",
+    "roomNo": "",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Staff Coffee",
+        "rate": 19.05,
+        "amount": 38.10
+      }
+    ],
+    "cgst": 0.96,
+    "sgst": 0.96,
+    "discount": 0.00,
+    "total": 40.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "10-Jul-26",
+    "billNo": "POS-16622-23/24",
+    "roomNo": "",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Staff Coffee",
+        "rate": 19.05,
+        "amount": 38.10
+      },
+      {
+        "name": "Staff Tea",
+        "rate": 14.29,
+        "amount": 28.58
+      }
+    ],
+    "cgst": 1.67,
+    "sgst": 1.67,
+    "discount": 0.00,
+    "total": 70.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "10-Jul-26",
+    "billNo": "POS-16623-23/24",
+    "roomNo": "",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Omelette Plain/bread",
+        "rate": 65.81,
+        "amount": 65.81
+      },
+      {
+        "name": "Tea",
+        "rate": 38.10,
+        "amount": 38.10
+      }
+    ],
+    "cgst": 1.30,
+    "sgst": 1.30,
+    "discount": 51.96,
+    "total": 55.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "10-Jul-26",
+    "billNo": "POS-16624-23/24",
+    "roomNo": "",
+    "isWalkIn": true,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Curd Bowl",
+        "rate": 38.10,
+        "amount": 76.20
+      },
+      {
+        "name": "Lassi Salted",
+        "rate": 65.81,
+        "amount": 197.43
+      }
+    ],
+    "cgst": 3.43,
+    "sgst": 3.43,
+    "discount": 136.82,
+    "total": 144.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. KULDEEP SHARMA",
+    "date": "10-Jul-26",
+    "billNo": "POS-16625-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Mineral Water",
+        "rate": 28.57,
+        "amount": 28.57
+      }
+    ],
+    "cgst": 0.72,
+    "sgst": 0.72,
+    "discount": 0.00,
+    "total": 30.00
+  },
+  {
+    "type": "food",
+    "guestName": "MR. KULDEEP SHARMA",
+    "date": "10-Jul-26",
+    "billNo": "POS-16620-23/24",
+    "roomNo": "106",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Mineral Water",
+        "rate": 28.57,
+        "amount": 85.71
+      }
+    ],
+    "cgst": 2.15,
+    "sgst": 2.15,
+    "discount": 0.00,
+    "total": 90.00
+  },
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "11-Jul-26",
+    "billNo": "POS-16628-23/24",
+    "roomNo": "",
+    "isWalkIn": false,
+    "isCL": true,
+    "items": [
+      {
+        "name": "Aloo Parantha",
+        "rate": 57.14,
+        "amount": 571.40
+      },
+      {
+        "name": "Milk",
+        "rate": 50.00,
+        "amount": 100.00
+      },
+      {
+        "name": "Tea",
+        "rate": 38.10,
+        "amount": 190.50
+      }
+    ],
+    "cgst": 21.55,
+    "sgst": 21.55,
+    "discount": 0.00,
+    "total": 905.00
+  },
+  {
+    "type": "treebo",
+    "guestName": "Kunal Wadhwa",
+    "date": "2026-07-10",
+    "invoiceNo": "180962826-000402",
+    "gstNo": "",
+    "cgst": 45.22,
+    "sgst": 45.22,
+    "basicAmount": 1808.59,
+    "total": 1899.03
+  },
+  {
+    "type": "treebo",
+    "guestName": "Akhil Kumar",
+    "date": "2026-07-11",
+    "invoiceNo": "180962826-000404",
+    "gstNo": "",
+    "cgst": 80.80,
+    "sgst": 80.80,
+    "basicAmount": 3232.01,
+    "total": 3393.61
+  }
+]
