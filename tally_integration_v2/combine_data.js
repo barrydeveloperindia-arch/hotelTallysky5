@@ -37,9 +37,12 @@ function run() {
             
             // Treebo logic: missing room and payment breakdown
             if (bill.type && bill.type.toLowerCase().includes('treebo')) {
-                // Find in excel by invoice No
-                const invStr = (bill.invoice_no || bill.invoiceNo || bill.bill_no || "").toString().trim();
-                let guestKey = treeboInvoices[invStr];
+                // Treebo invoice numbers are often like "180962826-000382" or "180962826-000402-1"
+                // The daybook only contains "382" or "402".
+                const invStr = String(bill.invoiceNo).trim();
+                const treeboMatch = invStr.match(/-0*(\d+)(?:-1)?$/);
+                const invKey = treeboMatch ? treeboMatch[1] : invStr;
+                let guestKey = treeboInvoices[invStr] || treeboInvoices[invKey];
                 
                 // If not found by invoice, fallback to Guest Name search
                 if (!guestKey) {
@@ -49,7 +52,7 @@ function run() {
                 
                 if (guestKey && guests[guestKey]) {
                     const gData = guests[guestKey];
-                    reconciledBill.room_no = gData.roomNo;
+                    reconciledBill.roomNo = gData.roomNo;
                     reconciledBill.payments = gData.roomPayments;
                 } else {
                     reconciledBill.warning = "Could not find Treebo data in Excel daybook";

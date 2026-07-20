@@ -33,7 +33,14 @@
     "sgst": 42.9,
     "basicAmount": 1716.1,
     "total": 1801.9,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 11,
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 1801
+    }
   },
   {
     "type": "food",
@@ -579,7 +586,14 @@
     "sgst": 42.77,
     "basicAmount": 1710.79,
     "total": 1796.33,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 8,
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 1796
+    }
   },
   {
     "type": "treebo",
@@ -591,7 +605,7 @@
     "sgst": 86.64,
     "basicAmount": 3465.5,
     "total": 3638.78,
-    "room_no": 4,
+    "roomNo": 4,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -1574,7 +1588,14 @@
     "sgst": 50.4,
     "basicAmount": 2015.8,
     "total": 2116.6,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 4,
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 2116
+    }
   },
   {
     "type": "treebo",
@@ -1586,7 +1607,7 @@
     "sgst": 62.31,
     "basicAmount": 2492.29,
     "total": 2616.91,
-    "room_no": 8,
+    "roomNo": 8,
     "payments": {
       "cash": 0,
       "upi": 1308,
@@ -1605,7 +1626,14 @@
     "sgst": 44.66,
     "basicAmount": 1786.35,
     "total": 1875.67,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 2,
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 1875
+    }
   },
   {
     "type": "treebo",
@@ -1617,7 +1645,7 @@
     "sgst": 47.13,
     "basicAmount": 1885.06,
     "total": 1979.32,
-    "room_no": 3,
+    "roomNo": 3,
     "payments": {
       "cash": 0,
       "upi": 990,
@@ -1636,7 +1664,7 @@
     "sgst": 50.93,
     "basicAmount": 2037.08,
     "total": 2138.94,
-    "room_no": 11,
+    "roomNo": 11,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -1655,7 +1683,7 @@
     "sgst": 56.84,
     "basicAmount": 2273.53,
     "total": 2387.21,
-    "room_no": 12,
+    "roomNo": 12,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -1674,7 +1702,14 @@
     "sgst": 69.66,
     "basicAmount": 2786.38,
     "total": 2925.7,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 5,
+    "payments": {
+      "cash": 0,
+      "upi": 1462,
+      "card": 0,
+      "pending": 0,
+      "treebo": 1462
+    }
   },
   {
     "type": "master",
@@ -2562,7 +2597,14 @@
     "sgst": 133.53,
     "basicAmount": 5341.24,
     "total": 5608.3,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 8,
+    "payments": {
+      "cash": 0,
+      "upi": 5608,
+      "card": 0,
+      "pending": 0,
+      "treebo": 0
+    }
   },
   {
     "type": "treebo",
@@ -2574,13 +2616,13 @@
     "sgst": 113.96,
     "basicAmount": 4558.56,
     "total": 4786.48,
-    "room_no": "6/.7",
+    "roomNo": "1/.5",
     "payments": {
       "cash": 0,
       "upi": 0,
-      "card": 2500,
+      "card": 0,
       "pending": 0,
-      "treebo": 2500
+      "treebo": 4786
     }
   },
   {
@@ -2593,7 +2635,7 @@
     "sgst": 45.22,
     "basicAmount": 1808.59,
     "total": 1899.03,
-    "room_no": 4,
+    "roomNo": 4,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -2853,7 +2895,7 @@
     "sgst": 43.04,
     "basicAmount": 1721.65,
     "total": 1807.73,
-    "room_no": 4,
+    "roomNo": 4,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -2872,7 +2914,14 @@
     "sgst": 119.48,
     "basicAmount": 4778.06,
     "total": 5017.02,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": "7./8",
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 5017
+    }
   },
   {
     "type": "treebo",
@@ -2884,7 +2933,7 @@
     "sgst": 45.22,
     "basicAmount": 1808.59,
     "total": 1899.03,
-    "room_no": 4,
+    "roomNo": 4,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -2903,7 +2952,7 @@
     "sgst": 52.85,
     "basicAmount": 2114.44,
     "total": 2220.14,
-    "room_no": 6,
+    "roomNo": 6,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -3375,7 +3424,14 @@
     "sgst": 160.56,
     "basicAmount": 6423.1,
     "total": 6744.22,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 11,
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 6744
+    }
   },
   {
     "type": "treebo",
@@ -3387,7 +3443,7 @@
     "sgst": 45.22,
     "basicAmount": 1808.59,
     "total": 1899.03,
-    "room_no": 4,
+    "roomNo": 4,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -4637,7 +4693,7 @@
     "sgst": 45.22,
     "basicAmount": 1808.59,
     "total": 1899.03,
-    "room_no": 4,
+    "roomNo": 4,
     "payments": {
       "cash": 0,
       "upi": 0,
@@ -4656,6 +4712,13 @@
     "sgst": 80.8,
     "basicAmount": 3232.01,
     "total": 3393.61,
-    "warning": "Could not find Treebo data in Excel daybook"
+    "roomNo": 3,
+    "payments": {
+      "cash": 0,
+      "upi": 8786,
+      "card": 0,
+      "pending": 0,
+      "treebo": 0
+    }
   }
 ]

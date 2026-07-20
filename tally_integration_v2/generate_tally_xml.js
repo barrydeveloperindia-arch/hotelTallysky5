@@ -24,8 +24,26 @@ function formatDateForTally(dateStr) {
     return `${year}${month}${day}`;
 }
 
-function getSalesLedger(hasGst, isEnglabs, isFood = false) {
-    return isFood ? 'Sale 5% Haryana B2C' : 'Room Sales';
+function getSalesLedger(hasGst, isEnglabs, isFood = false, cgst = 0, sgst = 0, basic = 0) {
+    let rate = 12; // default for Master/Treebo
+    if (basic > 0 && (cgst > 0 || sgst > 0)) {
+        const totalTax = cgst + sgst;
+        const calcRate = Math.round((totalTax / basic) * 100);
+        if (calcRate === 5 || calcRate === 12) {
+            rate = calcRate;
+        }
+    }
+    if (isFood) rate = 5;
+
+    if (isFood) {
+        return 'Sale 5% Haryana B2C';
+    } else {
+        if (isEnglabs) {
+            return 'SALES B2B 5% HARYANA';
+        } else {
+            return rate === 12 ? 'SALE 12% Haryana B2C' : 'Sale 5% Haryana B2C';
+        }
+    }
 }
 
 const usedVoucherNumbers = new Set();
@@ -86,7 +104,7 @@ function buildPaymentJournals(sale) {
   }
 
 function buildRoomSaleVoucher(sale) {
-    const salesLedger = getSalesLedger(!!sale.gstNo, (sale.guestName || '').toUpperCase().includes('ENGLABS'), false);
+    const salesLedger = getSalesLedger(!!sale.gstNo, (sale.guestName || '').toUpperCase().includes('ENGLABS'), false, sale.cgst || 0, sale.sgst || 0, sale.basicAmount || 0);
     const total = sale.total || sale.roomRentIncTaxes;
     const basic = sale.basicAmount;
     const billRef = sale.billNo || sale.invoiceNo || 'UNKNOWN';
@@ -141,7 +159,7 @@ function buildRoomSaleVoucher(sale) {
 
 function buildFoodSaleVoucher(sale) {
     const isEnglabs = (sale.guestName || '').toUpperCase().includes('ENGLABS');
-    const salesLedger = getSalesLedger(!!sale.gstNo, isEnglabs, true);
+    const salesLedger = getSalesLedger(!!sale.gstNo, isEnglabs, true, sale.cgst || 0, sale.sgst || 0, sale.basicAmount || 0);
     const guestLedger = sale.guestName || 'Walk-In Customer';
     const roomCostCentre = (sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${sale.roomNo}`;
     const billRef = sale.billNo || sale.invoiceNo || 'UNKNOWN';
@@ -170,6 +188,13 @@ function buildFoodSaleVoucher(sale) {
                     <CATEGORY>Rooms</CATEGORY>
                     <COSTCENTREALLOCATIONS.LIST>
                         <NAME>${escapeXml(roomCostCentre)}</NAME>
+                        <AMOUNT>${item.amount}</AMOUNT>
+                    </COSTCENTREALLOCATIONS.LIST>
+                </CATEGORYALLOCATIONS.LIST>
+                <CATEGORYALLOCATIONS.LIST>
+                    <CATEGORY>Expenses</CATEGORY>
+                    <COSTCENTREALLOCATIONS.LIST>
+                        <NAME>Kitchen Expenses</NAME>
                         <AMOUNT>${item.amount}</AMOUNT>
                     </COSTCENTREALLOCATIONS.LIST>
                 </CATEGORYALLOCATIONS.LIST>
