@@ -15,6 +15,15 @@ function escapeXml(unsafe) {
     });
 }
 
+function formatRoomNo(r) {
+    if (!r) return r;
+    let rStr = r.toString().trim();
+    if (rStr.length <= 2 && !isNaN(rStr) && parseInt(rStr) > 0) {
+        return (parseInt(rStr) + 100).toString();
+    }
+    return rStr;
+}
+
 function formatDateForTally(dateStr) {
     const d = new Date(dateStr);
     if (isNaN(d)) return '';
@@ -158,91 +167,88 @@ function buildRoomSaleVoucher(sale) {
 }
 
 function buildFoodSaleVoucher(sale) {
-    const isEnglabs = (sale.guestName || '').toUpperCase().includes('ENGLABS');
-    const salesLedger = getSalesLedger(!!sale.gstNo, isEnglabs, true, sale.cgst || 0, sale.sgst || 0, sale.basicAmount || 0);
     const guestLedger = sale.guestName || 'Walk-In Customer';
-    const roomCostCentre = (sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${sale.roomNo}`;
+    const roomCostCentre = (sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${formatRoomNo(sale.roomNo)}`;
     const billRef = sale.billNo || sale.invoiceNo || 'UNKNOWN';
     const tDate = formatDateForTally(sale.date);
+    const isEnglabs = (sale.guestName || '').toUpperCase().includes('ENGLABS');
+    const salesLedger = getSalesLedger(!!sale.gstNo, isEnglabs, true, sale.cgst || 0, sale.sgst || 0, sale.basicAmount || 0);
     
-    let itemsXml = '';
     let itemsSum = 0;
+    let inventoryAllocationsXml = '';
     
     for (const item of sale.items) {
         if (item.name.toLowerCase().includes('discount')) continue;
         
         itemsSum += Number(item.amount);
-        itemsXml += `
-        <INVENTORYENTRIES.LIST>
-            <STOCKITEMNAME>${escapeXml(item.name)}</STOCKITEMNAME>
-            <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
-            <RATE>${item.rate}/Nos</RATE>
-            <AMOUNT>${item.amount}</AMOUNT>
-            <ACTUALQTY> 1 Nos</ACTUALQTY>
-            <BILLEDQTY> 1 Nos</BILLEDQTY>
-            <ACCOUNTINGALLOCATIONS.LIST>
-                <LEDGERNAME>${escapeXml(salesLedger)}</LEDGERNAME>
-                <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
-                <AMOUNT>${item.amount}</AMOUNT>
-                <CATEGORYALLOCATIONS.LIST>
-                    <CATEGORY>Rooms</CATEGORY>
-                    <COSTCENTREALLOCATIONS.LIST>
-                        <NAME>${escapeXml(roomCostCentre)}</NAME>
+        inventoryAllocationsXml += `
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>${escapeXml(item.name)}</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>${item.rate}/Nos</RATE>
                         <AMOUNT>${item.amount}</AMOUNT>
-                    </COSTCENTREALLOCATIONS.LIST>
-                </CATEGORYALLOCATIONS.LIST>
-                <CATEGORYALLOCATIONS.LIST>
-                    <CATEGORY>Expenses</CATEGORY>
-                    <COSTCENTREALLOCATIONS.LIST>
-                        <NAME>Kitchen Expenses</NAME>
-                        <AMOUNT>${item.amount}</AMOUNT>
-                    </COSTCENTREALLOCATIONS.LIST>
-                </CATEGORYALLOCATIONS.LIST>
-            </ACCOUNTINGALLOCATIONS.LIST>
-        </INVENTORYENTRIES.LIST>`;
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                    </INVENTORYALLOCATIONS.LIST>`;
     }
     
     const discountItem = sale.items.find(i => i.name.toLowerCase().includes('discount'));
-      let discountXml = '';
-      if (discountItem) {
-          itemsSum -= Math.abs(discountItem.amount);
-          discountXml = `
-                  <ALLLEDGERENTRIES.LIST>
-                      <LEDGERNAME>Discount Allowed</LEDGERNAME>
-                      <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
-                      <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
-                      <CATEGORYALLOCATIONS.LIST>
-                          <CATEGORY>Rooms</CATEGORY>
-                          <COSTCENTREALLOCATIONS.LIST>
-                              <NAME>${escapeXml(roomCostCentre)}</NAME>
-                              <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
-                          </COSTCENTREALLOCATIONS.LIST>
-                      </CATEGORYALLOCATIONS.LIST>
-                  </ALLLEDGERENTRIES.LIST>`;
-      }
+    let discountXml = '';
+    if (discountItem) {
+        itemsSum -= Math.abs(discountItem.amount);
+        discountXml = `
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Discount Allowed</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>${escapeXml(roomCostCentre)}</NAME>
+                            <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                </ALLLEDGERENTRIES.LIST>`;
+    }
 
-      // Calculate Round Off using the calculated itemsSum instead of sale.basicAmount (which is undefined for food)
-      const diff = Math.round((Number(sale.total) - (Number(itemsSum) + Number(sale.sgst || 0) + Number(sale.cgst || 0))) * 100) / 100;
+    const diff = Math.round((Number(sale.total) - (Number(itemsSum) + Number(sale.sgst || 0) + Number(sale.cgst || 0))) * 100) / 100;
     const roundOffXml = Math.abs(diff) > 0.001 ? `
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>Round Off</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>${diff > 0 ? 'No' : 'Yes'}</ISDEEMEDPOSITIVE>
-                    <AMOUNT>${diff.toFixed(2)}</AMOUNT>
+                    <AMOUNT>${diff > 0 ? diff.toFixed(2) : diff.toFixed(2)}</AMOUNT>
                 </ALLLEDGERENTRIES.LIST>` : '';
 
     return `
         <TALLYMESSAGE xmlns:UDF="TallyUDF">
-            <VOUCHER REMOTEID="HotelSky5-Food-${escapeXml(billRef)}" VCHTYPE="Sales" ACTION="Create" OBJVIEW="Invoice Voucher View">
+            <VOUCHER REMOTEID="HotelSky5-Food-${escapeXml(billRef)}" VCHTYPE="Sales" ACTION="Create" OBJVIEW="Accounting Voucher View">
                 <DATE>${tDate}</DATE>
                 <VOUCHERTYPENAME>Sales</VOUCHERTYPENAME>
                 <VOUCHERNUMBER>${getUniqueVoucherNumber(escapeXml(billRef))}</VOUCHERNUMBER>
-                <PARTYLEDGERNAME>${escapeXml(guestLedger)}</PARTYLEDGERNAME>
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>${escapeXml(guestLedger)}</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
                     <AMOUNT>-${sale.total}</AMOUNT>
                 </ALLLEDGERENTRIES.LIST>
-                ${itemsXml}
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>${escapeXml(salesLedger)}</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>${itemsSum}</AMOUNT>
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>${escapeXml(roomCostCentre)}</NAME>
+                            <AMOUNT>${itemsSum}</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Expenses</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Kitchen Expenses</NAME>
+                            <AMOUNT>${itemsSum}</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>${inventoryAllocationsXml}
+                </ALLLEDGERENTRIES.LIST>${discountXml}
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>Output Sgst 2.5%</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
@@ -256,7 +262,6 @@ function buildFoodSaleVoucher(sale) {
             </VOUCHER>
         </TALLYMESSAGE>`;
 }
-
 function buildCLVouchers(sale) {
     const guestLedger = sale.guestName || 'Walk-In Customer';
     const roomCostCentre = (sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${sale.roomNo}`;
