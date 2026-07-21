@@ -1,0 +1,27 @@
+[
+  {
+    "type": "food",
+    "guestName": "MR. AJAY KUMAR",
+    "date": "01-Jul-26",
+    "billNo": "POS-16494-23/24",
+    "roomNo": "117",
+    "isWalkIn": false,
+    "isCL": false,
+    "items": [
+      {
+        "name": "Tea",
+        "rate": 38.1,
+        "amount": 38.1
+      },
+      {
+        "name": "Veg Maggies",
+        "rate": 66.67,
+        "amount": 66.67
+      }
+    ],
+    "cgst": 2.62,
+    "sgst": 2.62,
+    "discount": 0,
+    "total": 110
+  }
+]

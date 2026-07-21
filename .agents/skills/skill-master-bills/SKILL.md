@@ -28,3 +28,11 @@ When parsing Master Bills, you MUST strictly extract ONLY the following fields:
 ### Tests to Run
 - Verify every Master Bill in the folder is successfully extracted into JSON.
 - Verify `Total Room Rent` + `CGST` + `SGST` mathematically equals `Room Rent(Inc Taxes)`.
+
+### Tally XML Generation Rules (Master Bills)
+- In the generated XML (`generate_tally_xml.js`), Master Bills (Room Sales) MUST use an **Accounting Voucher View**.
+- Inside the Sales Ledger's `ALLLEDGERENTRIES.LIST` (e.g., `Sale 5% Haryana B2C` or `SALES B2B 5% HARYANA`), you MUST attach an **Inventory Allocation** (`<INVENTORYALLOCATIONS.LIST>`).
+- **CRITICAL B2B RULE**: If the guest is B2B (has a GSTIN), you MUST strictly use the `SALES B2B 5% HARYANA` ledger instead of the B2C variant.
+- The Stock Item Name for Room Sales MUST strictly be `Room No:-`.
+- **MULTIPLE ROOMS RULE**: The Quantity must ALWAYS be `1 Nos` and the Rate must be the total Basic Amount, regardless of how many rooms were booked.
+- The `CATEGORYALLOCATIONS.LIST` MUST be attached to the Sales Ledger in the same block. For multiple rooms, split the amount equally across the Room Cost Centres (e.g., Room 106, Room 107).

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "master",
+    "guestName": "BHARAT BHUSHAN",
+    "date": "11-Jul-26",
+    "billNo": "12263",
+    "gstNo": "06OVXPS4147G1ZL",
+    "roomNo": "111",
+    "cgst": 40.48,
+    "sgst": 40.48,
+    "roomRentIncTaxes": 1700,
+    "basicAmount": 1619.05
+  }
+]

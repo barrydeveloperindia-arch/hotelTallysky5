@@ -1,0 +1,14 @@
+[
+  {
+    "type": "master",
+    "guestName": "MR. BALWINDER",
+    "date": "02-Jul-26",
+    "billNo": "12194",
+    "gstNo": null,
+    "roomNo": "107",
+    "cgst": 40.48,
+    "sgst": 40.48,
+    "roomRentIncTaxes": 1700,
+    "basicAmount": 1619.05
+  }
+]

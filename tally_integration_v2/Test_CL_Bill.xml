@@ -1,0 +1,91 @@
+<ENVELOPE>
+<HEADER>
+<TALLYREQUEST>Import Data</TALLYREQUEST>
+</HEADER>
+<BODY>
+<IMPORTDATA>
+<REQUESTDESC>
+<REPORTNAME>Vouchers</REPORTNAME>
+<STATICVARIABLES>
+<SVCURRENTCOMPANY>Hotel Sky 5 2026-27</SVCURRENTCOMPANY>
+</STATICVARIABLES>
+</REQUESTDESC>
+<REQUESTDATA>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER REMOTEID="HotelSky5-FOC1-POS-16508-23/24" VCHTYPE="Journal" ACTION="Create" OBJVIEW="Accounting Voucher View">
+                <DATE>20260703</DATE>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <VOUCHERNUMBER>FOC1-POS-16508-23/24</VOUCHERNUMBER>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Walk-In Customer</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-145.7</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>FOC Food Consumption</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>145.7</AMOUNT>
+                    
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Walk-in Guest</NAME>
+                            <AMOUNT>145.7</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Boiled Egg (2 Pc)</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>38.1/Nos</RATE>
+                        <AMOUNT>38.1</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                    </INVENTORYALLOCATIONS.LIST>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Milk</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>50/Nos</RATE>
+                        <AMOUNT>50</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                    </INVENTORYALLOCATIONS.LIST>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Mix Paratha</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>57.6/Nos</RATE>
+                        <AMOUNT>57.6</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                    </INVENTORYALLOCATIONS.LIST>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER REMOTEID="HotelSky5-FOC2-POS-16508-23/24" VCHTYPE="Journal" ACTION="Create" OBJVIEW="Accounting Voucher View">
+                <DATE>20260703</DATE>
+                <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                <VOUCHERNUMBER>FOC2-POS-16508-23/24</VOUCHERNUMBER>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Complementary Food Expense</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-145.7</AMOUNT>
+                    
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Walk-in Guest</NAME>
+                            <AMOUNT>-145.7</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Walk-In Customer</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>145.7</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE></REQUESTDATA>
+</IMPORTDATA>
+</BODY>
+</ENVELOPE>

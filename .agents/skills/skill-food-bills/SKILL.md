@@ -21,10 +21,15 @@ When parsing Food Bills, you MUST strictly extract ONLY the following fields:
   - It generates **Two Journal Vouchers**:
   - Voucher 1: Debit `[Guest Name]`, Credit `FOC Food Consumption`. For the Credit leg, attach Inventory Items, AND for each item, attach the Cost Centre `Expenses` -> `Kitchen Expenses` (Cr).
   - Voucher 2: Debit `Complementary Food Expense` (Cost Centre: `Rooms` -> `Room [X]`), Credit `[Guest Name]`.
-- All standard food sales require Cost Category splitting:
-  - Each item is credited to `Sale 5% Haryana B2C` (or B2B)
-  - If a Room Number is present, split into TWO Cost Centres: `Rooms` -> `Room [X]` AND `Expenses` -> `Kitchen Expenses`.
-  - If NO Room Number is present (Walk-in), split into TWO Cost Centres: `Rooms` -> `Walk-in Guest` AND `Expenses` -> `Kitchen Expenses`.
+- All standard food sales require Cost Category splitting.
+
+### Food Bill Tally XML Structure
+- Food Bills MUST be exported as **Accounting Voucher View** in Tally XML.
+- You MUST NOT use a `Discount Allowed` ledger. 
+- Explicit POS discounts MUST be injected as a **Negative Inventory Item** (`<STOCKITEMNAME>Discount</STOCKITEMNAME>`) with a negative `<AMOUNT>`. The attached Cost Centres will inherit this negative amount (Debit).
+- The `CATEGORYALLOCATIONS.LIST` for `Rooms` and `Expenses` MUST be placed **INSIDE** the `<INVENTORYALLOCATIONS.LIST>` of each food item and discount item, NOT attached directly to the Sales Ledger.
+- Each food item (and discount item) must allocate 100% of its amount to `Rooms` (Room No / Walk-in Guest) and 100% of its amount to `Expenses` (Kitchen Expenses).
+- Any tiny rounding differences MUST flow into the `ROUND OFF` ledger.
 
 ### Tests to Run
 - Verify all Walk-in bills strictly use `Walk-In Customer`.

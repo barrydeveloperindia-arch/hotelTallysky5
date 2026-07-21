@@ -51,7 +51,18 @@ function generateRoomCostCentresXml(categoryName, amount, roomCostCentres, isNeg
     let splitAmt = Math.floor((Math.abs(amount) / count) * 100) / 100;
     let remainder = Math.round((Math.abs(amount) - (splitAmt * count)) * 100) / 100;
     
-    let xml = `\n${generateRoomCostCentresXml('Rooms', sale.basicAmount, roomCostCentres)}`;
+    let xml = `\n                    <CATEGORYALLOCATIONS.LIST>\n                        <CATEGORY>${categoryName}</CATEGORY>`;
+    for (let i = 0; i < count; i++) {
+        let finalAmt = splitAmt;
+        if (i === 0) finalAmt = Math.round((finalAmt + remainder) * 100) / 100;
+        let amtStr = (isNegative ? -finalAmt : finalAmt).toString();
+        xml += `
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>${escapeXml(roomCostCentres[i])}</NAME>
+                            <AMOUNT>${amtStr}</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>`;
+    }
+    xml += `\n                    </CATEGORYALLOCATIONS.LIST>`;
     return xml;
 }
 function formatDateForTally(dateStr) {
@@ -74,11 +85,13 @@ function getSalesLedger(hasGst, isEnglabs, isFood = false, cgst = 0, sgst = 0, b
     }
     if (isFood) rate = 5;
 
+    const isB2B = !!hasGst || !!isEnglabs;
+    
     if (isFood) {
-        return 'Sale 5% Haryana B2C';
+        return isB2B ? 'SALES B2B 5% HARYANA' : 'Sale 5% Haryana B2C';
     } else {
-        if (isEnglabs) {
-            return 'SALES B2B 5% HARYANA';
+        if (isB2B) {
+            return rate === 12 ? 'SALES B2B 12% HARYANA' : 'SALES B2B 5% HARYANA';
         } else {
             return rate === 12 ? 'SALE 12% Haryana B2C' : 'Sale 5% Haryana B2C';
         }
@@ -149,6 +162,13 @@ function buildRoomSaleVoucher(sale) {
     const billRef = sale.billNo || sale.invoiceNo || 'UNKNOWN';
     const tDate = formatDateForTally(sale.date);
     
+    let rcc = [];
+    if (sale.isWalkIn || !sale.roomNo) {
+        rcc = ['Walk-in Guest'];
+    } else {
+        rcc = parseRooms(sale.roomNo);
+    }
+    
     // Calculate Round Off
     const diff = Math.round((Number(total) - (Number(basic) + Number(sale.sgst || 0) + Number(sale.cgst || 0))) * 100) / 100;
     const roundOffXml = Math.abs(diff) > 0.001 ? `
@@ -158,6 +178,10 @@ function buildRoomSaleVoucher(sale) {
                     <AMOUNT>${diff.toFixed(2)}</AMOUNT>
                 </ALLLEDGERENTRIES.LIST>` : '';
 
+    const stateName = (sale.guestName || '').toUpperCase().includes('ENGLABS') ? 'Delhi' : 'Haryana';
+    const gstRegType = !!sale.gstNo ? 'Regular' : 'Unregistered/Consumer';
+    const isB2B = !!sale.gstNo;
+
     return `
         <TALLYMESSAGE xmlns:UDF="TallyUDF">
             <VOUCHER REMOTEID="HotelSky5-Sales-${escapeXml(billRef)}" VCHTYPE="Sales" ACTION="Create" OBJVIEW="Accounting Voucher View">
@@ -165,6 +189,16 @@ function buildRoomSaleVoucher(sale) {
                 <VOUCHERTYPENAME>Sales</VOUCHERTYPENAME>
                 <VOUCHERNUMBER>${getUniqueVoucherNumber(escapeXml(billRef))}</VOUCHERNUMBER>
                 <PARTYLEDGERNAME>${escapeXml(sale.guestName)}</PARTYLEDGERNAME>
+                <PARTYNAME>${escapeXml(sale.guestName)}</PARTYNAME>
+                <BASICBUYERNAME>${escapeXml(sale.guestName)}</BASICBUYERNAME>
+                <STATENAME>${stateName}</STATENAME>
+                <COUNTRYOFRESIDENCE>India</COUNTRYOFRESIDENCE>
+                <GSTREGISTRATIONTYPE>${gstRegType}</GSTREGISTRATIONTYPE>
+                <PLACEOFSUPPLY>${stateName}</PLACEOFSUPPLY>
+                ${isB2B ? `<PARTYGSTIN>${escapeXml(sale.gstNo)}</PARTYGSTIN>` : ''}
+                <CONSIGNEENAME>${escapeXml(sale.guestName)}</CONSIGNEENAME>
+                <CONSIGNEESTATENAME>${stateName}</CONSIGNEESTATENAME>
+                <CONSIGNEECOUNTRYNAME>India</CONSIGNEECOUNTRYNAME>
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>${escapeXml(sale.guestName)}</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
@@ -174,13 +208,14 @@ function buildRoomSaleVoucher(sale) {
                     <LEDGERNAME>${escapeXml(salesLedger)}</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
                     <AMOUNT>${basic}</AMOUNT>
-                    <CATEGORYALLOCATIONS.LIST>
-                        <CATEGORY>Rooms</CATEGORY>
-                        <COSTCENTREALLOCATIONS.LIST>
-                            <NAME>${escapeXml((sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${sale.roomNo}`)}</NAME>
-                            <AMOUNT>${basic}</AMOUNT>
-                        </COSTCENTREALLOCATIONS.LIST>
-                    </CATEGORYALLOCATIONS.LIST>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Room No:-</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>${basic}/Nos</RATE>
+                        <AMOUNT>${basic}</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>${generateRoomCostCentresXml('Rooms', basic, rcc)}
+                    </INVENTORYALLOCATIONS.LIST>
                 </ALLLEDGERENTRIES.LIST>
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>Output Sgst 2.5%</LEDGERNAME>
@@ -220,21 +255,38 @@ function buildFoodSaleVoucher(sale) {
                         <AMOUNT>${item.amount}</AMOUNT>
                         <ACTUALQTY> 1 Nos</ACTUALQTY>
                         <BILLEDQTY> 1 Nos</BILLEDQTY>
+                        ${generateRoomCostCentresXml('Rooms', item.amount, roomCostCentres)}
+                        <CATEGORYALLOCATIONS.LIST>
+                            <CATEGORY>Expenses</CATEGORY>
+                            <COSTCENTREALLOCATIONS.LIST>
+                                <NAME>Kitchen Expenses</NAME>
+                                <AMOUNT>${item.amount}</AMOUNT>
+                            </COSTCENTREALLOCATIONS.LIST>
+                        </CATEGORYALLOCATIONS.LIST>
+                    </INVENTORYALLOCATIONS.LIST>`;
+    }
+
+    if (sale.discount && Number(sale.discount) > 0) {
+        itemsSum -= Number(sale.discount);
+        inventoryAllocationsXml += `
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Discount</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>-${sale.discount}/Nos</RATE>
+                        <AMOUNT>-${sale.discount}</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                        ${generateRoomCostCentresXml('Rooms', sale.discount, roomCostCentres, true)}
+                        <CATEGORYALLOCATIONS.LIST>
+                            <CATEGORY>Expenses</CATEGORY>
+                            <COSTCENTREALLOCATIONS.LIST>
+                                <NAME>Kitchen Expenses</NAME>
+                                <AMOUNT>-${sale.discount}</AMOUNT>
+                            </COSTCENTREALLOCATIONS.LIST>
+                        </CATEGORYALLOCATIONS.LIST>
                     </INVENTORYALLOCATIONS.LIST>`;
     }
     
-    const discountItem = sale.items.find(i => i.name.toLowerCase().includes('discount'));
-    let discountXml = '';
-    if (discountItem) {
-        itemsSum -= Math.abs(discountItem.amount);
-        discountXml = `
-                <ALLLEDGERENTRIES.LIST>
-                    <LEDGERNAME>Discount Allowed</LEDGERNAME>
-                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
-                    <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
-                    ${generateRoomCostCentresXml('Rooms', discountItem.amount, roomCostCentres, true)}
-                </ALLLEDGERENTRIES.LIST>`;
-    }
 
     const diff = Math.round((Number(sale.total) - (Number(itemsSum) + Number(sale.sgst || 0) + Number(sale.cgst || 0))) * 100) / 100;
     const roundOffXml = Math.abs(diff) > 0.001 ? `
@@ -250,6 +302,17 @@ function buildFoodSaleVoucher(sale) {
                 <DATE>${tDate}</DATE>
                 <VOUCHERTYPENAME>Sales</VOUCHERTYPENAME>
                 <VOUCHERNUMBER>${getUniqueVoucherNumber(escapeXml(billRef))}</VOUCHERNUMBER>
+                <PARTYLEDGERNAME>${escapeXml(guestLedger)}</PARTYLEDGERNAME>
+                <PARTYNAME>${escapeXml(guestLedger)}</PARTYNAME>
+                <BASICBUYERNAME>${escapeXml(guestLedger)}</BASICBUYERNAME>
+                <STATENAME>${isEnglabs ? 'Delhi' : 'Haryana'}</STATENAME>
+                <COUNTRYOFRESIDENCE>India</COUNTRYOFRESIDENCE>
+                <GSTREGISTRATIONTYPE>${!!sale.gstNo ? 'Regular' : 'Unregistered/Consumer'}</GSTREGISTRATIONTYPE>
+                <PLACEOFSUPPLY>${isEnglabs ? 'Delhi' : 'Haryana'}</PLACEOFSUPPLY>
+                ${!!sale.gstNo ? `<PARTYGSTIN>${escapeXml(sale.gstNo)}</PARTYGSTIN>` : ''}
+                <CONSIGNEENAME>${escapeXml(guestLedger)}</CONSIGNEENAME>
+                <CONSIGNEESTATENAME>${isEnglabs ? 'Delhi' : 'Haryana'}</CONSIGNEESTATENAME>
+                <CONSIGNEECOUNTRYNAME>India</CONSIGNEECOUNTRYNAME>
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>${escapeXml(guestLedger)}</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
@@ -258,16 +321,9 @@ function buildFoodSaleVoucher(sale) {
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>${escapeXml(salesLedger)}</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
-                    <AMOUNT>${itemsSum}</AMOUNT>
-                    ${generateRoomCostCentresXml('Rooms', itemsSum, roomCostCentres)}
-                    <CATEGORYALLOCATIONS.LIST>
-                        <CATEGORY>Expenses</CATEGORY>
-                        <COSTCENTREALLOCATIONS.LIST>
-                            <NAME>Kitchen Expenses</NAME>
-                            <AMOUNT>${itemsSum}</AMOUNT>
-                        </COSTCENTREALLOCATIONS.LIST>
-                    </CATEGORYALLOCATIONS.LIST>${inventoryAllocationsXml}
-                </ALLLEDGERENTRIES.LIST>${discountXml}
+                    <AMOUNT>${itemsSum.toFixed(2)}</AMOUNT>
+                    ${inventoryAllocationsXml}
+                </ALLLEDGERENTRIES.LIST>
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>Output Sgst 2.5%</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
@@ -338,13 +394,7 @@ function buildCLVouchers(sale) {
                     <LEDGERNAME>Complementary Food Expense</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
                     <AMOUNT>-${basicAmt}</AMOUNT>
-                    <CATEGORYALLOCATIONS.LIST>
-                        <CATEGORY>Rooms</CATEGORY>
-                        <COSTCENTREALLOCATIONS.LIST>
-                            <NAME>${escapeXml(roomCostCentre)}</NAME>
-                            <AMOUNT>-${basicAmt}</AMOUNT>
-                        </COSTCENTREALLOCATIONS.LIST>
-                    </CATEGORYALLOCATIONS.LIST>
+                    ${generateRoomCostCentresXml('Rooms', basicAmt, roomCostCentres, true)}
                 </ALLLEDGERENTRIES.LIST>
                 <ALLLEDGERENTRIES.LIST>
                     <LEDGERNAME>${escapeXml(guestLedger)}</LEDGERNAME>
@@ -371,14 +421,27 @@ function buildNewGuestLedgers(missingGuests, b2bMapping) {
                     <NAME>${escapeXml(guest)}</NAME>
                 </NAME.LIST>
                 <PARENT>Sundry Debtors</PARENT>
-                <ISBILLWISEON>Yes</ISBILLWISEON>
+                <ISBILLWISEON>No</ISBILLWISEON>
                 <AFFECTSSTOCK>No</AFFECTSSTOCK>
                 ${isB2B ? `
-                <PARTYGSTIN>${escapeXml(gstNo)}</PARTYGSTIN>
-                <GSTREGISTRATIONTYPE>Regular</GSTREGISTRATIONTYPE>
-                <STATENAME>${escapeXml(stateName)}</STATENAME>` : `
-                <GSTREGISTRATIONTYPE>Consumer</GSTREGISTRATIONTYPE>
-                <STATENAME>Haryana</STATENAME>`}
+                <LEDGSTREGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <GSTREGISTRATIONTYPE>Regular</GSTREGISTRATIONTYPE>
+                    <PLACEOFSUPPLY>${escapeXml(stateName)}</PLACEOFSUPPLY>
+                    <GSTIN>${escapeXml(gstNo)}</GSTIN>
+                </LEDGSTREGDETAILS.LIST>
+                <PARTYGSTIN>${escapeXml(gstNo)}</PARTYGSTIN>` : `
+                <LEDGSTREGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <GSTREGISTRATIONTYPE>Unregistered/Consumer</GSTREGISTRATIONTYPE>
+                    <PLACEOFSUPPLY>Haryana</PLACEOFSUPPLY>
+                </LEDGSTREGDETAILS.LIST>`}
+                <LEDMAILINGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <MAILINGNAME>${escapeXml(guest)}</MAILINGNAME>
+                    <STATE>${isB2B ? escapeXml(stateName) : 'Haryana'}</STATE>
+                    <COUNTRY>India</COUNTRY>
+                </LEDMAILINGDETAILS.LIST>
             </LEDGER>
         </TALLYMESSAGE>`;
     }

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "food",
+    "guestName": "Walk-In Customer",
+    "date": "03-Jul-26",
+    "billNo": "POS-16508-23/24",
+    "roomNo": null,
+    "isWalkIn": true,
+    "isCL": true,
+    "items": [
+      {
+        "name": "Boiled Egg (2 Pc)",
+        "rate": 38.1,
+        "amount": 38.1
+      },
+      {
+        "name": "Milk",
+        "rate": 50,
+        "amount": 50
+      },
+      {
+        "name": "Mix Paratha",
+        "rate": 57.6,
+        "amount": 57.6
+      }
+    ],
+    "cgst": 3.65,
+    "sgst": 3.65,
+    "discount": 0,
+    "total": 153
+  }
+]

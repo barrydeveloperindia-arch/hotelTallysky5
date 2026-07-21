@@ -1,0 +1,14 @@
+[
+  {
+    "type": "master",
+    "guestName": "MR. AJAY KUMAR",
+    "date": "01-Jul-26",
+    "billNo": "12192",
+    "gstNo": null,
+    "roomNo": "117",
+    "cgst": 38.1,
+    "sgst": 38.1,
+    "roomRentIncTaxes": 1600,
+    "basicAmount": 1523.81
+  }
+]

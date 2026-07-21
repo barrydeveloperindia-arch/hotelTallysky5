@@ -1,0 +1,114 @@
+<ENVELOPE>
+<HEADER>
+<TALLYREQUEST>Import Data</TALLYREQUEST>
+</HEADER>
+<BODY>
+<IMPORTDATA>
+<REQUESTDESC>
+<REPORTNAME>Vouchers</REPORTNAME>
+<STATICVARIABLES>
+<SVCURRENTCOMPANY>Hotel Sky 5 2026-27</SVCURRENTCOMPANY>
+</STATICVARIABLES>
+</REQUESTDESC>
+<REQUESTDATA>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <LEDGER NAME="KULDEEP SHARMA" ACTION="Create">
+                <NAME.LIST>
+                    <NAME>KULDEEP SHARMA</NAME>
+                </NAME.LIST>
+                <PARENT>Sundry Debtors</PARENT>
+                <ISBILLWISEON>No</ISBILLWISEON>
+                <AFFECTSSTOCK>No</AFFECTSSTOCK>
+                
+                <LEDGSTREGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <GSTREGISTRATIONTYPE>Unregistered/Consumer</GSTREGISTRATIONTYPE>
+                    <PLACEOFSUPPLY>Haryana</PLACEOFSUPPLY>
+                </LEDGSTREGDETAILS.LIST>
+                <LEDMAILINGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <MAILINGNAME>KULDEEP SHARMA</MAILINGNAME>
+                    <STATE>Haryana</STATE>
+                    <COUNTRY>India</COUNTRY>
+                </LEDMAILINGDETAILS.LIST>
+            </LEDGER>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER REMOTEID="HotelSky5-Sales-180962826-000390" VCHTYPE="Sales" ACTION="Create" OBJVIEW="Accounting Voucher View">
+                <DATE>20260707</DATE>
+                <VOUCHERTYPENAME>Sales</VOUCHERTYPENAME>
+                <VOUCHERNUMBER>180962826-000390</VOUCHERNUMBER>
+                <PARTYLEDGERNAME>KULDEEP SHARMA</PARTYLEDGERNAME>
+                <PARTYNAME>KULDEEP SHARMA</PARTYNAME>
+                <BASICBUYERNAME>KULDEEP SHARMA</BASICBUYERNAME>
+                <STATENAME>Haryana</STATENAME>
+                <COUNTRYOFRESIDENCE>India</COUNTRYOFRESIDENCE>
+                <GSTREGISTRATIONTYPE>Unregistered/Consumer</GSTREGISTRATIONTYPE>
+                <PLACEOFSUPPLY>Haryana</PLACEOFSUPPLY>
+                
+                <CONSIGNEENAME>KULDEEP SHARMA</CONSIGNEENAME>
+                <CONSIGNEESTATENAME>Haryana</CONSIGNEESTATENAME>
+                <CONSIGNEECOUNTRYNAME>India</CONSIGNEECOUNTRYNAME>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>KULDEEP SHARMA</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-4786.48</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Sale 5% Haryana B2C</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>4558.56</AMOUNT>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Room No:-</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>4558.56/Nos</RATE>
+                        <AMOUNT>4558.56</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Room 101</NAME>
+                            <AMOUNT>2279.28</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Room 105</NAME>
+                            <AMOUNT>2279.28</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                    </INVENTORYALLOCATIONS.LIST>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Output Sgst 2.5%</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>113.96</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Output Cgst 2.5%</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>113.96</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE>
+          <TALLYMESSAGE xmlns:UDF="TallyUDF">
+              <VOUCHER REMOTEID="HotelSky5-PAY-Treebo-Paid-180962826-000390" VCHTYPE="Journal" ACTION="Create" OBJVIEW="Accounting Voucher View">
+                  <DATE>20260707</DATE>
+                  <VOUCHERTYPENAME>Journal</VOUCHERTYPENAME>
+                  <VOUCHERNUMBER>PAY-TreeboPaid-180962826-000390</VOUCHERNUMBER>
+                  <PARTYLEDGERNAME>KULDEEP SHARMA</PARTYLEDGERNAME>
+                  <ALLLEDGERENTRIES.LIST>
+                      <LEDGERNAME>Treebo Paid</LEDGERNAME>
+                      <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                      <AMOUNT>-4786</AMOUNT>
+                  </ALLLEDGERENTRIES.LIST>
+                  <ALLLEDGERENTRIES.LIST>
+                      <LEDGERNAME>KULDEEP SHARMA</LEDGERNAME>
+                      <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                      <AMOUNT>4786</AMOUNT>
+                  </ALLLEDGERENTRIES.LIST>
+              </VOUCHER>
+          </TALLYMESSAGE></REQUESTDATA>
+</IMPORTDATA>
+</BODY>
+</ENVELOPE>

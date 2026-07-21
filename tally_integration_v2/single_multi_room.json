@@ -1,0 +1,21 @@
+[
+  {
+    "type": "treebo",
+    "guestName": "KULDEEP SHARMA",
+    "date": "2026-07-07",
+    "invoiceNo": "180962826-000390",
+    "gstNo": "",
+    "cgst": 113.96,
+    "sgst": 113.96,
+    "basicAmount": 4558.56,
+    "total": 4786.48,
+    "roomNo": "1/.5",
+    "payments": {
+      "cash": 0,
+      "upi": 0,
+      "card": 0,
+      "pending": 0,
+      "treebo": 4786
+    }
+  }
+]

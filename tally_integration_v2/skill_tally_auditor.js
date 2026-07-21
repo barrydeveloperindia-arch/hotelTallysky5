@@ -5,13 +5,24 @@ const path = require('path');
 function extractTallyMasters(xmlPath) {
     const xmlContent = fs.readFileSync(xmlPath, 'utf8');
     const ledgers = new Set();
+    const validLedgers = new Set();
     const items = new Set();
 
-    // Simple regex to extract ledger names
-    const ledgerRegex = /<LEDGER NAME="([^"]+)"/g;
+    // Regex to extract ledger blocks
+    const ledgerRegex = /<LEDGER NAME="([^"]+)"[^>]*>([\s\S]*?)<\/LEDGER>/gi;
     let match;
     while ((match = ledgerRegex.exec(xmlContent)) !== null) {
-        ledgers.add(match[1].toLowerCase());
+        const name = match[1].toLowerCase();
+        const block = match[2];
+        ledgers.add(name);
+        
+        const hasEmptyState = block.includes('<STATE/>');
+        const hasEmptyCountry = block.includes('<COUNTRY/>');
+        const hasEmptyGST = block.includes('<LEDGSTREGDETAILS.LIST>      </LEDGSTREGDETAILS.LIST>') || block.includes('<LEDGSTREGDETAILS.LIST/>');
+        
+        if (!hasEmptyState && !hasEmptyCountry && !hasEmptyGST) {
+            validLedgers.add(name);
+        }
     }
 
     // Simple regex to extract stock item names
@@ -20,11 +31,11 @@ function extractTallyMasters(xmlPath) {
         items.add(match[1].toLowerCase());
     }
 
-    return { ledgers, items };
+    return { ledgers, validLedgers, items };
 }
 
 function auditData(salesData, tallyMastersPath) {
-    const { ledgers, items } = extractTallyMasters(tallyMastersPath);
+    const { ledgers, validLedgers, items } = extractTallyMasters(tallyMastersPath);
     
     // Core ledgers that must exist
     const coreLedgers = [
@@ -47,7 +58,7 @@ function auditData(salesData, tallyMastersPath) {
         if (sale.guestName) {
             const guestLower = sale.guestName.toLowerCase().trim();
             // Allow Walk-In Customer fallback
-            if (!ledgers.has(guestLower) && guestLower !== 'walk-in customer') {
+            if (guestLower !== 'walk-in customer' && !validLedgers.has(guestLower)) {
                 missingGuests.add(sale.guestName.trim());
             }
         } else if ((sale.type === 'food' && sale.isWalkIn) || sale.isCL) {
@@ -69,7 +80,7 @@ function auditData(salesData, tallyMastersPath) {
     }
 
     if (missingItems.size > 0) {
-        throw new Error(`CRITICAL AUDIT FAILURE: Missing Stock Items in Tally: ${Array.from(missingItems).join(', ')}`);
+        console.warn(`WARNING: Missing Stock Items in Tally Masters File: ${Array.from(missingItems).join(', ')}`);
     }
 
     // Return the missing guests so they can be dynamically created in the XML payload

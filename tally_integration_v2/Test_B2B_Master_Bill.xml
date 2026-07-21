@@ -1,0 +1,75 @@
+<ENVELOPE>
+<HEADER>
+<TALLYREQUEST>Import Data</TALLYREQUEST>
+</HEADER>
+<BODY>
+<IMPORTDATA>
+<REQUESTDESC>
+<REPORTNAME>Vouchers</REPORTNAME>
+<STATICVARIABLES>
+<SVCURRENTCOMPANY>Hotel Sky 5 2026-27</SVCURRENTCOMPANY>
+</STATICVARIABLES>
+</REQUESTDESC>
+<REQUESTDATA>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER REMOTEID="HotelSky5-Sales-12263" VCHTYPE="Sales" ACTION="Create" OBJVIEW="Accounting Voucher View">
+                <DATE>20260711</DATE>
+                <VOUCHERTYPENAME>Sales</VOUCHERTYPENAME>
+                <VOUCHERNUMBER>12263</VOUCHERNUMBER>
+                <PARTYLEDGERNAME>BHARAT BHUSHAN</PARTYLEDGERNAME>
+                <PARTYNAME>BHARAT BHUSHAN</PARTYNAME>
+                <BASICBUYERNAME>BHARAT BHUSHAN</BASICBUYERNAME>
+                <STATENAME>Haryana</STATENAME>
+                <COUNTRYOFRESIDENCE>India</COUNTRYOFRESIDENCE>
+                <GSTREGISTRATIONTYPE>Regular</GSTREGISTRATIONTYPE>
+                <PLACEOFSUPPLY>Haryana</PLACEOFSUPPLY>
+                <PARTYGSTIN>06OVXPS4147G1ZL</PARTYGSTIN>
+                <CONSIGNEENAME>BHARAT BHUSHAN</CONSIGNEENAME>
+                <CONSIGNEESTATENAME>Haryana</CONSIGNEESTATENAME>
+                <CONSIGNEECOUNTRYNAME>India</CONSIGNEECOUNTRYNAME>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>BHARAT BHUSHAN</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-1700</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>SALES B2B 5% HARYANA</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>1619.05</AMOUNT>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Room No:-</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>1619.05/Nos</RATE>
+                        <AMOUNT>1619.05</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Room 111</NAME>
+                            <AMOUNT>1619.05</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                    </INVENTORYALLOCATIONS.LIST>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Output Sgst 2.5%</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>40.48</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Output Cgst 2.5%</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>40.48</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Round Off</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-0.01</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE></REQUESTDATA>
+</IMPORTDATA>
+</BODY>
+</ENVELOPE>

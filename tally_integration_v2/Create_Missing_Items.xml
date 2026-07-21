@@ -1,0 +1,367 @@
+<ENVELOPE><HEADER><TALLYREQUEST>Import Data</TALLYREQUEST></HEADER><BODY><IMPORTDATA><REQUESTDESC><REPORTNAME>All Masters</REPORTNAME></REQUESTDESC><REQUESTDATA>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Tea" ACTION="Create">
+                <NAME.LIST><NAME>Tea</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg Maggies" ACTION="Create">
+                <NAME.LIST><NAME>Veg Maggies</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Curd Bowl" ACTION="Create">
+                <NAME.LIST><NAME>Curd Bowl</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Egg Bhurji" ACTION="Create">
+                <NAME.LIST><NAME>Egg Bhurji</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Fresh Lime Soda" ACTION="Create">
+                <NAME.LIST><NAME>Fresh Lime Soda</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg. Pulao" ACTION="Create">
+                <NAME.LIST><NAME>Veg. Pulao</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Aloo Jeera" ACTION="Create">
+                <NAME.LIST><NAME>Aloo Jeera</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Dal Makhani" ACTION="Create">
+                <NAME.LIST><NAME>Dal Makhani</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Lemon Water" ACTION="Create">
+                <NAME.LIST><NAME>Lemon Water</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Tawa Butter Roti" ACTION="Create">
+                <NAME.LIST><NAME>Tawa Butter Roti</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Staff Tea" ACTION="Create">
+                <NAME.LIST><NAME>Staff Tea</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Chicken Curry Full" ACTION="Create">
+                <NAME.LIST><NAME>Chicken Curry Full</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Delux Thali" ACTION="Create">
+                <NAME.LIST><NAME>Delux Thali</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Boiled Egg (2 Pc)" ACTION="Create">
+                <NAME.LIST><NAME>Boiled Egg (2 Pc)</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Milk" ACTION="Create">
+                <NAME.LIST><NAME>Milk</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Mix Paratha" ACTION="Create">
+                <NAME.LIST><NAME>Mix Paratha</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Poha" ACTION="Create">
+                <NAME.LIST><NAME>Poha</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Aloo Parantha" ACTION="Create">
+                <NAME.LIST><NAME>Aloo Parantha</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg Sandwich" ACTION="Create">
+                <NAME.LIST><NAME>Veg Sandwich</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Masala Omelette" ACTION="Create">
+                <NAME.LIST><NAME>Masala Omelette</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Special Thali" ACTION="Create">
+                <NAME.LIST><NAME>Special Thali</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Bread Toast (4pcs)" ACTION="Create">
+                <NAME.LIST><NAME>Bread Toast (4pcs)</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Chicken Biryani+Raita" ACTION="Create">
+                <NAME.LIST><NAME>Chicken Biryani+Raita</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Mineral Water" ACTION="Create">
+                <NAME.LIST><NAME>Mineral Water</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Bread Pakora" ACTION="Create">
+                <NAME.LIST><NAME>Bread Pakora</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Coca Cola 250 Ml" ACTION="Create">
+                <NAME.LIST><NAME>Coca Cola 250 Ml</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Honey Chilly Potato" ACTION="Create">
+                <NAME.LIST><NAME>Honey Chilly Potato</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg. Noodles" ACTION="Create">
+                <NAME.LIST><NAME>Veg. Noodles</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Coffee" ACTION="Create">
+                <NAME.LIST><NAME>Coffee</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg Garlic Noodle" ACTION="Create">
+                <NAME.LIST><NAME>Veg Garlic Noodle</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Egg Curry" ACTION="Create">
+                <NAME.LIST><NAME>Egg Curry</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Tawa Roti" ACTION="Create">
+                <NAME.LIST><NAME>Tawa Roti</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Omelette Plain/bread" ACTION="Create">
+                <NAME.LIST><NAME>Omelette Plain/bread</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Lassi Sweet" ACTION="Create">
+                <NAME.LIST><NAME>Lassi Sweet</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Plain Paratha" ACTION="Create">
+                <NAME.LIST><NAME>Plain Paratha</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Poori Bhaji" ACTION="Create">
+                <NAME.LIST><NAME>Poori Bhaji</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Aloo Gobhi Dry" ACTION="Create">
+                <NAME.LIST><NAME>Aloo Gobhi Dry</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Butter Amul" ACTION="Create">
+                <NAME.LIST><NAME>Butter Amul</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Yellow Dal Tadka/fry" ACTION="Create">
+                <NAME.LIST><NAME>Yellow Dal Tadka/fry</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="French Fries" ACTION="Create">
+                <NAME.LIST><NAME>French Fries</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Kadhai Paneer" ACTION="Create">
+                <NAME.LIST><NAME>Kadhai Paneer</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Dal Khichdi" ACTION="Create">
+                <NAME.LIST><NAME>Dal Khichdi</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Mix Pakora" ACTION="Create">
+                <NAME.LIST><NAME>Mix Pakora</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Gobhi Parantha" ACTION="Create">
+                <NAME.LIST><NAME>Gobhi Parantha</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Green Salad Mix" ACTION="Create">
+                <NAME.LIST><NAME>Green Salad Mix</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Jeera Rice" ACTION="Create">
+                <NAME.LIST><NAME>Jeera Rice</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Paneer Lawabdar" ACTION="Create">
+                <NAME.LIST><NAME>Paneer Lawabdar</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Peanut Masala" ACTION="Create">
+                <NAME.LIST><NAME>Peanut Masala</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Tawa Missi Roti" ACTION="Create">
+                <NAME.LIST><NAME>Tawa Missi Roti</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Paneer Bhurji" ACTION="Create">
+                <NAME.LIST><NAME>Paneer Bhurji</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Manchurian Fried Rice" ACTION="Create">
+                <NAME.LIST><NAME>Manchurian Fried Rice</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Paneer Paratha" ACTION="Create">
+                <NAME.LIST><NAME>Paneer Paratha</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Dal Arhar Tadka" ACTION="Create">
+                <NAME.LIST><NAME>Dal Arhar Tadka</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Chicken Fried Rice" ACTION="Create">
+                <NAME.LIST><NAME>Chicken Fried Rice</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Limca 250 Ml" ACTION="Create">
+                <NAME.LIST><NAME>Limca 250 Ml</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Staff Coffee" ACTION="Create">
+                <NAME.LIST><NAME>Staff Coffee</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Mix Sauce Pasta" ACTION="Create">
+                <NAME.LIST><NAME>Mix Sauce Pasta</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Paneer Fried Rice" ACTION="Create">
+                <NAME.LIST><NAME>Paneer Fried Rice</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg. Manchurian (dry/gravy)" ACTION="Create">
+                <NAME.LIST><NAME>Veg. Manchurian (dry/gravy)</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Veg Biryani" ACTION="Create">
+                <NAME.LIST><NAME>Veg Biryani</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <STOCKITEM NAME="Lassi Salted" ACTION="Create">
+                <NAME.LIST><NAME>Lassi Salted</NAME></NAME.LIST>
+                <BASEUNITS>Nos</BASEUNITS>
+            </STOCKITEM>
+        </TALLYMESSAGE></REQUESTDATA></IMPORTDATA></BODY></ENVELOPE>

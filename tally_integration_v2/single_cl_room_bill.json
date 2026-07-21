@@ -1,0 +1,32 @@
+[
+  {
+    "type": "food",
+    "guestName": "",
+    "date": "09-Jul-26",
+    "billNo": "POS-16596-23/24",
+    "roomNo": "104",
+    "isWalkIn": false,
+    "isCL": true,
+    "items": [
+      {
+        "name": "Bread Toast (4pcs)",
+        "rate": 47.62,
+        "amount": 47.62
+      },
+      {
+        "name": "Poha",
+        "rate": 66.67,
+        "amount": 66.67
+      },
+      {
+        "name": "Tea",
+        "rate": 38.1,
+        "amount": 38.1
+      }
+    ],
+    "cgst": 3.81,
+    "sgst": 3.81,
+    "discount": 0,
+    "total": 160
+  }
+]

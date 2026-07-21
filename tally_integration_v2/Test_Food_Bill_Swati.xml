@@ -1,0 +1,129 @@
+<ENVELOPE>
+<HEADER>
+<TALLYREQUEST>Import Data</TALLYREQUEST>
+</HEADER>
+<BODY>
+<IMPORTDATA>
+<REQUESTDESC>
+<REPORTNAME>Vouchers</REPORTNAME>
+<STATICVARIABLES>
+<SVCURRENTCOMPANY>Hotel Sky 5 2026-27</SVCURRENTCOMPANY>
+</STATICVARIABLES>
+</REQUESTDESC>
+<REQUESTDATA>
+
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <LEDGER NAME="SWATI" ACTION="Create">
+                <NAME.LIST>
+                    <NAME>SWATI</NAME>
+                </NAME.LIST>
+                <PARENT>Sundry Debtors</PARENT>
+                <ISBILLWISEON>No</ISBILLWISEON>
+                <AFFECTSSTOCK>No</AFFECTSSTOCK>
+                
+                <LEDGSTREGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <GSTREGISTRATIONTYPE>Unregistered/Consumer</GSTREGISTRATIONTYPE>
+                    <PLACEOFSUPPLY>Haryana</PLACEOFSUPPLY>
+                </LEDGSTREGDETAILS.LIST>
+                <LEDMAILINGDETAILS.LIST>
+                    <APPLICABLEFROM>20240401</APPLICABLEFROM>
+                    <MAILINGNAME>SWATI</MAILINGNAME>
+                    <STATE>Haryana</STATE>
+                    <COUNTRY>India</COUNTRY>
+                </LEDMAILINGDETAILS.LIST>
+            </LEDGER>
+        </TALLYMESSAGE>
+        <TALLYMESSAGE xmlns:UDF="TallyUDF">
+            <VOUCHER REMOTEID="HotelSky5-Food-POS-16495-23/24" VCHTYPE="Sales" ACTION="Create" OBJVIEW="Accounting Voucher View">
+                <DATE>20260701</DATE>
+                <VOUCHERTYPENAME>Sales</VOUCHERTYPENAME>
+                <VOUCHERNUMBER>POS-16495-23/24</VOUCHERNUMBER>
+                <PARTYLEDGERNAME>SWATI</PARTYLEDGERNAME>
+                <PARTYNAME>SWATI</PARTYNAME>
+                <BASICBUYERNAME>SWATI</BASICBUYERNAME>
+                <STATENAME>Haryana</STATENAME>
+                <COUNTRYOFRESIDENCE>India</COUNTRYOFRESIDENCE>
+                <GSTREGISTRATIONTYPE>Unregistered/Consumer</GSTREGISTRATIONTYPE>
+                <PLACEOFSUPPLY>Haryana</PLACEOFSUPPLY>
+                
+                <CONSIGNEENAME>SWATI</CONSIGNEENAME>
+                <CONSIGNEESTATENAME>Haryana</CONSIGNEESTATENAME>
+                <CONSIGNEECOUNTRYNAME>India</CONSIGNEECOUNTRYNAME>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>SWATI</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-20</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Sale 5% Haryana B2C</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>19.05</AMOUNT>
+                    
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Tea</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>38.1/Nos</RATE>
+                        <AMOUNT>38.1</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                        
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Walk-in Guest</NAME>
+                            <AMOUNT>38.1</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                        <CATEGORYALLOCATIONS.LIST>
+                            <CATEGORY>Expenses</CATEGORY>
+                            <COSTCENTREALLOCATIONS.LIST>
+                                <NAME>Kitchen Expenses</NAME>
+                                <AMOUNT>38.1</AMOUNT>
+                            </COSTCENTREALLOCATIONS.LIST>
+                        </CATEGORYALLOCATIONS.LIST>
+                    </INVENTORYALLOCATIONS.LIST>
+                    <INVENTORYALLOCATIONS.LIST>
+                        <STOCKITEMNAME>Discount</STOCKITEMNAME>
+                        <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                        <RATE>-19.05/Nos</RATE>
+                        <AMOUNT>-19.05</AMOUNT>
+                        <ACTUALQTY> 1 Nos</ACTUALQTY>
+                        <BILLEDQTY> 1 Nos</BILLEDQTY>
+                        
+                    <CATEGORYALLOCATIONS.LIST>
+                        <CATEGORY>Rooms</CATEGORY>
+                        <COSTCENTREALLOCATIONS.LIST>
+                            <NAME>Walk-in Guest</NAME>
+                            <AMOUNT>-19.05</AMOUNT>
+                        </COSTCENTREALLOCATIONS.LIST>
+                    </CATEGORYALLOCATIONS.LIST>
+                        <CATEGORYALLOCATIONS.LIST>
+                            <CATEGORY>Expenses</CATEGORY>
+                            <COSTCENTREALLOCATIONS.LIST>
+                                <NAME>Kitchen Expenses</NAME>
+                                <AMOUNT>-19.05</AMOUNT>
+                            </COSTCENTREALLOCATIONS.LIST>
+                        </CATEGORYALLOCATIONS.LIST>
+                    </INVENTORYALLOCATIONS.LIST>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Output Sgst 2.5%</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>0.48</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Output Cgst 2.5%</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+                    <AMOUNT>0.48</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+                <ALLLEDGERENTRIES.LIST>
+                    <LEDGERNAME>Round Off</LEDGERNAME>
+                    <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+                    <AMOUNT>-0.01</AMOUNT>
+                </ALLLEDGERENTRIES.LIST>
+            </VOUCHER>
+        </TALLYMESSAGE></REQUESTDATA>
+</IMPORTDATA>
+</BODY>
+</ENVELOPE>
