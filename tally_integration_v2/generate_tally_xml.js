@@ -15,15 +15,45 @@ function escapeXml(unsafe) {
     });
 }
 
-function formatRoomNo(r) {
-    if (!r) return r;
-    let rStr = r.toString().trim();
-    if (rStr.length <= 2 && !isNaN(rStr) && parseInt(rStr) > 0) {
-        return (parseInt(rStr) + 100).toString();
+
+function parseRooms(r) {
+    if (!r) return [];
+    let rStr = r.toString().trim().toUpperCase();
+    if (!rStr) return [];
+    
+    // Ignore non-room entries
+    if (rStr.includes('MD SIR') || rStr.includes('A&A') || rStr.includes('SHREEYA') || rStr.includes('ENGLABS') || rStr.includes('S& A')) {
+        return [];
     }
-    return rStr;
+    
+    let cleaned = rStr.replace(/CL/g, '').trim();
+    let parts = cleaned.split(/[^0-9]+/);
+    
+    let rooms = [];
+    for (let part of parts) {
+        if (!part) continue;
+        let p = part;
+        if (p === '1061') p = '106'; 
+        
+        if (p.length <= 2 && parseInt(p) > 0) {
+            p = (parseInt(p) + 100).toString();
+        }
+        
+        if (p) rooms.push(`Room ${p}`);
+    }
+    
+    return rooms;
 }
 
+function generateRoomCostCentresXml(categoryName, amount, roomCostCentres, isNegative = false) {
+    if (!roomCostCentres || roomCostCentres.length === 0) roomCostCentres = ['Walk-in Guest'];
+    let count = roomCostCentres.length;
+    let splitAmt = Math.floor((Math.abs(amount) / count) * 100) / 100;
+    let remainder = Math.round((Math.abs(amount) - (splitAmt * count)) * 100) / 100;
+    
+    let xml = `\n${generateRoomCostCentresXml('Rooms', sale.basicAmount, roomCostCentres)}`;
+    return xml;
+}
 function formatDateForTally(dateStr) {
     const d = new Date(dateStr);
     if (isNaN(d)) return '';
@@ -168,7 +198,8 @@ function buildRoomSaleVoucher(sale) {
 
 function buildFoodSaleVoucher(sale) {
     const guestLedger = sale.guestName || 'Walk-In Customer';
-    const roomCostCentre = (sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${formatRoomNo(sale.roomNo)}`;
+    let roomCostCentres = (sale.isWalkIn || !sale.roomNo) ? ['Walk-in Guest'] : parseRooms(sale.roomNo);
+    if (roomCostCentres.length === 0) roomCostCentres = ['Walk-in Guest'];
     const billRef = sale.billNo || sale.invoiceNo || 'UNKNOWN';
     const tDate = formatDateForTally(sale.date);
     const isEnglabs = (sale.guestName || '').toUpperCase().includes('ENGLABS');
@@ -201,13 +232,7 @@ function buildFoodSaleVoucher(sale) {
                     <LEDGERNAME>Discount Allowed</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
                     <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
-                    <CATEGORYALLOCATIONS.LIST>
-                        <CATEGORY>Rooms</CATEGORY>
-                        <COSTCENTREALLOCATIONS.LIST>
-                            <NAME>${escapeXml(roomCostCentre)}</NAME>
-                            <AMOUNT>-${Math.abs(discountItem.amount)}</AMOUNT>
-                        </COSTCENTREALLOCATIONS.LIST>
-                    </CATEGORYALLOCATIONS.LIST>
+                    ${generateRoomCostCentresXml('Rooms', discountItem.amount, roomCostCentres, true)}
                 </ALLLEDGERENTRIES.LIST>`;
     }
 
@@ -234,13 +259,7 @@ function buildFoodSaleVoucher(sale) {
                     <LEDGERNAME>${escapeXml(salesLedger)}</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
                     <AMOUNT>${itemsSum}</AMOUNT>
-                    <CATEGORYALLOCATIONS.LIST>
-                        <CATEGORY>Rooms</CATEGORY>
-                        <COSTCENTREALLOCATIONS.LIST>
-                            <NAME>${escapeXml(roomCostCentre)}</NAME>
-                            <AMOUNT>${itemsSum}</AMOUNT>
-                        </COSTCENTREALLOCATIONS.LIST>
-                    </CATEGORYALLOCATIONS.LIST>
+                    ${generateRoomCostCentresXml('Rooms', itemsSum, roomCostCentres)}
                     <CATEGORYALLOCATIONS.LIST>
                         <CATEGORY>Expenses</CATEGORY>
                         <COSTCENTREALLOCATIONS.LIST>
@@ -264,7 +283,8 @@ function buildFoodSaleVoucher(sale) {
 }
 function buildCLVouchers(sale) {
     const guestLedger = sale.guestName || 'Walk-In Customer';
-    const roomCostCentre = (sale.isWalkIn || !sale.roomNo) ? 'Walk-in Guest' : `Room ${sale.roomNo}`;
+    let roomCostCentres = (sale.isWalkIn || !sale.roomNo) ? ['Walk-in Guest'] : parseRooms(sale.roomNo);
+    if (roomCostCentres.length === 0) roomCostCentres = ['Walk-in Guest'];
     const billRef = sale.billNo || sale.invoiceNo || 'UNKNOWN';
     const tDate = formatDateForTally(sale.date);
     
@@ -303,13 +323,7 @@ function buildCLVouchers(sale) {
                     <LEDGERNAME>FOC Food Consumption</LEDGERNAME>
                     <ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
                     <AMOUNT>${basicAmt}</AMOUNT>
-                    <CATEGORYALLOCATIONS.LIST>
-                        <CATEGORY>Rooms</CATEGORY>
-                        <COSTCENTREALLOCATIONS.LIST>
-                            <NAME>${escapeXml(roomCostCentre)}</NAME>
-                            <AMOUNT>${basicAmt}</AMOUNT>
-                        </COSTCENTREALLOCATIONS.LIST>
-                    </CATEGORYALLOCATIONS.LIST>${inventoryAllocationsXml}
+                    ${generateRoomCostCentresXml('Rooms', basicAmt, roomCostCentres)}${inventoryAllocationsXml}
                 </ALLLEDGERENTRIES.LIST>
             </VOUCHER>
         </TALLYMESSAGE>`;
